@@ -1,0 +1,27 @@
+Downloading cpython-3.12.13-windows-x86_64-none (download) (20.9MiB)
+ Downloaded cpython-3.12.13-windows-x86_64-none (download)
+Downloading networkx (2.0MiB)
+Downloading pillow (6.9MiB)
+Downloading numpy (12.0MiB)
+Downloading sympy (6.0MiB)
+Downloading transformers (11.4MiB)
+Downloading scikit-learn (7.9MiB)
+Downloading scipy (35.0MiB)
+Downloading tokenizers (2.6MiB)
+Downloading torch (120.9MiB)
+ Downloaded tokenizers
+ Downloaded networkx
+ Downloaded pillow
+ Downloaded scikit-learn
+ Downloaded sympy
+ Downloaded numpy
+ Downloaded transformers
+ Downloaded scipy
+ Downloaded torch
+Installed 33 packages in 11.79s
+C:\Users\micro\AppData\Local\uv\cache\archive-v0\PCEAGAU2al1V4QRC\Lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\micro\.cache\huggingface\hub\models--BAAI--bge-large-en-v1.5. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+warmup ok 1024
+exit=0

@@ -1,0 +1,29 @@
+{
+ "frozen_at": "2026-11-13T17:45:34+09:00",
+ "test_rubric": "novelty_abs_v2c",
+ "files": {
+  "rubric": "D:/VSCode/Agentic Persona/experiments/pilot_v1/novelty_v3/prompts/novelty_abs_v2c.txt",
+  "formats": "D:/VSCode/Agentic Persona/experiments/pilot_v1/novelty_v3/prompts/familiar_formats.txt",
+  "pair_prompt": "D:/VSCode/Agentic Persona/experiments/pilot_v1/novelty_v3/prompts/novelty_pair_v1.txt",
+  "old_judge_prompt": "D:/VSCode/Agentic Persona/experiments/pilot_v1/prompts/judge_prompt.txt",
+  "judge_system": "D:/VSCode/Agentic Persona/experiments/pilot_v1/prompts/judge_system_prompt.txt",
+  "plan": "D:/VSCode/Agentic Persona/experiments/pilot_v1/novelty_v3/ANALYSIS_PLAN_v3.md",
+  "config": "D:/VSCode/Agentic Persona/experiments/pilot_v1/novelty_v3/study_config.json",
+  "sample": "D:/VSCode/Agentic Persona/experiments/pilot_v1/novelty_v3/../novelty_v2/logs/sample.json",
+  "human_abs": "D:/VSCode/Agentic Persona/human_rating_blind_novelty/novelty_absolute_rated.csv",
+  "human_pairs": "D:/VSCode/Agentic Persona/human_rating_blind_novelty/novelty_pairs_rated.csv"
+ },
+ "sha256": {
+  "rubric": "b8c483e302f403f789c51ed439faaa5579e108cdcc4d1fddfc0a924e90871a32",
+  "formats": "a5d321429d0f8fd235b8ee2e842f7b4bdf32a9dfe6543a3966430328a39b72fa",
+  "pair_prompt": "c437927cabe321fc4b26961f73c2224151095f7b02dece65a73b45ece0f63540",
+  "old_judge_prompt": "dac484f6ac442208c08e5624a8154785acb8478eee179cb990b291b01f5ee429",
+  "judge_system": "18d72c1d344d44be28a59fbfd1c2eeceee6c2c96c0ee91b56e3f48bbc44505f1",
+  "plan": "a509d09eed842b80f30b6242b71d9ffce9ff0d805373a64fcff54fb1acb7e4fd",
+  "config": "014c04f13c58d3a283dcf1cccaf490e7b1fd361f8d76780abcf625dca584f3ec",
+  "sample": "170fc75056a98e22faf8dc04d16d291051e1d6d45defb6df370ef248a57586e2",
+  "human_abs": "0f5b5ba6e4c004cf1069ddafd03c36e054e2696188466c33b40048b996b41884",
+  "human_pairs": "59a7837239f4c2cea12fb26dece0cac4a557ce05c3500c5a1021de2f2f94b271"
+ },
+ "note": "OpenAI TEST calls and the human-agreement analysis on human TEST rows were run only after this record."
+}

@@ -1,0 +1,2544 @@
+{
+ "created": "2026-11-12T12:11:14+09:00",
+ "seed": 20261114,
+ "method": "Per brand x condition cell (6 ideas), shuffle with random.Random(seed): first 1 -> DEV, next 2 -> TEST, rest unused. TEST pairs: per brand, conditions randomly ordered, then all 55 condition pairs once (regular tournament: each condition is A in 5 and B in 5); each TEST idea plays 5 matches with A/B split 3/2 or 2/3. Reversed (B,A) and same-order repeat subsets sampled per brand. DEV pairs: random subset of a separately ordered round robin, one DEV idea per condition.",
+ "dev": {
+  "IKEA|BASE": [
+   "IKEA|BASE|4"
+  ],
+  "IKEA|O_H": [
+   "IKEA|O_H|2"
+  ],
+  "IKEA|O_L": [
+   "IKEA|O_L|3"
+  ],
+  "IKEA|C_H": [
+   "IKEA|C_H|4"
+  ],
+  "IKEA|C_L": [
+   "IKEA|C_L|2"
+  ],
+  "IKEA|E_H": [
+   "IKEA|E_H|1"
+  ],
+  "IKEA|E_L": [
+   "IKEA|E_L|3"
+  ],
+  "IKEA|A_H": [
+   "IKEA|A_H|4"
+  ],
+  "IKEA|A_L": [
+   "IKEA|A_L|2"
+  ],
+  "IKEA|N_H": [
+   "IKEA|N_H|0"
+  ],
+  "IKEA|N_L": [
+   "IKEA|N_L|0"
+  ],
+  "Klarna|BASE": [
+   "Klarna|BASE|3"
+  ],
+  "Klarna|O_H": [
+   "Klarna|O_H|0"
+  ],
+  "Klarna|O_L": [
+   "Klarna|O_L|0"
+  ],
+  "Klarna|C_H": [
+   "Klarna|C_H|0"
+  ],
+  "Klarna|C_L": [
+   "Klarna|C_L|4"
+  ],
+  "Klarna|E_H": [
+   "Klarna|E_H|4"
+  ],
+  "Klarna|E_L": [
+   "Klarna|E_L|2"
+  ],
+  "Klarna|A_H": [
+   "Klarna|A_H|2"
+  ],
+  "Klarna|A_L": [
+   "Klarna|A_L|0"
+  ],
+  "Klarna|N_H": [
+   "Klarna|N_H|1"
+  ],
+  "Klarna|N_L": [
+   "Klarna|N_L|5"
+  ],
+  "Roblox|BASE": [
+   "Roblox|BASE|1"
+  ],
+  "Roblox|O_H": [
+   "Roblox|O_H|5"
+  ],
+  "Roblox|O_L": [
+   "Roblox|O_L|0"
+  ],
+  "Roblox|C_H": [
+   "Roblox|C_H|2"
+  ],
+  "Roblox|C_L": [
+   "Roblox|C_L|5"
+  ],
+  "Roblox|E_H": [
+   "Roblox|E_H|4"
+  ],
+  "Roblox|E_L": [
+   "Roblox|E_L|0"
+  ],
+  "Roblox|A_H": [
+   "Roblox|A_H|4"
+  ],
+  "Roblox|A_L": [
+   "Roblox|A_L|1"
+  ],
+  "Roblox|N_H": [
+   "Roblox|N_H|3"
+  ],
+  "Roblox|N_L": [
+   "Roblox|N_L|5"
+  ],
+  "Slack|BASE": [
+   "Slack|BASE|5"
+  ],
+  "Slack|O_H": [
+   "Slack|O_H|5"
+  ],
+  "Slack|O_L": [
+   "Slack|O_L|3"
+  ],
+  "Slack|C_H": [
+   "Slack|C_H|1"
+  ],
+  "Slack|C_L": [
+   "Slack|C_L|0"
+  ],
+  "Slack|E_H": [
+   "Slack|E_H|5"
+  ],
+  "Slack|E_L": [
+   "Slack|E_L|5"
+  ],
+  "Slack|A_H": [
+   "Slack|A_H|1"
+  ],
+  "Slack|A_L": [
+   "Slack|A_L|0"
+  ],
+  "Slack|N_H": [
+   "Slack|N_H|1"
+  ],
+  "Slack|N_L": [
+   "Slack|N_L|2"
+  ],
+  "Unesco|BASE": [
+   "Unesco|BASE|5"
+  ],
+  "Unesco|O_H": [
+   "Unesco|O_H|2"
+  ],
+  "Unesco|O_L": [
+   "Unesco|O_L|3"
+  ],
+  "Unesco|C_H": [
+   "Unesco|C_H|5"
+  ],
+  "Unesco|C_L": [
+   "Unesco|C_L|4"
+  ],
+  "Unesco|E_H": [
+   "Unesco|E_H|4"
+  ],
+  "Unesco|E_L": [
+   "Unesco|E_L|0"
+  ],
+  "Unesco|A_H": [
+   "Unesco|A_H|4"
+  ],
+  "Unesco|A_L": [
+   "Unesco|A_L|2"
+  ],
+  "Unesco|N_H": [
+   "Unesco|N_H|5"
+  ],
+  "Unesco|N_L": [
+   "Unesco|N_L|5"
+  ]
+ },
+ "test": {
+  "IKEA|BASE": [
+   "IKEA|BASE|5",
+   "IKEA|BASE|2"
+  ],
+  "IKEA|O_H": [
+   "IKEA|O_H|1",
+   "IKEA|O_H|4"
+  ],
+  "IKEA|O_L": [
+   "IKEA|O_L|2",
+   "IKEA|O_L|4"
+  ],
+  "IKEA|C_H": [
+   "IKEA|C_H|5",
+   "IKEA|C_H|0"
+  ],
+  "IKEA|C_L": [
+   "IKEA|C_L|0",
+   "IKEA|C_L|3"
+  ],
+  "IKEA|E_H": [
+   "IKEA|E_H|0",
+   "IKEA|E_H|4"
+  ],
+  "IKEA|E_L": [
+   "IKEA|E_L|4",
+   "IKEA|E_L|0"
+  ],
+  "IKEA|A_H": [
+   "IKEA|A_H|0",
+   "IKEA|A_H|2"
+  ],
+  "IKEA|A_L": [
+   "IKEA|A_L|3",
+   "IKEA|A_L|4"
+  ],
+  "IKEA|N_H": [
+   "IKEA|N_H|4",
+   "IKEA|N_H|3"
+  ],
+  "IKEA|N_L": [
+   "IKEA|N_L|4",
+   "IKEA|N_L|2"
+  ],
+  "Klarna|BASE": [
+   "Klarna|BASE|2",
+   "Klarna|BASE|0"
+  ],
+  "Klarna|O_H": [
+   "Klarna|O_H|2",
+   "Klarna|O_H|1"
+  ],
+  "Klarna|O_L": [
+   "Klarna|O_L|5",
+   "Klarna|O_L|3"
+  ],
+  "Klarna|C_H": [
+   "Klarna|C_H|5",
+   "Klarna|C_H|3"
+  ],
+  "Klarna|C_L": [
+   "Klarna|C_L|5",
+   "Klarna|C_L|0"
+  ],
+  "Klarna|E_H": [
+   "Klarna|E_H|0",
+   "Klarna|E_H|5"
+  ],
+  "Klarna|E_L": [
+   "Klarna|E_L|0",
+   "Klarna|E_L|1"
+  ],
+  "Klarna|A_H": [
+   "Klarna|A_H|4",
+   "Klarna|A_H|1"
+  ],
+  "Klarna|A_L": [
+   "Klarna|A_L|4",
+   "Klarna|A_L|2"
+  ],
+  "Klarna|N_H": [
+   "Klarna|N_H|3",
+   "Klarna|N_H|0"
+  ],
+  "Klarna|N_L": [
+   "Klarna|N_L|4",
+   "Klarna|N_L|2"
+  ],
+  "Roblox|BASE": [
+   "Roblox|BASE|5",
+   "Roblox|BASE|2"
+  ],
+  "Roblox|O_H": [
+   "Roblox|O_H|0",
+   "Roblox|O_H|2"
+  ],
+  "Roblox|O_L": [
+   "Roblox|O_L|1",
+   "Roblox|O_L|3"
+  ],
+  "Roblox|C_H": [
+   "Roblox|C_H|1",
+   "Roblox|C_H|5"
+  ],
+  "Roblox|C_L": [
+   "Roblox|C_L|4",
+   "Roblox|C_L|1"
+  ],
+  "Roblox|E_H": [
+   "Roblox|E_H|3",
+   "Roblox|E_H|5"
+  ],
+  "Roblox|E_L": [
+   "Roblox|E_L|1",
+   "Roblox|E_L|4"
+  ],
+  "Roblox|A_H": [
+   "Roblox|A_H|3",
+   "Roblox|A_H|1"
+  ],
+  "Roblox|A_L": [
+   "Roblox|A_L|0",
+   "Roblox|A_L|3"
+  ],
+  "Roblox|N_H": [
+   "Roblox|N_H|1",
+   "Roblox|N_H|4"
+  ],
+  "Roblox|N_L": [
+   "Roblox|N_L|3",
+   "Roblox|N_L|0"
+  ],
+  "Slack|BASE": [
+   "Slack|BASE|3",
+   "Slack|BASE|0"
+  ],
+  "Slack|O_H": [
+   "Slack|O_H|1",
+   "Slack|O_H|2"
+  ],
+  "Slack|O_L": [
+   "Slack|O_L|4",
+   "Slack|O_L|5"
+  ],
+  "Slack|C_H": [
+   "Slack|C_H|2",
+   "Slack|C_H|5"
+  ],
+  "Slack|C_L": [
+   "Slack|C_L|4",
+   "Slack|C_L|1"
+  ],
+  "Slack|E_H": [
+   "Slack|E_H|0",
+   "Slack|E_H|1"
+  ],
+  "Slack|E_L": [
+   "Slack|E_L|0",
+   "Slack|E_L|1"
+  ],
+  "Slack|A_H": [
+   "Slack|A_H|2",
+   "Slack|A_H|0"
+  ],
+  "Slack|A_L": [
+   "Slack|A_L|2",
+   "Slack|A_L|3"
+  ],
+  "Slack|N_H": [
+   "Slack|N_H|3",
+   "Slack|N_H|2"
+  ],
+  "Slack|N_L": [
+   "Slack|N_L|4",
+   "Slack|N_L|0"
+  ],
+  "Unesco|BASE": [
+   "Unesco|BASE|3",
+   "Unesco|BASE|4"
+  ],
+  "Unesco|O_H": [
+   "Unesco|O_H|1",
+   "Unesco|O_H|4"
+  ],
+  "Unesco|O_L": [
+   "Unesco|O_L|5",
+   "Unesco|O_L|1"
+  ],
+  "Unesco|C_H": [
+   "Unesco|C_H|2",
+   "Unesco|C_H|1"
+  ],
+  "Unesco|C_L": [
+   "Unesco|C_L|1",
+   "Unesco|C_L|2"
+  ],
+  "Unesco|E_H": [
+   "Unesco|E_H|5",
+   "Unesco|E_H|1"
+  ],
+  "Unesco|E_L": [
+   "Unesco|E_L|1",
+   "Unesco|E_L|5"
+  ],
+  "Unesco|A_H": [
+   "Unesco|A_H|3",
+   "Unesco|A_H|0"
+  ],
+  "Unesco|A_L": [
+   "Unesco|A_L|3",
+   "Unesco|A_L|1"
+  ],
+  "Unesco|N_H": [
+   "Unesco|N_H|2",
+   "Unesco|N_H|0"
+  ],
+  "Unesco|N_L": [
+   "Unesco|N_L|1",
+   "Unesco|N_L|4"
+  ]
+ },
+ "test_pairs": [
+  {
+   "pair_id": "TIKE00",
+   "brand": "IKEA",
+   "A": "IKEA|O_L|4",
+   "B": "IKEA|A_H|2"
+  },
+  {
+   "pair_id": "TIKE01",
+   "brand": "IKEA",
+   "A": "IKEA|O_L|2",
+   "B": "IKEA|C_H|0"
+  },
+  {
+   "pair_id": "TIKE02",
+   "brand": "IKEA",
+   "A": "IKEA|O_L|2",
+   "B": "IKEA|O_H|4"
+  },
+  {
+   "pair_id": "TIKE03",
+   "brand": "IKEA",
+   "A": "IKEA|O_L|2",
+   "B": "IKEA|E_H|0"
+  },
+  {
+   "pair_id": "TIKE04",
+   "brand": "IKEA",
+   "A": "IKEA|O_L|4",
+   "B": "IKEA|BASE|5"
+  },
+  {
+   "pair_id": "TIKE05",
+   "brand": "IKEA",
+   "A": "IKEA|N_H|3",
+   "B": "IKEA|O_L|4"
+  },
+  {
+   "pair_id": "TIKE06",
+   "brand": "IKEA",
+   "A": "IKEA|C_L|3",
+   "B": "IKEA|O_L|2"
+  },
+  {
+   "pair_id": "TIKE07",
+   "brand": "IKEA",
+   "A": "IKEA|E_L|4",
+   "B": "IKEA|O_L|4"
+  },
+  {
+   "pair_id": "TIKE08",
+   "brand": "IKEA",
+   "A": "IKEA|N_L|4",
+   "B": "IKEA|O_L|4"
+  },
+  {
+   "pair_id": "TIKE09",
+   "brand": "IKEA",
+   "A": "IKEA|A_L|3",
+   "B": "IKEA|O_L|2"
+  },
+  {
+   "pair_id": "TIKE10",
+   "brand": "IKEA",
+   "A": "IKEA|A_H|0",
+   "B": "IKEA|C_H|0"
+  },
+  {
+   "pair_id": "TIKE11",
+   "brand": "IKEA",
+   "A": "IKEA|A_H|2",
+   "B": "IKEA|O_H|1"
+  },
+  {
+   "pair_id": "TIKE12",
+   "brand": "IKEA",
+   "A": "IKEA|A_H|0",
+   "B": "IKEA|E_H|0"
+  },
+  {
+   "pair_id": "TIKE13",
+   "brand": "IKEA",
+   "A": "IKEA|A_H|2",
+   "B": "IKEA|BASE|2"
+  },
+  {
+   "pair_id": "TIKE14",
+   "brand": "IKEA",
+   "A": "IKEA|A_H|0",
+   "B": "IKEA|N_H|3"
+  },
+  {
+   "pair_id": "TIKE15",
+   "brand": "IKEA",
+   "A": "IKEA|C_L|0",
+   "B": "IKEA|A_H|0"
+  },
+  {
+   "pair_id": "TIKE16",
+   "brand": "IKEA",
+   "A": "IKEA|E_L|4",
+   "B": "IKEA|A_H|0"
+  },
+  {
+   "pair_id": "TIKE17",
+   "brand": "IKEA",
+   "A": "IKEA|N_L|2",
+   "B": "IKEA|A_H|2"
+  },
+  {
+   "pair_id": "TIKE18",
+   "brand": "IKEA",
+   "A": "IKEA|A_L|3",
+   "B": "IKEA|A_H|2"
+  },
+  {
+   "pair_id": "TIKE19",
+   "brand": "IKEA",
+   "A": "IKEA|C_H|0",
+   "B": "IKEA|O_H|1"
+  },
+  {
+   "pair_id": "TIKE20",
+   "brand": "IKEA",
+   "A": "IKEA|C_H|0",
+   "B": "IKEA|E_H|0"
+  },
+  {
+   "pair_id": "TIKE21",
+   "brand": "IKEA",
+   "A": "IKEA|C_H|5",
+   "B": "IKEA|BASE|2"
+  },
+  {
+   "pair_id": "TIKE22",
+   "brand": "IKEA",
+   "A": "IKEA|C_H|5",
+   "B": "IKEA|N_H|3"
+  },
+  {
+   "pair_id": "TIKE23",
+   "brand": "IKEA",
+   "A": "IKEA|C_H|5",
+   "B": "IKEA|C_L|3"
+  },
+  {
+   "pair_id": "TIKE24",
+   "brand": "IKEA",
+   "A": "IKEA|E_L|4",
+   "B": "IKEA|C_H|5"
+  },
+  {
+   "pair_id": "TIKE25",
+   "brand": "IKEA",
+   "A": "IKEA|N_L|2",
+   "B": "IKEA|C_H|5"
+  },
+  {
+   "pair_id": "TIKE26",
+   "brand": "IKEA",
+   "A": "IKEA|A_L|4",
+   "B": "IKEA|C_H|0"
+  },
+  {
+   "pair_id": "TIKE27",
+   "brand": "IKEA",
+   "A": "IKEA|O_H|4",
+   "B": "IKEA|E_H|4"
+  },
+  {
+   "pair_id": "TIKE28",
+   "brand": "IKEA",
+   "A": "IKEA|O_H|4",
+   "B": "IKEA|BASE|5"
+  },
+  {
+   "pair_id": "TIKE29",
+   "brand": "IKEA",
+   "A": "IKEA|O_H|1",
+   "B": "IKEA|N_H|3"
+  },
+  {
+   "pair_id": "TIKE30",
+   "brand": "IKEA",
+   "A": "IKEA|O_H|1",
+   "B": "IKEA|C_L|0"
+  },
+  {
+   "pair_id": "TIKE31",
+   "brand": "IKEA",
+   "A": "IKEA|O_H|1",
+   "B": "IKEA|E_L|4"
+  },
+  {
+   "pair_id": "TIKE32",
+   "brand": "IKEA",
+   "A": "IKEA|N_L|4",
+   "B": "IKEA|O_H|4"
+  },
+  {
+   "pair_id": "TIKE33",
+   "brand": "IKEA",
+   "A": "IKEA|A_L|4",
+   "B": "IKEA|O_H|4"
+  },
+  {
+   "pair_id": "TIKE34",
+   "brand": "IKEA",
+   "A": "IKEA|E_H|0",
+   "B": "IKEA|BASE|2"
+  },
+  {
+   "pair_id": "TIKE35",
+   "brand": "IKEA",
+   "A": "IKEA|E_H|0",
+   "B": "IKEA|N_H|4"
+  },
+  {
+   "pair_id": "TIKE36",
+   "brand": "IKEA",
+   "A": "IKEA|E_H|4",
+   "B": "IKEA|C_L|3"
+  },
+  {
+   "pair_id": "TIKE37",
+   "brand": "IKEA",
+   "A": "IKEA|E_H|4",
+   "B": "IKEA|E_L|0"
+  },
+  {
+   "pair_id": "TIKE38",
+   "brand": "IKEA",
+   "A": "IKEA|E_H|4",
+   "B": "IKEA|N_L|4"
+  },
+  {
+   "pair_id": "TIKE39",
+   "brand": "IKEA",
+   "A": "IKEA|A_L|3",
+   "B": "IKEA|E_H|4"
+  },
+  {
+   "pair_id": "TIKE40",
+   "brand": "IKEA",
+   "A": "IKEA|BASE|5",
+   "B": "IKEA|N_H|4"
+  },
+  {
+   "pair_id": "TIKE41",
+   "brand": "IKEA",
+   "A": "IKEA|BASE|2",
+   "B": "IKEA|C_L|0"
+  },
+  {
+   "pair_id": "TIKE42",
+   "brand": "IKEA",
+   "A": "IKEA|BASE|2",
+   "B": "IKEA|E_L|0"
+  },
+  {
+   "pair_id": "TIKE43",
+   "brand": "IKEA",
+   "A": "IKEA|BASE|5",
+   "B": "IKEA|N_L|4"
+  },
+  {
+   "pair_id": "TIKE44",
+   "brand": "IKEA",
+   "A": "IKEA|BASE|5",
+   "B": "IKEA|A_L|4"
+  },
+  {
+   "pair_id": "TIKE45",
+   "brand": "IKEA",
+   "A": "IKEA|N_H|4",
+   "B": "IKEA|C_L|3"
+  },
+  {
+   "pair_id": "TIKE46",
+   "brand": "IKEA",
+   "A": "IKEA|N_H|4",
+   "B": "IKEA|E_L|0"
+  },
+  {
+   "pair_id": "TIKE47",
+   "brand": "IKEA",
+   "A": "IKEA|N_H|4",
+   "B": "IKEA|N_L|2"
+  },
+  {
+   "pair_id": "TIKE48",
+   "brand": "IKEA",
+   "A": "IKEA|N_H|3",
+   "B": "IKEA|A_L|3"
+  },
+  {
+   "pair_id": "TIKE49",
+   "brand": "IKEA",
+   "A": "IKEA|C_L|0",
+   "B": "IKEA|E_L|4"
+  },
+  {
+   "pair_id": "TIKE50",
+   "brand": "IKEA",
+   "A": "IKEA|C_L|3",
+   "B": "IKEA|N_L|4"
+  },
+  {
+   "pair_id": "TIKE51",
+   "brand": "IKEA",
+   "A": "IKEA|C_L|0",
+   "B": "IKEA|A_L|4"
+  },
+  {
+   "pair_id": "TIKE52",
+   "brand": "IKEA",
+   "A": "IKEA|E_L|0",
+   "B": "IKEA|N_L|2"
+  },
+  {
+   "pair_id": "TIKE53",
+   "brand": "IKEA",
+   "A": "IKEA|E_L|0",
+   "B": "IKEA|A_L|4"
+  },
+  {
+   "pair_id": "TIKE54",
+   "brand": "IKEA",
+   "A": "IKEA|N_L|2",
+   "B": "IKEA|A_L|3"
+  },
+  {
+   "pair_id": "TKla00",
+   "brand": "Klarna",
+   "A": "Klarna|BASE|0",
+   "B": "Klarna|C_H|3"
+  },
+  {
+   "pair_id": "TKla01",
+   "brand": "Klarna",
+   "A": "Klarna|BASE|2",
+   "B": "Klarna|N_L|2"
+  },
+  {
+   "pair_id": "TKla02",
+   "brand": "Klarna",
+   "A": "Klarna|BASE|0",
+   "B": "Klarna|O_H|2"
+  },
+  {
+   "pair_id": "TKla03",
+   "brand": "Klarna",
+   "A": "Klarna|BASE|2",
+   "B": "Klarna|E_H|0"
+  },
+  {
+   "pair_id": "TKla04",
+   "brand": "Klarna",
+   "A": "Klarna|BASE|0",
+   "B": "Klarna|A_H|4"
+  },
+  {
+   "pair_id": "TKla05",
+   "brand": "Klarna",
+   "A": "Klarna|C_L|5",
+   "B": "Klarna|BASE|2"
+  },
+  {
+   "pair_id": "TKla06",
+   "brand": "Klarna",
+   "A": "Klarna|O_L|5",
+   "B": "Klarna|BASE|0"
+  },
+  {
+   "pair_id": "TKla07",
+   "brand": "Klarna",
+   "A": "Klarna|E_L|1",
+   "B": "Klarna|BASE|2"
+  },
+  {
+   "pair_id": "TKla08",
+   "brand": "Klarna",
+   "A": "Klarna|N_H|3",
+   "B": "Klarna|BASE|2"
+  },
+  {
+   "pair_id": "TKla09",
+   "brand": "Klarna",
+   "A": "Klarna|A_L|4",
+   "B": "Klarna|BASE|0"
+  },
+  {
+   "pair_id": "TKla10",
+   "brand": "Klarna",
+   "A": "Klarna|C_H|3",
+   "B": "Klarna|N_L|4"
+  },
+  {
+   "pair_id": "TKla11",
+   "brand": "Klarna",
+   "A": "Klarna|C_H|5",
+   "B": "Klarna|O_H|1"
+  },
+  {
+   "pair_id": "TKla12",
+   "brand": "Klarna",
+   "A": "Klarna|C_H|3",
+   "B": "Klarna|E_H|0"
+  },
+  {
+   "pair_id": "TKla13",
+   "brand": "Klarna",
+   "A": "Klarna|C_H|5",
+   "B": "Klarna|A_H|1"
+  },
+  {
+   "pair_id": "TKla14",
+   "brand": "Klarna",
+   "A": "Klarna|C_H|3",
+   "B": "Klarna|C_L|5"
+  },
+  {
+   "pair_id": "TKla15",
+   "brand": "Klarna",
+   "A": "Klarna|O_L|3",
+   "B": "Klarna|C_H|3"
+  },
+  {
+   "pair_id": "TKla16",
+   "brand": "Klarna",
+   "A": "Klarna|E_L|0",
+   "B": "Klarna|C_H|5"
+  },
+  {
+   "pair_id": "TKla17",
+   "brand": "Klarna",
+   "A": "Klarna|N_H|3",
+   "B": "Klarna|C_H|5"
+  },
+  {
+   "pair_id": "TKla18",
+   "brand": "Klarna",
+   "A": "Klarna|A_L|2",
+   "B": "Klarna|C_H|5"
+  },
+  {
+   "pair_id": "TKla19",
+   "brand": "Klarna",
+   "A": "Klarna|N_L|4",
+   "B": "Klarna|O_H|1"
+  },
+  {
+   "pair_id": "TKla20",
+   "brand": "Klarna",
+   "A": "Klarna|N_L|2",
+   "B": "Klarna|E_H|5"
+  },
+  {
+   "pair_id": "TKla21",
+   "brand": "Klarna",
+   "A": "Klarna|N_L|4",
+   "B": "Klarna|A_H|1"
+  },
+  {
+   "pair_id": "TKla22",
+   "brand": "Klarna",
+   "A": "Klarna|N_L|2",
+   "B": "Klarna|C_L|5"
+  },
+  {
+   "pair_id": "TKla23",
+   "brand": "Klarna",
+   "A": "Klarna|N_L|2",
+   "B": "Klarna|O_L|5"
+  },
+  {
+   "pair_id": "TKla24",
+   "brand": "Klarna",
+   "A": "Klarna|E_L|1",
+   "B": "Klarna|N_L|2"
+  },
+  {
+   "pair_id": "TKla25",
+   "brand": "Klarna",
+   "A": "Klarna|N_H|3",
+   "B": "Klarna|N_L|4"
+  },
+  {
+   "pair_id": "TKla26",
+   "brand": "Klarna",
+   "A": "Klarna|A_L|2",
+   "B": "Klarna|N_L|4"
+  },
+  {
+   "pair_id": "TKla27",
+   "brand": "Klarna",
+   "A": "Klarna|O_H|2",
+   "B": "Klarna|E_H|5"
+  },
+  {
+   "pair_id": "TKla28",
+   "brand": "Klarna",
+   "A": "Klarna|O_H|1",
+   "B": "Klarna|A_H|1"
+  },
+  {
+   "pair_id": "TKla29",
+   "brand": "Klarna",
+   "A": "Klarna|O_H|2",
+   "B": "Klarna|C_L|0"
+  },
+  {
+   "pair_id": "TKla30",
+   "brand": "Klarna",
+   "A": "Klarna|O_H|1",
+   "B": "Klarna|O_L|3"
+  },
+  {
+   "pair_id": "TKla31",
+   "brand": "Klarna",
+   "A": "Klarna|O_H|2",
+   "B": "Klarna|E_L|0"
+  },
+  {
+   "pair_id": "TKla32",
+   "brand": "Klarna",
+   "A": "Klarna|N_H|0",
+   "B": "Klarna|O_H|1"
+  },
+  {
+   "pair_id": "TKla33",
+   "brand": "Klarna",
+   "A": "Klarna|A_L|4",
+   "B": "Klarna|O_H|2"
+  },
+  {
+   "pair_id": "TKla34",
+   "brand": "Klarna",
+   "A": "Klarna|E_H|0",
+   "B": "Klarna|A_H|4"
+  },
+  {
+   "pair_id": "TKla35",
+   "brand": "Klarna",
+   "A": "Klarna|E_H|0",
+   "B": "Klarna|C_L|0"
+  },
+  {
+   "pair_id": "TKla36",
+   "brand": "Klarna",
+   "A": "Klarna|E_H|5",
+   "B": "Klarna|O_L|3"
+  },
+  {
+   "pair_id": "TKla37",
+   "brand": "Klarna",
+   "A": "Klarna|E_H|0",
+   "B": "Klarna|E_L|1"
+  },
+  {
+   "pair_id": "TKla38",
+   "brand": "Klarna",
+   "A": "Klarna|E_H|5",
+   "B": "Klarna|N_H|0"
+  },
+  {
+   "pair_id": "TKla39",
+   "brand": "Klarna",
+   "A": "Klarna|A_L|2",
+   "B": "Klarna|E_H|5"
+  },
+  {
+   "pair_id": "TKla40",
+   "brand": "Klarna",
+   "A": "Klarna|A_H|1",
+   "B": "Klarna|C_L|0"
+  },
+  {
+   "pair_id": "TKla41",
+   "brand": "Klarna",
+   "A": "Klarna|A_H|4",
+   "B": "Klarna|O_L|5"
+  },
+  {
+   "pair_id": "TKla42",
+   "brand": "Klarna",
+   "A": "Klarna|A_H|4",
+   "B": "Klarna|E_L|0"
+  },
+  {
+   "pair_id": "TKla43",
+   "brand": "Klarna",
+   "A": "Klarna|A_H|1",
+   "B": "Klarna|N_H|3"
+  },
+  {
+   "pair_id": "TKla44",
+   "brand": "Klarna",
+   "A": "Klarna|A_H|4",
+   "B": "Klarna|A_L|4"
+  },
+  {
+   "pair_id": "TKla45",
+   "brand": "Klarna",
+   "A": "Klarna|C_L|0",
+   "B": "Klarna|O_L|5"
+  },
+  {
+   "pair_id": "TKla46",
+   "brand": "Klarna",
+   "A": "Klarna|C_L|5",
+   "B": "Klarna|E_L|1"
+  },
+  {
+   "pair_id": "TKla47",
+   "brand": "Klarna",
+   "A": "Klarna|C_L|5",
+   "B": "Klarna|N_H|3"
+  },
+  {
+   "pair_id": "TKla48",
+   "brand": "Klarna",
+   "A": "Klarna|C_L|0",
+   "B": "Klarna|A_L|2"
+  },
+  {
+   "pair_id": "TKla49",
+   "brand": "Klarna",
+   "A": "Klarna|O_L|5",
+   "B": "Klarna|E_L|0"
+  },
+  {
+   "pair_id": "TKla50",
+   "brand": "Klarna",
+   "A": "Klarna|O_L|3",
+   "B": "Klarna|N_H|0"
+  },
+  {
+   "pair_id": "TKla51",
+   "brand": "Klarna",
+   "A": "Klarna|O_L|3",
+   "B": "Klarna|A_L|4"
+  },
+  {
+   "pair_id": "TKla52",
+   "brand": "Klarna",
+   "A": "Klarna|E_L|0",
+   "B": "Klarna|N_H|0"
+  },
+  {
+   "pair_id": "TKla53",
+   "brand": "Klarna",
+   "A": "Klarna|E_L|1",
+   "B": "Klarna|A_L|2"
+  },
+  {
+   "pair_id": "TKla54",
+   "brand": "Klarna",
+   "A": "Klarna|N_H|0",
+   "B": "Klarna|A_L|4"
+  },
+  {
+   "pair_id": "TRob00",
+   "brand": "Roblox",
+   "A": "Roblox|O_L|1",
+   "B": "Roblox|O_H|2"
+  },
+  {
+   "pair_id": "TRob01",
+   "brand": "Roblox",
+   "A": "Roblox|O_L|3",
+   "B": "Roblox|E_H|3"
+  },
+  {
+   "pair_id": "TRob02",
+   "brand": "Roblox",
+   "A": "Roblox|O_L|3",
+   "B": "Roblox|C_H|5"
+  },
+  {
+   "pair_id": "TRob03",
+   "brand": "Roblox",
+   "A": "Roblox|O_L|1",
+   "B": "Roblox|E_L|4"
+  },
+  {
+   "pair_id": "TRob04",
+   "brand": "Roblox",
+   "A": "Roblox|O_L|1",
+   "B": "Roblox|BASE|2"
+  },
+  {
+   "pair_id": "TRob05",
+   "brand": "Roblox",
+   "A": "Roblox|A_L|3",
+   "B": "Roblox|O_L|1"
+  },
+  {
+   "pair_id": "TRob06",
+   "brand": "Roblox",
+   "A": "Roblox|N_L|3",
+   "B": "Roblox|O_L|3"
+  },
+  {
+   "pair_id": "TRob07",
+   "brand": "Roblox",
+   "A": "Roblox|N_H|1",
+   "B": "Roblox|O_L|1"
+  },
+  {
+   "pair_id": "TRob08",
+   "brand": "Roblox",
+   "A": "Roblox|C_L|4",
+   "B": "Roblox|O_L|3"
+  },
+  {
+   "pair_id": "TRob09",
+   "brand": "Roblox",
+   "A": "Roblox|A_H|3",
+   "B": "Roblox|O_L|3"
+  },
+  {
+   "pair_id": "TRob10",
+   "brand": "Roblox",
+   "A": "Roblox|O_H|0",
+   "B": "Roblox|E_H|5"
+  },
+  {
+   "pair_id": "TRob11",
+   "brand": "Roblox",
+   "A": "Roblox|O_H|0",
+   "B": "Roblox|C_H|5"
+  },
+  {
+   "pair_id": "TRob12",
+   "brand": "Roblox",
+   "A": "Roblox|O_H|2",
+   "B": "Roblox|E_L|1"
+  },
+  {
+   "pair_id": "TRob13",
+   "brand": "Roblox",
+   "A": "Roblox|O_H|2",
+   "B": "Roblox|BASE|5"
+  },
+  {
+   "pair_id": "TRob14",
+   "brand": "Roblox",
+   "A": "Roblox|O_H|0",
+   "B": "Roblox|A_L|0"
+  },
+  {
+   "pair_id": "TRob15",
+   "brand": "Roblox",
+   "A": "Roblox|N_L|3",
+   "B": "Roblox|O_H|0"
+  },
+  {
+   "pair_id": "TRob16",
+   "brand": "Roblox",
+   "A": "Roblox|N_H|1",
+   "B": "Roblox|O_H|0"
+  },
+  {
+   "pair_id": "TRob17",
+   "brand": "Roblox",
+   "A": "Roblox|C_L|4",
+   "B": "Roblox|O_H|2"
+  },
+  {
+   "pair_id": "TRob18",
+   "brand": "Roblox",
+   "A": "Roblox|A_H|1",
+   "B": "Roblox|O_H|2"
+  },
+  {
+   "pair_id": "TRob19",
+   "brand": "Roblox",
+   "A": "Roblox|E_H|5",
+   "B": "Roblox|C_H|1"
+  },
+  {
+   "pair_id": "TRob20",
+   "brand": "Roblox",
+   "A": "Roblox|E_H|5",
+   "B": "Roblox|E_L|4"
+  },
+  {
+   "pair_id": "TRob21",
+   "brand": "Roblox",
+   "A": "Roblox|E_H|3",
+   "B": "Roblox|BASE|2"
+  },
+  {
+   "pair_id": "TRob22",
+   "brand": "Roblox",
+   "A": "Roblox|E_H|3",
+   "B": "Roblox|A_L|3"
+  },
+  {
+   "pair_id": "TRob23",
+   "brand": "Roblox",
+   "A": "Roblox|E_H|3",
+   "B": "Roblox|N_L|0"
+  },
+  {
+   "pair_id": "TRob24",
+   "brand": "Roblox",
+   "A": "Roblox|N_H|1",
+   "B": "Roblox|E_H|5"
+  },
+  {
+   "pair_id": "TRob25",
+   "brand": "Roblox",
+   "A": "Roblox|C_L|1",
+   "B": "Roblox|E_H|3"
+  },
+  {
+   "pair_id": "TRob26",
+   "brand": "Roblox",
+   "A": "Roblox|A_H|3",
+   "B": "Roblox|E_H|5"
+  },
+  {
+   "pair_id": "TRob27",
+   "brand": "Roblox",
+   "A": "Roblox|C_H|1",
+   "B": "Roblox|E_L|1"
+  },
+  {
+   "pair_id": "TRob28",
+   "brand": "Roblox",
+   "A": "Roblox|C_H|5",
+   "B": "Roblox|BASE|2"
+  },
+  {
+   "pair_id": "TRob29",
+   "brand": "Roblox",
+   "A": "Roblox|C_H|5",
+   "B": "Roblox|A_L|0"
+  },
+  {
+   "pair_id": "TRob30",
+   "brand": "Roblox",
+   "A": "Roblox|C_H|1",
+   "B": "Roblox|N_L|0"
+  },
+  {
+   "pair_id": "TRob31",
+   "brand": "Roblox",
+   "A": "Roblox|C_H|1",
+   "B": "Roblox|N_H|1"
+  },
+  {
+   "pair_id": "TRob32",
+   "brand": "Roblox",
+   "A": "Roblox|C_L|4",
+   "B": "Roblox|C_H|1"
+  },
+  {
+   "pair_id": "TRob33",
+   "brand": "Roblox",
+   "A": "Roblox|A_H|3",
+   "B": "Roblox|C_H|5"
+  },
+  {
+   "pair_id": "TRob34",
+   "brand": "Roblox",
+   "A": "Roblox|E_L|1",
+   "B": "Roblox|BASE|5"
+  },
+  {
+   "pair_id": "TRob35",
+   "brand": "Roblox",
+   "A": "Roblox|E_L|4",
+   "B": "Roblox|A_L|0"
+  },
+  {
+   "pair_id": "TRob36",
+   "brand": "Roblox",
+   "A": "Roblox|E_L|4",
+   "B": "Roblox|N_L|3"
+  },
+  {
+   "pair_id": "TRob37",
+   "brand": "Roblox",
+   "A": "Roblox|E_L|1",
+   "B": "Roblox|N_H|4"
+  },
+  {
+   "pair_id": "TRob38",
+   "brand": "Roblox",
+   "A": "Roblox|E_L|4",
+   "B": "Roblox|C_L|4"
+  },
+  {
+   "pair_id": "TRob39",
+   "brand": "Roblox",
+   "A": "Roblox|A_H|1",
+   "B": "Roblox|E_L|1"
+  },
+  {
+   "pair_id": "TRob40",
+   "brand": "Roblox",
+   "A": "Roblox|BASE|2",
+   "B": "Roblox|A_L|3"
+  },
+  {
+   "pair_id": "TRob41",
+   "brand": "Roblox",
+   "A": "Roblox|BASE|2",
+   "B": "Roblox|N_L|3"
+  },
+  {
+   "pair_id": "TRob42",
+   "brand": "Roblox",
+   "A": "Roblox|BASE|5",
+   "B": "Roblox|N_H|4"
+  },
+  {
+   "pair_id": "TRob43",
+   "brand": "Roblox",
+   "A": "Roblox|BASE|5",
+   "B": "Roblox|C_L|1"
+  },
+  {
+   "pair_id": "TRob44",
+   "brand": "Roblox",
+   "A": "Roblox|BASE|5",
+   "B": "Roblox|A_H|1"
+  },
+  {
+   "pair_id": "TRob45",
+   "brand": "Roblox",
+   "A": "Roblox|A_L|3",
+   "B": "Roblox|N_L|0"
+  },
+  {
+   "pair_id": "TRob46",
+   "brand": "Roblox",
+   "A": "Roblox|A_L|0",
+   "B": "Roblox|N_H|4"
+  },
+  {
+   "pair_id": "TRob47",
+   "brand": "Roblox",
+   "A": "Roblox|A_L|0",
+   "B": "Roblox|C_L|4"
+  },
+  {
+   "pair_id": "TRob48",
+   "brand": "Roblox",
+   "A": "Roblox|A_L|3",
+   "B": "Roblox|A_H|3"
+  },
+  {
+   "pair_id": "TRob49",
+   "brand": "Roblox",
+   "A": "Roblox|N_L|3",
+   "B": "Roblox|N_H|1"
+  },
+  {
+   "pair_id": "TRob50",
+   "brand": "Roblox",
+   "A": "Roblox|N_L|0",
+   "B": "Roblox|C_L|1"
+  },
+  {
+   "pair_id": "TRob51",
+   "brand": "Roblox",
+   "A": "Roblox|N_L|0",
+   "B": "Roblox|A_H|1"
+  },
+  {
+   "pair_id": "TRob52",
+   "brand": "Roblox",
+   "A": "Roblox|N_H|4",
+   "B": "Roblox|C_L|1"
+  },
+  {
+   "pair_id": "TRob53",
+   "brand": "Roblox",
+   "A": "Roblox|N_H|4",
+   "B": "Roblox|A_H|3"
+  },
+  {
+   "pair_id": "TRob54",
+   "brand": "Roblox",
+   "A": "Roblox|C_L|1",
+   "B": "Roblox|A_H|1"
+  },
+  {
+   "pair_id": "TSla00",
+   "brand": "Slack",
+   "A": "Slack|E_L|1",
+   "B": "Slack|E_H|0"
+  },
+  {
+   "pair_id": "TSla01",
+   "brand": "Slack",
+   "A": "Slack|E_L|0",
+   "B": "Slack|A_H|2"
+  },
+  {
+   "pair_id": "TSla02",
+   "brand": "Slack",
+   "A": "Slack|E_L|1",
+   "B": "Slack|O_H|2"
+  },
+  {
+   "pair_id": "TSla03",
+   "brand": "Slack",
+   "A": "Slack|E_L|1",
+   "B": "Slack|C_H|2"
+  },
+  {
+   "pair_id": "TSla04",
+   "brand": "Slack",
+   "A": "Slack|E_L|0",
+   "B": "Slack|A_L|2"
+  },
+  {
+   "pair_id": "TSla05",
+   "brand": "Slack",
+   "A": "Slack|BASE|3",
+   "B": "Slack|E_L|1"
+  },
+  {
+   "pair_id": "TSla06",
+   "brand": "Slack",
+   "A": "Slack|C_L|4",
+   "B": "Slack|E_L|1"
+  },
+  {
+   "pair_id": "TSla07",
+   "brand": "Slack",
+   "A": "Slack|O_L|4",
+   "B": "Slack|E_L|0"
+  },
+  {
+   "pair_id": "TSla08",
+   "brand": "Slack",
+   "A": "Slack|N_H|2",
+   "B": "Slack|E_L|0"
+  },
+  {
+   "pair_id": "TSla09",
+   "brand": "Slack",
+   "A": "Slack|N_L|0",
+   "B": "Slack|E_L|0"
+  },
+  {
+   "pair_id": "TSla10",
+   "brand": "Slack",
+   "A": "Slack|E_H|1",
+   "B": "Slack|A_H|2"
+  },
+  {
+   "pair_id": "TSla11",
+   "brand": "Slack",
+   "A": "Slack|E_H|0",
+   "B": "Slack|O_H|1"
+  },
+  {
+   "pair_id": "TSla12",
+   "brand": "Slack",
+   "A": "Slack|E_H|1",
+   "B": "Slack|C_H|5"
+  },
+  {
+   "pair_id": "TSla13",
+   "brand": "Slack",
+   "A": "Slack|E_H|0",
+   "B": "Slack|A_L|3"
+  },
+  {
+   "pair_id": "TSla14",
+   "brand": "Slack",
+   "A": "Slack|E_H|0",
+   "B": "Slack|BASE|3"
+  },
+  {
+   "pair_id": "TSla15",
+   "brand": "Slack",
+   "A": "Slack|C_L|1",
+   "B": "Slack|E_H|0"
+  },
+  {
+   "pair_id": "TSla16",
+   "brand": "Slack",
+   "A": "Slack|O_L|5",
+   "B": "Slack|E_H|1"
+  },
+  {
+   "pair_id": "TSla17",
+   "brand": "Slack",
+   "A": "Slack|N_H|2",
+   "B": "Slack|E_H|1"
+  },
+  {
+   "pair_id": "TSla18",
+   "brand": "Slack",
+   "A": "Slack|N_L|4",
+   "B": "Slack|E_H|1"
+  },
+  {
+   "pair_id": "TSla19",
+   "brand": "Slack",
+   "A": "Slack|A_H|2",
+   "B": "Slack|O_H|1"
+  },
+  {
+   "pair_id": "TSla20",
+   "brand": "Slack",
+   "A": "Slack|A_H|0",
+   "B": "Slack|C_H|2"
+  },
+  {
+   "pair_id": "TSla21",
+   "brand": "Slack",
+   "A": "Slack|A_H|2",
+   "B": "Slack|A_L|2"
+  },
+  {
+   "pair_id": "TSla22",
+   "brand": "Slack",
+   "A": "Slack|A_H|2",
+   "B": "Slack|BASE|0"
+  },
+  {
+   "pair_id": "TSla23",
+   "brand": "Slack",
+   "A": "Slack|A_H|0",
+   "B": "Slack|C_L|1"
+  },
+  {
+   "pair_id": "TSla24",
+   "brand": "Slack",
+   "A": "Slack|O_L|4",
+   "B": "Slack|A_H|0"
+  },
+  {
+   "pair_id": "TSla25",
+   "brand": "Slack",
+   "A": "Slack|N_H|3",
+   "B": "Slack|A_H|0"
+  },
+  {
+   "pair_id": "TSla26",
+   "brand": "Slack",
+   "A": "Slack|N_L|4",
+   "B": "Slack|A_H|0"
+  },
+  {
+   "pair_id": "TSla27",
+   "brand": "Slack",
+   "A": "Slack|O_H|2",
+   "B": "Slack|C_H|2"
+  },
+  {
+   "pair_id": "TSla28",
+   "brand": "Slack",
+   "A": "Slack|O_H|2",
+   "B": "Slack|A_L|2"
+  },
+  {
+   "pair_id": "TSla29",
+   "brand": "Slack",
+   "A": "Slack|O_H|2",
+   "B": "Slack|BASE|0"
+  },
+  {
+   "pair_id": "TSla30",
+   "brand": "Slack",
+   "A": "Slack|O_H|1",
+   "B": "Slack|C_L|1"
+  },
+  {
+   "pair_id": "TSla31",
+   "brand": "Slack",
+   "A": "Slack|O_H|1",
+   "B": "Slack|O_L|4"
+  },
+  {
+   "pair_id": "TSla32",
+   "brand": "Slack",
+   "A": "Slack|N_H|3",
+   "B": "Slack|O_H|1"
+  },
+  {
+   "pair_id": "TSla33",
+   "brand": "Slack",
+   "A": "Slack|N_L|4",
+   "B": "Slack|O_H|2"
+  },
+  {
+   "pair_id": "TSla34",
+   "brand": "Slack",
+   "A": "Slack|C_H|5",
+   "B": "Slack|A_L|3"
+  },
+  {
+   "pair_id": "TSla35",
+   "brand": "Slack",
+   "A": "Slack|C_H|5",
+   "B": "Slack|BASE|0"
+  },
+  {
+   "pair_id": "TSla36",
+   "brand": "Slack",
+   "A": "Slack|C_H|2",
+   "B": "Slack|C_L|4"
+  },
+  {
+   "pair_id": "TSla37",
+   "brand": "Slack",
+   "A": "Slack|C_H|2",
+   "B": "Slack|O_L|4"
+  },
+  {
+   "pair_id": "TSla38",
+   "brand": "Slack",
+   "A": "Slack|C_H|5",
+   "B": "Slack|N_H|2"
+  },
+  {
+   "pair_id": "TSla39",
+   "brand": "Slack",
+   "A": "Slack|N_L|0",
+   "B": "Slack|C_H|5"
+  },
+  {
+   "pair_id": "TSla40",
+   "brand": "Slack",
+   "A": "Slack|A_L|2",
+   "B": "Slack|BASE|3"
+  },
+  {
+   "pair_id": "TSla41",
+   "brand": "Slack",
+   "A": "Slack|A_L|3",
+   "B": "Slack|C_L|4"
+  },
+  {
+   "pair_id": "TSla42",
+   "brand": "Slack",
+   "A": "Slack|A_L|2",
+   "B": "Slack|O_L|5"
+  },
+  {
+   "pair_id": "TSla43",
+   "brand": "Slack",
+   "A": "Slack|A_L|3",
+   "B": "Slack|N_H|3"
+  },
+  {
+   "pair_id": "TSla44",
+   "brand": "Slack",
+   "A": "Slack|A_L|3",
+   "B": "Slack|N_L|0"
+  },
+  {
+   "pair_id": "TSla45",
+   "brand": "Slack",
+   "A": "Slack|BASE|0",
+   "B": "Slack|C_L|1"
+  },
+  {
+   "pair_id": "TSla46",
+   "brand": "Slack",
+   "A": "Slack|BASE|0",
+   "B": "Slack|O_L|5"
+  },
+  {
+   "pair_id": "TSla47",
+   "brand": "Slack",
+   "A": "Slack|BASE|3",
+   "B": "Slack|N_H|2"
+  },
+  {
+   "pair_id": "TSla48",
+   "brand": "Slack",
+   "A": "Slack|BASE|3",
+   "B": "Slack|N_L|4"
+  },
+  {
+   "pair_id": "TSla49",
+   "brand": "Slack",
+   "A": "Slack|C_L|4",
+   "B": "Slack|O_L|4"
+  },
+  {
+   "pair_id": "TSla50",
+   "brand": "Slack",
+   "A": "Slack|C_L|4",
+   "B": "Slack|N_H|3"
+  },
+  {
+   "pair_id": "TSla51",
+   "brand": "Slack",
+   "A": "Slack|C_L|1",
+   "B": "Slack|N_L|0"
+  },
+  {
+   "pair_id": "TSla52",
+   "brand": "Slack",
+   "A": "Slack|O_L|5",
+   "B": "Slack|N_H|2"
+  },
+  {
+   "pair_id": "TSla53",
+   "brand": "Slack",
+   "A": "Slack|O_L|5",
+   "B": "Slack|N_L|0"
+  },
+  {
+   "pair_id": "TSla54",
+   "brand": "Slack",
+   "A": "Slack|N_H|3",
+   "B": "Slack|N_L|4"
+  },
+  {
+   "pair_id": "TUne00",
+   "brand": "Unesco",
+   "A": "Unesco|C_L|2",
+   "B": "Unesco|O_L|5"
+  },
+  {
+   "pair_id": "TUne01",
+   "brand": "Unesco",
+   "A": "Unesco|C_L|2",
+   "B": "Unesco|A_L|1"
+  },
+  {
+   "pair_id": "TUne02",
+   "brand": "Unesco",
+   "A": "Unesco|C_L|1",
+   "B": "Unesco|A_H|3"
+  },
+  {
+   "pair_id": "TUne03",
+   "brand": "Unesco",
+   "A": "Unesco|C_L|1",
+   "B": "Unesco|O_H|4"
+  },
+  {
+   "pair_id": "TUne04",
+   "brand": "Unesco",
+   "A": "Unesco|C_L|2",
+   "B": "Unesco|C_H|2"
+  },
+  {
+   "pair_id": "TUne05",
+   "brand": "Unesco",
+   "A": "Unesco|E_H|5",
+   "B": "Unesco|C_L|2"
+  },
+  {
+   "pair_id": "TUne06",
+   "brand": "Unesco",
+   "A": "Unesco|BASE|3",
+   "B": "Unesco|C_L|1"
+  },
+  {
+   "pair_id": "TUne07",
+   "brand": "Unesco",
+   "A": "Unesco|N_L|4",
+   "B": "Unesco|C_L|2"
+  },
+  {
+   "pair_id": "TUne08",
+   "brand": "Unesco",
+   "A": "Unesco|E_L|1",
+   "B": "Unesco|C_L|1"
+  },
+  {
+   "pair_id": "TUne09",
+   "brand": "Unesco",
+   "A": "Unesco|N_H|2",
+   "B": "Unesco|C_L|1"
+  },
+  {
+   "pair_id": "TUne10",
+   "brand": "Unesco",
+   "A": "Unesco|O_L|1",
+   "B": "Unesco|A_L|3"
+  },
+  {
+   "pair_id": "TUne11",
+   "brand": "Unesco",
+   "A": "Unesco|O_L|5",
+   "B": "Unesco|A_H|0"
+  },
+  {
+   "pair_id": "TUne12",
+   "brand": "Unesco",
+   "A": "Unesco|O_L|1",
+   "B": "Unesco|O_H|4"
+  },
+  {
+   "pair_id": "TUne13",
+   "brand": "Unesco",
+   "A": "Unesco|O_L|5",
+   "B": "Unesco|C_H|2"
+  },
+  {
+   "pair_id": "TUne14",
+   "brand": "Unesco",
+   "A": "Unesco|O_L|1",
+   "B": "Unesco|E_H|1"
+  },
+  {
+   "pair_id": "TUne15",
+   "brand": "Unesco",
+   "A": "Unesco|BASE|3",
+   "B": "Unesco|O_L|5"
+  },
+  {
+   "pair_id": "TUne16",
+   "brand": "Unesco",
+   "A": "Unesco|N_L|1",
+   "B": "Unesco|O_L|1"
+  },
+  {
+   "pair_id": "TUne17",
+   "brand": "Unesco",
+   "A": "Unesco|E_L|1",
+   "B": "Unesco|O_L|1"
+  },
+  {
+   "pair_id": "TUne18",
+   "brand": "Unesco",
+   "A": "Unesco|N_H|2",
+   "B": "Unesco|O_L|5"
+  },
+  {
+   "pair_id": "TUne19",
+   "brand": "Unesco",
+   "A": "Unesco|A_L|3",
+   "B": "Unesco|A_H|0"
+  },
+  {
+   "pair_id": "TUne20",
+   "brand": "Unesco",
+   "A": "Unesco|A_L|3",
+   "B": "Unesco|O_H|4"
+  },
+  {
+   "pair_id": "TUne21",
+   "brand": "Unesco",
+   "A": "Unesco|A_L|1",
+   "B": "Unesco|C_H|1"
+  },
+  {
+   "pair_id": "TUne22",
+   "brand": "Unesco",
+   "A": "Unesco|A_L|1",
+   "B": "Unesco|E_H|5"
+  },
+  {
+   "pair_id": "TUne23",
+   "brand": "Unesco",
+   "A": "Unesco|A_L|3",
+   "B": "Unesco|BASE|4"
+  },
+  {
+   "pair_id": "TUne24",
+   "brand": "Unesco",
+   "A": "Unesco|N_L|4",
+   "B": "Unesco|A_L|1"
+  },
+  {
+   "pair_id": "TUne25",
+   "brand": "Unesco",
+   "A": "Unesco|E_L|1",
+   "B": "Unesco|A_L|1"
+  },
+  {
+   "pair_id": "TUne26",
+   "brand": "Unesco",
+   "A": "Unesco|N_H|0",
+   "B": "Unesco|A_L|3"
+  },
+  {
+   "pair_id": "TUne27",
+   "brand": "Unesco",
+   "A": "Unesco|A_H|3",
+   "B": "Unesco|O_H|1"
+  },
+  {
+   "pair_id": "TUne28",
+   "brand": "Unesco",
+   "A": "Unesco|A_H|0",
+   "B": "Unesco|C_H|2"
+  },
+  {
+   "pair_id": "TUne29",
+   "brand": "Unesco",
+   "A": "Unesco|A_H|0",
+   "B": "Unesco|E_H|1"
+  },
+  {
+   "pair_id": "TUne30",
+   "brand": "Unesco",
+   "A": "Unesco|A_H|3",
+   "B": "Unesco|BASE|4"
+  },
+  {
+   "pair_id": "TUne31",
+   "brand": "Unesco",
+   "A": "Unesco|A_H|3",
+   "B": "Unesco|N_L|1"
+  },
+  {
+   "pair_id": "TUne32",
+   "brand": "Unesco",
+   "A": "Unesco|E_L|5",
+   "B": "Unesco|A_H|3"
+  },
+  {
+   "pair_id": "TUne33",
+   "brand": "Unesco",
+   "A": "Unesco|N_H|0",
+   "B": "Unesco|A_H|0"
+  },
+  {
+   "pair_id": "TUne34",
+   "brand": "Unesco",
+   "A": "Unesco|O_H|4",
+   "B": "Unesco|C_H|1"
+  },
+  {
+   "pair_id": "TUne35",
+   "brand": "Unesco",
+   "A": "Unesco|O_H|1",
+   "B": "Unesco|E_H|5"
+  },
+  {
+   "pair_id": "TUne36",
+   "brand": "Unesco",
+   "A": "Unesco|O_H|1",
+   "B": "Unesco|BASE|4"
+  },
+  {
+   "pair_id": "TUne37",
+   "brand": "Unesco",
+   "A": "Unesco|O_H|1",
+   "B": "Unesco|N_L|4"
+  },
+  {
+   "pair_id": "TUne38",
+   "brand": "Unesco",
+   "A": "Unesco|O_H|4",
+   "B": "Unesco|E_L|5"
+  },
+  {
+   "pair_id": "TUne39",
+   "brand": "Unesco",
+   "A": "Unesco|N_H|2",
+   "B": "Unesco|O_H|1"
+  },
+  {
+   "pair_id": "TUne40",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|1",
+   "B": "Unesco|E_H|5"
+  },
+  {
+   "pair_id": "TUne41",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|2",
+   "B": "Unesco|BASE|3"
+  },
+  {
+   "pair_id": "TUne42",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|2",
+   "B": "Unesco|N_L|4"
+  },
+  {
+   "pair_id": "TUne43",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|1",
+   "B": "Unesco|E_L|5"
+  },
+  {
+   "pair_id": "TUne44",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|1",
+   "B": "Unesco|N_H|0"
+  },
+  {
+   "pair_id": "TUne45",
+   "brand": "Unesco",
+   "A": "Unesco|E_H|1",
+   "B": "Unesco|BASE|3"
+  },
+  {
+   "pair_id": "TUne46",
+   "brand": "Unesco",
+   "A": "Unesco|E_H|1",
+   "B": "Unesco|N_L|1"
+  },
+  {
+   "pair_id": "TUne47",
+   "brand": "Unesco",
+   "A": "Unesco|E_H|5",
+   "B": "Unesco|E_L|5"
+  },
+  {
+   "pair_id": "TUne48",
+   "brand": "Unesco",
+   "A": "Unesco|E_H|1",
+   "B": "Unesco|N_H|0"
+  },
+  {
+   "pair_id": "TUne49",
+   "brand": "Unesco",
+   "A": "Unesco|BASE|4",
+   "B": "Unesco|N_L|4"
+  },
+  {
+   "pair_id": "TUne50",
+   "brand": "Unesco",
+   "A": "Unesco|BASE|3",
+   "B": "Unesco|E_L|1"
+  },
+  {
+   "pair_id": "TUne51",
+   "brand": "Unesco",
+   "A": "Unesco|BASE|4",
+   "B": "Unesco|N_H|2"
+  },
+  {
+   "pair_id": "TUne52",
+   "brand": "Unesco",
+   "A": "Unesco|N_L|1",
+   "B": "Unesco|E_L|1"
+  },
+  {
+   "pair_id": "TUne53",
+   "brand": "Unesco",
+   "A": "Unesco|N_L|1",
+   "B": "Unesco|N_H|0"
+  },
+  {
+   "pair_id": "TUne54",
+   "brand": "Unesco",
+   "A": "Unesco|E_L|5",
+   "B": "Unesco|N_H|2"
+  }
+ ],
+ "dev_pairs": [
+  {
+   "pair_id": "DIKE00",
+   "brand": "IKEA",
+   "A": "IKEA|A_L|2",
+   "B": "IKEA|E_L|3"
+  },
+  {
+   "pair_id": "DIKE01",
+   "brand": "IKEA",
+   "A": "IKEA|A_H|4",
+   "B": "IKEA|C_H|4"
+  },
+  {
+   "pair_id": "DIKE02",
+   "brand": "IKEA",
+   "A": "IKEA|C_L|2",
+   "B": "IKEA|O_H|2"
+  },
+  {
+   "pair_id": "DIKE03",
+   "brand": "IKEA",
+   "A": "IKEA|E_L|3",
+   "B": "IKEA|C_L|2"
+  },
+  {
+   "pair_id": "DIKE04",
+   "brand": "IKEA",
+   "A": "IKEA|A_L|2",
+   "B": "IKEA|BASE|4"
+  },
+  {
+   "pair_id": "DIKE05",
+   "brand": "IKEA",
+   "A": "IKEA|N_L|0",
+   "B": "IKEA|O_H|2"
+  },
+  {
+   "pair_id": "DIKE06",
+   "brand": "IKEA",
+   "A": "IKEA|BASE|4",
+   "B": "IKEA|E_H|1"
+  },
+  {
+   "pair_id": "DIKE07",
+   "brand": "IKEA",
+   "A": "IKEA|O_L|3",
+   "B": "IKEA|N_H|0"
+  },
+  {
+   "pair_id": "DIKE08",
+   "brand": "IKEA",
+   "A": "IKEA|C_H|4",
+   "B": "IKEA|O_H|2"
+  },
+  {
+   "pair_id": "DIKE09",
+   "brand": "IKEA",
+   "A": "IKEA|O_H|2",
+   "B": "IKEA|E_L|3"
+  },
+  {
+   "pair_id": "DIKE10",
+   "brand": "IKEA",
+   "A": "IKEA|BASE|4",
+   "B": "IKEA|C_L|2"
+  },
+  {
+   "pair_id": "DKla00",
+   "brand": "Klarna",
+   "A": "Klarna|N_H|1",
+   "B": "Klarna|E_H|4"
+  },
+  {
+   "pair_id": "DKla01",
+   "brand": "Klarna",
+   "A": "Klarna|O_L|0",
+   "B": "Klarna|E_H|4"
+  },
+  {
+   "pair_id": "DKla02",
+   "brand": "Klarna",
+   "A": "Klarna|BASE|3",
+   "B": "Klarna|O_L|0"
+  },
+  {
+   "pair_id": "DKla03",
+   "brand": "Klarna",
+   "A": "Klarna|E_H|4",
+   "B": "Klarna|E_L|2"
+  },
+  {
+   "pair_id": "DKla04",
+   "brand": "Klarna",
+   "A": "Klarna|A_H|2",
+   "B": "Klarna|N_L|5"
+  },
+  {
+   "pair_id": "DKla05",
+   "brand": "Klarna",
+   "A": "Klarna|O_H|0",
+   "B": "Klarna|N_H|1"
+  },
+  {
+   "pair_id": "DKla06",
+   "brand": "Klarna",
+   "A": "Klarna|BASE|3",
+   "B": "Klarna|C_L|4"
+  },
+  {
+   "pair_id": "DKla07",
+   "brand": "Klarna",
+   "A": "Klarna|N_H|1",
+   "B": "Klarna|A_H|2"
+  },
+  {
+   "pair_id": "DKla08",
+   "brand": "Klarna",
+   "A": "Klarna|C_L|4",
+   "B": "Klarna|A_H|2"
+  },
+  {
+   "pair_id": "DKla09",
+   "brand": "Klarna",
+   "A": "Klarna|A_H|2",
+   "B": "Klarna|C_H|0"
+  },
+  {
+   "pair_id": "DKla10",
+   "brand": "Klarna",
+   "A": "Klarna|E_H|4",
+   "B": "Klarna|N_L|5"
+  },
+  {
+   "pair_id": "DRob00",
+   "brand": "Roblox",
+   "A": "Roblox|E_H|4",
+   "B": "Roblox|O_L|0"
+  },
+  {
+   "pair_id": "DRob01",
+   "brand": "Roblox",
+   "A": "Roblox|N_H|3",
+   "B": "Roblox|N_L|5"
+  },
+  {
+   "pair_id": "DRob02",
+   "brand": "Roblox",
+   "A": "Roblox|A_H|4",
+   "B": "Roblox|N_H|3"
+  },
+  {
+   "pair_id": "DRob03",
+   "brand": "Roblox",
+   "A": "Roblox|C_H|2",
+   "B": "Roblox|E_H|4"
+  },
+  {
+   "pair_id": "DRob04",
+   "brand": "Roblox",
+   "A": "Roblox|C_L|5",
+   "B": "Roblox|N_H|3"
+  },
+  {
+   "pair_id": "DRob05",
+   "brand": "Roblox",
+   "A": "Roblox|A_L|1",
+   "B": "Roblox|BASE|1"
+  },
+  {
+   "pair_id": "DRob06",
+   "brand": "Roblox",
+   "A": "Roblox|N_H|3",
+   "B": "Roblox|E_H|4"
+  },
+  {
+   "pair_id": "DRob07",
+   "brand": "Roblox",
+   "A": "Roblox|E_H|4",
+   "B": "Roblox|E_L|0"
+  },
+  {
+   "pair_id": "DRob08",
+   "brand": "Roblox",
+   "A": "Roblox|C_L|5",
+   "B": "Roblox|A_L|1"
+  },
+  {
+   "pair_id": "DRob09",
+   "brand": "Roblox",
+   "A": "Roblox|A_H|4",
+   "B": "Roblox|C_H|2"
+  },
+  {
+   "pair_id": "DRob10",
+   "brand": "Roblox",
+   "A": "Roblox|N_L|5",
+   "B": "Roblox|O_H|5"
+  },
+  {
+   "pair_id": "DSla00",
+   "brand": "Slack",
+   "A": "Slack|E_L|5",
+   "B": "Slack|A_H|1"
+  },
+  {
+   "pair_id": "DSla01",
+   "brand": "Slack",
+   "A": "Slack|O_H|5",
+   "B": "Slack|O_L|3"
+  },
+  {
+   "pair_id": "DSla02",
+   "brand": "Slack",
+   "A": "Slack|BASE|5",
+   "B": "Slack|A_L|0"
+  },
+  {
+   "pair_id": "DSla03",
+   "brand": "Slack",
+   "A": "Slack|C_H|1",
+   "B": "Slack|E_L|5"
+  },
+  {
+   "pair_id": "DSla04",
+   "brand": "Slack",
+   "A": "Slack|E_L|5",
+   "B": "Slack|O_H|5"
+  },
+  {
+   "pair_id": "DSla05",
+   "brand": "Slack",
+   "A": "Slack|E_L|5",
+   "B": "Slack|N_H|1"
+  },
+  {
+   "pair_id": "DSla06",
+   "brand": "Slack",
+   "A": "Slack|E_H|5",
+   "B": "Slack|C_H|1"
+  },
+  {
+   "pair_id": "DSla07",
+   "brand": "Slack",
+   "A": "Slack|C_L|0",
+   "B": "Slack|C_H|1"
+  },
+  {
+   "pair_id": "DSla08",
+   "brand": "Slack",
+   "A": "Slack|E_H|5",
+   "B": "Slack|O_L|3"
+  },
+  {
+   "pair_id": "DSla09",
+   "brand": "Slack",
+   "A": "Slack|E_L|5",
+   "B": "Slack|C_L|0"
+  },
+  {
+   "pair_id": "DSla10",
+   "brand": "Slack",
+   "A": "Slack|N_L|2",
+   "B": "Slack|A_H|1"
+  },
+  {
+   "pair_id": "DUne00",
+   "brand": "Unesco",
+   "A": "Unesco|N_L|5",
+   "B": "Unesco|A_H|4"
+  },
+  {
+   "pair_id": "DUne01",
+   "brand": "Unesco",
+   "A": "Unesco|E_L|0",
+   "B": "Unesco|BASE|5"
+  },
+  {
+   "pair_id": "DUne02",
+   "brand": "Unesco",
+   "A": "Unesco|A_H|4",
+   "B": "Unesco|E_H|4"
+  },
+  {
+   "pair_id": "DUne03",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|5",
+   "B": "Unesco|O_H|2"
+  },
+  {
+   "pair_id": "DUne04",
+   "brand": "Unesco",
+   "A": "Unesco|N_H|5",
+   "B": "Unesco|C_H|5"
+  },
+  {
+   "pair_id": "DUne05",
+   "brand": "Unesco",
+   "A": "Unesco|A_H|4",
+   "B": "Unesco|C_L|4"
+  },
+  {
+   "pair_id": "DUne06",
+   "brand": "Unesco",
+   "A": "Unesco|E_H|4",
+   "B": "Unesco|BASE|5"
+  },
+  {
+   "pair_id": "DUne07",
+   "brand": "Unesco",
+   "A": "Unesco|BASE|5",
+   "B": "Unesco|O_H|2"
+  },
+  {
+   "pair_id": "DUne08",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|5",
+   "B": "Unesco|A_H|4"
+  },
+  {
+   "pair_id": "DUne09",
+   "brand": "Unesco",
+   "A": "Unesco|C_H|5",
+   "B": "Unesco|N_L|5"
+  },
+  {
+   "pair_id": "DUne10",
+   "brand": "Unesco",
+   "A": "Unesco|E_L|0",
+   "B": "Unesco|O_L|3"
+  }
+ ],
+ "test_reversed": [
+  "TIKE34",
+  "TIKE20",
+  "TIKE14",
+  "TIKE25",
+  "TIKE50",
+  "TIKE46",
+  "TIKE37",
+  "TIKE40",
+  "TIKE00",
+  "TIKE47",
+  "TIKE36",
+  "TIKE48",
+  "TIKE10",
+  "TIKE17",
+  "TKla25",
+  "TKla35",
+  "TKla00",
+  "TKla11",
+  "TKla13",
+  "TKla39",
+  "TKla47",
+  "TKla52",
+  "TKla19",
+  "TKla38",
+  "TKla49",
+  "TKla36",
+  "TKla06",
+  "TKla26",
+  "TRob28",
+  "TRob39",
+  "TRob35",
+  "TRob14",
+  "TRob32",
+  "TRob44",
+  "TRob16",
+  "TRob01",
+  "TRob47",
+  "TRob12",
+  "TRob36",
+  "TRob38",
+  "TRob46",
+  "TRob15",
+  "TSla39",
+  "TSla33",
+  "TSla30",
+  "TSla46",
+  "TSla42",
+  "TSla32",
+  "TSla18",
+  "TSla40",
+  "TSla36",
+  "TSla23",
+  "TSla31",
+  "TSla50",
+  "TSla19",
+  "TSla20",
+  "TUne08",
+  "TUne26",
+  "TUne22",
+  "TUne44",
+  "TUne03",
+  "TUne42",
+  "TUne18",
+  "TUne07",
+  "TUne52",
+  "TUne01",
+  "TUne10",
+  "TUne40",
+  "TUne41",
+  "TUne31"
+ ],
+ "test_repeat": [
+  "TIKE07",
+  "TIKE09",
+  "TIKE53",
+  "TIKE49",
+  "TIKE32",
+  "TIKE22",
+  "TIKE18",
+  "TIKE21",
+  "TIKE13",
+  "TIKE12",
+  "TIKE51",
+  "TIKE52",
+  "TIKE05",
+  "TIKE06",
+  "TKla10",
+  "TKla21",
+  "TKla46",
+  "TKla27",
+  "TKla44",
+  "TKla08",
+  "TKla03",
+  "TKla53",
+  "TKla24",
+  "TKla09",
+  "TKla50",
+  "TKla01",
+  "TKla54",
+  "TKla42",
+  "TRob05",
+  "TRob06",
+  "TRob40",
+  "TRob00",
+  "TRob24",
+  "TRob04",
+  "TRob25",
+  "TRob37",
+  "TRob10",
+  "TRob30",
+  "TRob07",
+  "TRob03",
+  "TRob26",
+  "TRob51",
+  "TSla04",
+  "TSla01",
+  "TSla35",
+  "TSla47",
+  "TSla05",
+  "TSla10",
+  "TSla14",
+  "TSla28",
+  "TSla34",
+  "TSla11",
+  "TSla00",
+  "TSla43",
+  "TSla51",
+  "TSla08",
+  "TUne39",
+  "TUne33",
+  "TUne43",
+  "TUne21",
+  "TUne14",
+  "TUne13",
+  "TUne45",
+  "TUne30",
+  "TUne23",
+  "TUne06",
+  "TUne04",
+  "TUne19",
+  "TUne24",
+  "TUne27"
+ ],
+ "dev_reversed": [
+  "DIKE08",
+  "DIKE05",
+  "DIKE07",
+  "DIKE06",
+  "DKla03",
+  "DKla05",
+  "DKla09",
+  "DKla06",
+  "DRob03",
+  "DRob04",
+  "DRob01",
+  "DRob02",
+  "DSla08",
+  "DSla01",
+  "DSla04",
+  "DSla09",
+  "DUne06",
+  "DUne09",
+  "DUne07",
+  "DUne01"
+ ]
+}

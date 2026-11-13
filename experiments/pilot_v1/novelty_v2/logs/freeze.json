@@ -1,0 +1,15 @@
+{
+ "frozen_at": "2026-11-12T12:16:43+09:00",
+ "test_rubric": "novelty_abs_v2b",
+ "sha256": {
+  "novelty_abs_v2b.txt": "6aa25fff3bf811e6f206168f327028594cf2d08bce5eee51c176e6619b28a6b3",
+  "familiar_formats.txt": "a5d321429d0f8fd235b8ee2e842f7b4bdf32a9dfe6543a3966430328a39b72fa",
+  "novelty_pair_v1.txt": "c437927cabe321fc4b26961f73c2224151095f7b02dece65a73b45ece0f63540",
+  "judge_prompt.txt": "dac484f6ac442208c08e5624a8154785acb8478eee179cb990b291b01f5ee429",
+  "judge_system_prompt.txt": "18d72c1d344d44be28a59fbfd1c2eeceee6c2c96c0ee91b56e3f48bbc44505f1",
+  "ANALYSIS_PLAN.md": "32168cf59b70b3e3f32c79cd8710fd4eb63189719c8cd49431b559f8e5c2f68c",
+  "study_config.json": "6427455a2270a48207689b57f0a951b661f37d3f4b103910a952d11286b1b8ac",
+  "sample.json": "170fc75056a98e22faf8dc04d16d291051e1d6d45defb6df370ef248a57586e2"
+ },
+ "note": "TEST judgments were requested only after this record was written."
+}

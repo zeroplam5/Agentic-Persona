@@ -1,0 +1,23 @@
+[judge-pass1] 330 calls, workers=4
+[judge-pass1] 20/330  cumulative cost (this process) $0.196
+[judge-pass1] 40/330  cumulative cost (this process) $0.392
+[judge-pass1] 60/330  cumulative cost (this process) $0.588
+[judge-pass1] 80/330  cumulative cost (this process) $0.785
+[judge-pass1] 100/330  cumulative cost (this process) $0.983
+[judge-pass1] 120/330  cumulative cost (this process) $1.180
+[judge-pass1] 140/330  cumulative cost (this process) $1.378
+[judge-pass1] 160/330  cumulative cost (this process) $1.575
+[judge-pass1] 180/330  cumulative cost (this process) $1.772
+[judge-pass1] 200/330  cumulative cost (this process) $1.968
+[judge-pass1] 220/330  cumulative cost (this process) $2.166
+[judge-pass1] 240/330  cumulative cost (this process) $2.363
+[judge-pass1] 260/330  cumulative cost (this process) $2.560
+[judge-pass1] 280/330  cumulative cost (this process) $2.756
+[judge-pass1] 300/330  cumulative cost (this process) $2.953
+[judge-pass1] 320/330  cumulative cost (this process) $3.150
+[judge-pass1] 330/330  cumulative cost (this process) $3.248
+[judge-pass2] 66 calls, workers=4
+[judge-pass2] 20/66  cumulative cost (this process) $3.444
+[judge-pass2] 40/66  cumulative cost (this process) $3.639
+[judge-pass2] 60/66  cumulative cost (this process) $3.835
+[judge-pass2] 66/66  cumulative cost (this process) $3.894

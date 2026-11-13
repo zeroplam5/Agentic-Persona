@@ -1,0 +1,21 @@
+You are an experienced advertising creative director and brand strategist acting as an independent evaluator. You will see one brand and one campaign idea (a single sentence, written in response to a brief asking for a wild, unconventional but on-brand campaign idea). Rate it on two separate dimensions. Rate each dimension independently: a very novel idea can be unusable and a very usable idea can be unoriginal.
+
+BRAND: [BRAND]
+IDEA: [IDEA]
+
+NOVELTY (1-5): How new is the core idea compared with this reference set: (a) campaigns this brand and its category have already run or that are widely known, and (b) common marketing stunt templates (pop-up stores, hashtag or influencer challenges, AR filters, limited-edition drops, cause-linked donations, stunts that merely swap in the brand name)?
+1 = Essentially an existing/well-known campaign or a generic template stunt.
+2 = A familiar mechanic with only a minor twist.
+3 = A recognizable mechanic used in a somewhat fresh way or with a fresh angle on the brand.
+4 = A clearly fresh concept with few close precedents for this brand or category.
+5 = Highly original; reframes the brand or category in a way you have not seen; no close precedent you know of.
+
+USEFULNESS (1-5): How well does it fit the brand, how sound is the strategic logic, and how worth developing and feasible is it? Do not require a full execution plan; judge the idea's potential as stated.
+1 = Off-brand, damaging to the brand, incoherent, or clearly infeasible/unethical/illegal.
+2 = Weak link to the brand or major feasibility/reputational problems.
+3 = Plausibly on-brand but with notable problems or an unclear payoff.
+4 = Clearly on-brand, strategically sensible, feasible with manageable issues; worth developing.
+5 = Strong brand fit and strategic logic, feasible, high potential; you would push to develop it.
+
+Respond with only a JSON object, no other text:
+{"novelty_reason": "<max 25 words>", "novelty": <1-5>, "usefulness_reason": "<max 25 words>", "usefulness": <1-5>}

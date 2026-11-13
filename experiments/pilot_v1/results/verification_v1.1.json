@@ -1,0 +1,60 @@
+{
+ "composite_formula": "100*(0.5*(N-1)/4 + 0.5*(U-1)/4)",
+ "n_ideas": 330,
+ "cells_balanced": true,
+ "cell_size_set": [
+  6
+ ],
+ "brand_equal_vs_pooled_max_abs_diff": {
+  "n": 8.881784197001252e-16,
+  "u": 4.440892098500626e-16,
+  "comp": 7.105427357601002e-15,
+  "harm": 0.0
+ },
+ "idea_level_max_abs_diff_comp_vs_old_csv": 0.0,
+ "idea_level_max_abs_diff_harm_vs_old_csv": 0.0,
+ "idea_level_novelty_usefulness_mismatch": 0,
+ "condition_mean_max_abs_diff_vs_old_summary": {
+  "n": 8.881784197001252e-16,
+  "u": 4.440892098500626e-16,
+  "comp": 7.105427357601002e-15,
+  "harm": 7.105427357601002e-15,
+  "floor": 0.0
+ },
+ "dBASE_max_abs_diff_vs_old_summary": {
+  "n": 0.0,
+  "u": 0.0,
+  "comp": 0.0,
+  "harm": 5.329070518200751e-15
+ },
+ "dBASE_ci_max_abs_diff_vs_old_summary": {
+  "n": 0.0,
+  "u": 0.0,
+  "comp": 0.0,
+  "harm": 8.881784197001252e-15
+ },
+ "diversity_max_abs_diff_vs_old_summary": 0.0,
+ "display_changed_vs_old_report_1dp": [
+  "BASE 조화: 이전 54.2 → 현재 54.3 (원값 54.2500)",
+  "C_H 종합: 이전 61.2 → 현재 61.3 (원값 61.2500)",
+  "N_H 종합: 이전 66.2 → 현재 66.3 (원값 66.2500)"
+ ],
+ "display_ties_after_rounding_1dp": [],
+ "exact_raw_ties": [
+  [
+   "A_L",
+   "E_L"
+  ],
+  [
+   "E_L",
+   "N_L"
+  ]
+ ],
+ "dBASE_shown_vs_difference_of_shown_means_mismatch": [
+  "E_H",
+  "E_L",
+  "A_H",
+  "A_L",
+  "N_L"
+ ]
+}

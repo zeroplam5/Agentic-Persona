@@ -1,0 +1,8 @@
+EXPLORATORY (not pre-registered). 'long' = output_tokens > 250
+output_tokens quantiles: [82, 94, 104, 506, 673, 824, 1147]
+histogram (bins of 100): {0: 59, 100: 71, 300: 3, 400: 31, 500: 43, 600: 50, 700: 36, 800: 16, 900: 21}
+
+share of long outputs by condition: {'E_H': 0.43, 'BASE': 0.23, 'O_H': 1.0, 'C_L': 0.17, 'A_L': 0.53, 'O_L': 1.0, 'C_H': 0.73, 'E_L': 0.67, 'N_H': 1.0, 'N_L': 0.9, 'A_H': 0.0}
+cell-level corr(share long, bge diversity), 55 cells: 0.66
+novelty: long n=200 mean=4.29 | short n=130 mean=4.01
+usefulness: long n=200 mean=3.09 | short n=130 mean=2.59

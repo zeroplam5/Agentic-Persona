@@ -1,0 +1,19 @@
+{
+  "study": "novelty_measurement_v2 (re-scoring pilot v1 ideas; no regeneration)",
+  "seed": 20261114,
+  "judge_model": "claude-opus-4-7",
+  "judge_note": "Same judge and CLI call path as pilot v1 (pilot.py call_claude) so that differences come from the rubric/method, not the judge. Temperature not settable via CLI.",
+  "dev_per_cell": 1,
+  "test_per_cell": 2,
+  "dev_pairs_per_brand": 11,
+  "dev_reversed_per_brand": 4,
+  "reversed_per_brand": 14,
+  "repeat_per_brand": 14,
+  "pair_prompt": "novelty_pair_v1",
+  "max_dev_revisions": 1,
+  "human_pairs_per_brand": 6,
+  "human_calibration_pairs": 6,
+  "est_cost_per_call_usd": 0.013,
+  "study_budget_usd": 15.0,
+  "budget_note": "Pilot v1 pre-registered a 30 USD nominal cap (CLI-reported cost, charged to the subscription) and used about 7 USD. This study is capped at 15 USD so that v1 + this study stay within the original 30 USD cap."
+}

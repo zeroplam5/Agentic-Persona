@@ -1,0 +1,33 @@
+[openai-abs-pass1-novelty_abs_v2c] 110 calls (openai gpt-4.1-2025-04-14)
+[openai-abs-pass1-novelty_abs_v2c] 50/110  study spend $1.740
+[openai-abs-pass1-novelty_abs_v2c] 100/110  study spend $1.923
+[openai-abs-pass1-novelty_abs_v2c] 110/110  study spend $1.959
+[openai-abs-pass1-old_v1] 110 calls (openai gpt-4.1-2025-04-14)
+[openai-abs-pass1-old_v1] 50/110  study spend $2.044
+[openai-abs-pass1-old_v1] 100/110  study spend $2.128
+[openai-abs-pass1-old_v1] 110/110  study spend $2.145
+[openai-pairs-AB] 275 calls (openai gpt-4.1-2025-04-14)
+[openai-pairs-AB] 50/275  study spend $2.224
+[openai-pairs-AB] 100/275  study spend $2.303
+[openai-pairs-AB] 150/275  study spend $2.382
+[openai-pairs-AB] 200/275  study spend $2.461
+[openai-pairs-AB] 250/275  study spend $2.540
+[openai-pairs-AB] 275/275  study spend $2.580
+[openai-abs-pass2-novelty_abs_v2c] 110 calls (openai gpt-4.1-2025-04-14)
+[openai-abs-pass2-novelty_abs_v2c] 50/110  study spend $2.763
+[openai-abs-pass2-novelty_abs_v2c] 100/110  study spend $2.947
+[openai-abs-pass2-novelty_abs_v2c] 110/110  study spend $2.983
+[openai-abs-pass2-old_v1] 110 calls (openai gpt-4.1-2025-04-14)
+[openai-abs-pass2-old_v1] 50/110  study spend $3.068
+[openai-abs-pass2-old_v1] 100/110  study spend $3.153
+[openai-abs-pass2-old_v1] 110/110  study spend $3.170
+[openai-pairs-BA+repeat] 345 calls (openai gpt-4.1-2025-04-14)
+[openai-pairs-BA+repeat] 50/345  study spend $3.250
+[openai-pairs-BA+repeat] 100/345  study spend $3.328
+[openai-pairs-BA+repeat] 150/345  study spend $3.407
+[openai-pairs-BA+repeat] 200/345  study spend $3.486
+[openai-pairs-BA+repeat] 250/345  study spend $3.565
+[openai-pairs-BA+repeat] 300/345  study spend $3.643
+[openai-pairs-BA+repeat] 345/345  study spend $3.714
+study spend 3.714
+EXIT 0

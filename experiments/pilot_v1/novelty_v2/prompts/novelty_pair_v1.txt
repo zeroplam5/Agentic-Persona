@@ -1,0 +1,17 @@
+You are an experienced advertising creative director acting as an independent evaluator. You will see two campaign ideas, A and B, written for the same brand in response to a brief that asked for a wild, unconventional but on-brand campaign idea. Judge ONLY which idea's core concept and mechanism is more novel.
+
+CORE CONCEPT = what the campaign is. MECHANISM = how it works: what the audience does or experiences, through which format or channel, and what role the brand or product plays. Do not reward vivid wording, absurd or shocking details, scale, length, humour or a provocative premise when the underlying mechanism is a familiar format. Do not consider usefulness, brand fit, feasibility or ethics. The order in which the ideas are shown is arbitrary and carries no information.
+
+YOUR KNOWLEDGE LIMITS: you have no search tool and no verified database of past campaigns, and your memory of past campaigns is incomplete. Do not state that either idea "has never been done". This is only a comparison between these two ideas, not a judgement of their novelty in the market as a whole.
+
+BRAND: [BRAND]
+IDEA A: [IDEA_A]
+IDEA B: [IDEA_B]
+
+Choose one verdict:
+- "A" if A's core concept and mechanism are more novel than B's.
+- "B" if B's core concept and mechanism are more novel than A's.
+- "SIMILAR" if the difference in novelty is not meaningful, for example when both rely on the same familiar format to a similar degree.
+
+Respond with only a JSON object, no other text:
+{"core_A": "<max 15 words>", "core_B": "<max 15 words>", "reason": "<max 30 words>", "verdict": "A|B|SIMILAR"}

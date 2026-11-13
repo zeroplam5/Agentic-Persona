@@ -1,0 +1,19 @@
+{
+  "study": "novelty_measurement_v3: rubric revision with Gemini (DEV), final TEST scoring with OpenAI; same ideas, same DEV/TEST split and pair design as v2",
+  "seed": 20261115,
+  "sample_file": "../novelty_v2/logs/sample.json",
+  "dev_judge": {"provider": "gemini", "model": "gemini-3.1-pro-preview", "temperature": 1.0, "max_output_tokens": 4000, "thinking_budget": 1024,
+                "price_usd_per_1m": {"input": 2.0, "output": 12.0}, "price_source": "third-party aggregators citing ai.google.dev pricing, checked 2026-11-13; output price applied to candidates + thoughts tokens"},
+  "test_judge": {"provider": "openai", "model": "gpt-4.1-2025-04-14", "temperature": 1.0, "max_output_tokens": 500,
+                 "price_usd_per_1m": {"input": 2.0, "output": 8.0}, "price_source": "third-party aggregators, checked 2026-11-13"},
+  "temperature_note": "1.0 for both, matching the default temperature of the earlier Claude CLI runs, so that pass-1 vs pass-2 agreement measures sampling variation in the same way.",
+  "model_choice_note": "gpt-4.1 chosen over gpt-5.5 for TEST: temperature is settable (comparable retest) and estimated cost is about 1/4 (about 5 vs 20 USD). Not a reasoning model.",
+  "workers": 6,
+  "max_dev_revisions": 1,
+  "budget_usd": 15.0,
+  "human_dir": "../../../human_rating_blind_novelty",
+  "human_abs_file": "novelty_absolute_rated.csv",
+  "human_pair_file": "novelty_pairs_rated.csv",
+  "human_key_dir": "../novelty_v2/human_key_DO_NOT_OPEN_until_rating_done",
+  "n_boot": 5000
+}

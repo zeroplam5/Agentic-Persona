@@ -1,0 +1,21 @@
+[generate] 330 calls, workers=4
+[generate] 20/330  cumulative cost (this process) $0.181
+[generate] 40/330  cumulative cost (this process) $0.302
+[generate] 60/330  cumulative cost (this process) $0.471
+[generate] 80/330  cumulative cost (this process) $0.622
+[generate] 100/330  cumulative cost (this process) $0.770
+[generate] 120/330  cumulative cost (this process) $0.916
+[generate] 140/330  cumulative cost (this process) $1.072
+[generate] 160/330  cumulative cost (this process) $1.197
+[generate] 180/330  cumulative cost (this process) $1.380
+[generate] 200/330  cumulative cost (this process) $1.538
+[generate] 220/330  cumulative cost (this process) $1.710
+[generate] 240/330  cumulative cost (this process) $1.856
+[generate] 260/330  cumulative cost (this process) $2.010
+[generate] 280/330  cumulative cost (this process) $2.145
+[generate] 300/330  cumulative cost (this process) $2.290
+[generate] 320/330  cumulative cost (this process) $2.474
+[generate] 330/330  cumulative cost (this process) $2.533
+[manip] 33 calls, workers=4
+[manip] 20/33  cumulative cost (this process) $0.348
+[manip] 33/33  cumulative cost (this process) $0.540

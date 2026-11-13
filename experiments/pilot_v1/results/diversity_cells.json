@@ -1,0 +1,387 @@
+[
+ {
+  "brand": "IKEA",
+  "condition": "A_H",
+  "n": 6,
+  "tfidf_div": 0.7787369826030693,
+  "bge_div": 0.1364206224679947
+ },
+ {
+  "brand": "IKEA",
+  "condition": "A_L",
+  "n": 6,
+  "tfidf_div": 0.8277349772911073,
+  "bge_div": 0.2837182283401489
+ },
+ {
+  "brand": "IKEA",
+  "condition": "BASE",
+  "n": 6,
+  "tfidf_div": 0.7220472572611659,
+  "bge_div": 0.1319950968027115
+ },
+ {
+  "brand": "IKEA",
+  "condition": "C_H",
+  "n": 6,
+  "tfidf_div": 0.8621291900955299,
+  "bge_div": 0.26299670338630676
+ },
+ {
+  "brand": "IKEA",
+  "condition": "C_L",
+  "n": 6,
+  "tfidf_div": 0.7364552535654219,
+  "bge_div": 0.11802468448877335
+ },
+ {
+  "brand": "IKEA",
+  "condition": "E_H",
+  "n": 6,
+  "tfidf_div": 0.7631238125919692,
+  "bge_div": 0.12906144559383392
+ },
+ {
+  "brand": "IKEA",
+  "condition": "E_L",
+  "n": 6,
+  "tfidf_div": 0.8839611766963821,
+  "bge_div": 0.26175370812416077
+ },
+ {
+  "brand": "IKEA",
+  "condition": "N_H",
+  "n": 6,
+  "tfidf_div": 0.8825703039893152,
+  "bge_div": 0.2761750817298889
+ },
+ {
+  "brand": "IKEA",
+  "condition": "N_L",
+  "n": 6,
+  "tfidf_div": 0.9242510233453712,
+  "bge_div": 0.3337233364582062
+ },
+ {
+  "brand": "IKEA",
+  "condition": "O_H",
+  "n": 6,
+  "tfidf_div": 0.8669723370023195,
+  "bge_div": 0.2686637341976166
+ },
+ {
+  "brand": "IKEA",
+  "condition": "O_L",
+  "n": 6,
+  "tfidf_div": 0.8666967778673285,
+  "bge_div": 0.26993417739868164
+ },
+ {
+  "brand": "Klarna",
+  "condition": "A_H",
+  "n": 6,
+  "tfidf_div": 0.8312905056267776,
+  "bge_div": 0.21656502783298492
+ },
+ {
+  "brand": "Klarna",
+  "condition": "A_L",
+  "n": 6,
+  "tfidf_div": 0.8565914760814439,
+  "bge_div": 0.2657647132873535
+ },
+ {
+  "brand": "Klarna",
+  "condition": "BASE",
+  "n": 6,
+  "tfidf_div": 0.8303884992099158,
+  "bge_div": 0.17676977813243866
+ },
+ {
+  "brand": "Klarna",
+  "condition": "C_H",
+  "n": 6,
+  "tfidf_div": 0.9072981171273798,
+  "bge_div": 0.3562011122703552
+ },
+ {
+  "brand": "Klarna",
+  "condition": "C_L",
+  "n": 6,
+  "tfidf_div": 0.8875975014772292,
+  "bge_div": 0.3096359372138977
+ },
+ {
+  "brand": "Klarna",
+  "condition": "E_H",
+  "n": 6,
+  "tfidf_div": 0.931149963420846,
+  "bge_div": 0.32794734835624695
+ },
+ {
+  "brand": "Klarna",
+  "condition": "E_L",
+  "n": 6,
+  "tfidf_div": 0.847586265943775,
+  "bge_div": 0.22163785994052887
+ },
+ {
+  "brand": "Klarna",
+  "condition": "N_H",
+  "n": 6,
+  "tfidf_div": 0.9231262955515557,
+  "bge_div": 0.44266563653945923
+ },
+ {
+  "brand": "Klarna",
+  "condition": "N_L",
+  "n": 6,
+  "tfidf_div": 0.9114469736298115,
+  "bge_div": 0.3548344671726227
+ },
+ {
+  "brand": "Klarna",
+  "condition": "O_H",
+  "n": 6,
+  "tfidf_div": 0.9325360021944266,
+  "bge_div": 0.3708754777908325
+ },
+ {
+  "brand": "Klarna",
+  "condition": "O_L",
+  "n": 6,
+  "tfidf_div": 0.9129636773962392,
+  "bge_div": 0.33212798833847046
+ },
+ {
+  "brand": "Roblox",
+  "condition": "A_H",
+  "n": 6,
+  "tfidf_div": 0.8471465133267805,
+  "bge_div": 0.24728551506996155
+ },
+ {
+  "brand": "Roblox",
+  "condition": "A_L",
+  "n": 6,
+  "tfidf_div": 0.8592861258971441,
+  "bge_div": 0.22393234074115753
+ },
+ {
+  "brand": "Roblox",
+  "condition": "BASE",
+  "n": 6,
+  "tfidf_div": 0.8653940708370781,
+  "bge_div": 0.195631742477417
+ },
+ {
+  "brand": "Roblox",
+  "condition": "C_H",
+  "n": 6,
+  "tfidf_div": 0.9130787458472509,
+  "bge_div": 0.26989609003067017
+ },
+ {
+  "brand": "Roblox",
+  "condition": "C_L",
+  "n": 6,
+  "tfidf_div": 0.8765922532364964,
+  "bge_div": 0.2517983615398407
+ },
+ {
+  "brand": "Roblox",
+  "condition": "E_H",
+  "n": 6,
+  "tfidf_div": 0.9203296905611034,
+  "bge_div": 0.3407594561576843
+ },
+ {
+  "brand": "Roblox",
+  "condition": "E_L",
+  "n": 6,
+  "tfidf_div": 0.8895176742177296,
+  "bge_div": 0.2781387269496918
+ },
+ {
+  "brand": "Roblox",
+  "condition": "N_H",
+  "n": 6,
+  "tfidf_div": 0.9053910895829145,
+  "bge_div": 0.26909929513931274
+ },
+ {
+  "brand": "Roblox",
+  "condition": "N_L",
+  "n": 6,
+  "tfidf_div": 0.9001949921426772,
+  "bge_div": 0.2759350836277008
+ },
+ {
+  "brand": "Roblox",
+  "condition": "O_H",
+  "n": 6,
+  "tfidf_div": 0.8411615222398702,
+  "bge_div": 0.218695729970932
+ },
+ {
+  "brand": "Roblox",
+  "condition": "O_L",
+  "n": 6,
+  "tfidf_div": 0.8760408424180184,
+  "bge_div": 0.29066985845565796
+ },
+ {
+  "brand": "Slack",
+  "condition": "A_H",
+  "n": 6,
+  "tfidf_div": 0.8523120657305253,
+  "bge_div": 0.1688273400068283
+ },
+ {
+  "brand": "Slack",
+  "condition": "A_L",
+  "n": 6,
+  "tfidf_div": 0.8643922405005976,
+  "bge_div": 0.20064781606197357
+ },
+ {
+  "brand": "Slack",
+  "condition": "BASE",
+  "n": 6,
+  "tfidf_div": 0.8590252287207013,
+  "bge_div": 0.22346535325050354
+ },
+ {
+  "brand": "Slack",
+  "condition": "C_H",
+  "n": 6,
+  "tfidf_div": 0.9231564129872143,
+  "bge_div": 0.36745747923851013
+ },
+ {
+  "brand": "Slack",
+  "condition": "C_L",
+  "n": 6,
+  "tfidf_div": 0.8991637136918432,
+  "bge_div": 0.2764556109905243
+ },
+ {
+  "brand": "Slack",
+  "condition": "E_H",
+  "n": 6,
+  "tfidf_div": 0.8830059797940778,
+  "bge_div": 0.2523907423019409
+ },
+ {
+  "brand": "Slack",
+  "condition": "E_L",
+  "n": 6,
+  "tfidf_div": 0.9435954768848328,
+  "bge_div": 0.38599491119384766
+ },
+ {
+  "brand": "Slack",
+  "condition": "N_H",
+  "n": 6,
+  "tfidf_div": 0.9599091247033876,
+  "bge_div": 0.4459448754787445
+ },
+ {
+  "brand": "Slack",
+  "condition": "N_L",
+  "n": 6,
+  "tfidf_div": 0.9569622615146357,
+  "bge_div": 0.396584689617157
+ },
+ {
+  "brand": "Slack",
+  "condition": "O_H",
+  "n": 6,
+  "tfidf_div": 0.9511709264853495,
+  "bge_div": 0.4330313503742218
+ },
+ {
+  "brand": "Slack",
+  "condition": "O_L",
+  "n": 6,
+  "tfidf_div": 0.9131558992395675,
+  "bge_div": 0.3347642123699188
+ },
+ {
+  "brand": "Unesco",
+  "condition": "A_H",
+  "n": 6,
+  "tfidf_div": 0.7800582397356859,
+  "bge_div": 0.21378761529922485
+ },
+ {
+  "brand": "Unesco",
+  "condition": "A_L",
+  "n": 6,
+  "tfidf_div": 0.9025253789976365,
+  "bge_div": 0.3648200035095215
+ },
+ {
+  "brand": "Unesco",
+  "condition": "BASE",
+  "n": 6,
+  "tfidf_div": 0.8702061681017477,
+  "bge_div": 0.36183294653892517
+ },
+ {
+  "brand": "Unesco",
+  "condition": "C_H",
+  "n": 6,
+  "tfidf_div": 0.882815619843,
+  "bge_div": 0.35842055082321167
+ },
+ {
+  "brand": "Unesco",
+  "condition": "C_L",
+  "n": 6,
+  "tfidf_div": 0.8727490333843642,
+  "bge_div": 0.3049626350402832
+ },
+ {
+  "brand": "Unesco",
+  "condition": "E_H",
+  "n": 6,
+  "tfidf_div": 0.9251056169377623,
+  "bge_div": 0.38496124744415283
+ },
+ {
+  "brand": "Unesco",
+  "condition": "E_L",
+  "n": 6,
+  "tfidf_div": 0.8850327303286729,
+  "bge_div": 0.365735799074173
+ },
+ {
+  "brand": "Unesco",
+  "condition": "N_H",
+  "n": 6,
+  "tfidf_div": 0.9479025427895987,
+  "bge_div": 0.4560522735118866
+ },
+ {
+  "brand": "Unesco",
+  "condition": "N_L",
+  "n": 6,
+  "tfidf_div": 0.8517107878797229,
+  "bge_div": 0.30746692419052124
+ },
+ {
+  "brand": "Unesco",
+  "condition": "O_H",
+  "n": 6,
+  "tfidf_div": 0.9237477927559592,
+  "bge_div": 0.34102046489715576
+ },
+ {
+  "brand": "Unesco",
+  "condition": "O_L",
+  "n": 6,
+  "tfidf_div": 0.9066985291742354,
+  "bge_div": 0.3962205946445465
+ }
+]

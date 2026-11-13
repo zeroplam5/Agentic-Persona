@@ -1,0 +1,2312 @@
+[
+ {
+  "gen_id": "Roblox|BASE|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "BASE",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|O_H|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|C_L|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|E_H|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|A_L|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|A_L|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|O_L|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|E_H|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|E_H|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|C_H|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|E_L|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|C_L|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|C_H|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|N_H|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|A_L|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|BASE|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "BASE",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|A_L|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|O_L|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|N_H|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|N_L|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|N_L|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|BASE|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "BASE",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|BASE|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "BASE",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|N_H|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|BASE|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "BASE",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|A_H|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|A_H|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|C_H|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|C_H|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Klarna|E_L|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|BASE|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "BASE",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|N_H|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|E_L|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|E_H|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|E_H|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|N_H|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|BASE|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "BASE",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|C_L|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|O_H|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|A_L|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|A_H|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|C_L|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|C_L|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|E_L|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Klarna|A_L|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|C_L|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|C_H|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|N_L|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|E_H|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|O_H|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|BASE|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "BASE",
+  "rep": 0
+ },
+ {
+  "gen_id": "Slack|N_H|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|C_H|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|O_L|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|O_L|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|N_H|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|O_H|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|BASE|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "BASE",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|N_L|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|O_L|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|A_L|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|A_H|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|C_L|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|A_H|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|O_H|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|E_H|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|E_H|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|O_H|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|C_L|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|A_H|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|E_H|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|A_L|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|N_H|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|O_L|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|O_H|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|A_H|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|O_H|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|N_L|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|A_L|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|BASE|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "BASE",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|C_H|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|O_H|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|E_H|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|A_H|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|A_L|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|N_L|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|N_L|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|A_H|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|O_H|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|N_L|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|BASE|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "BASE",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|C_L|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|A_H|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|E_H|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|O_L|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|E_H|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|N_L|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|E_L|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|N_H|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|A_H|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|C_H|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|O_L|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|O_H|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|A_L|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|A_L|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|C_L|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|C_L|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|A_H|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|A_H|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|C_H|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|E_L|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Klarna|O_H|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|N_L|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|N_H|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|N_L|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|O_L|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|A_H|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|A_H|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|O_H|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|C_H|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|E_L|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|N_H|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|BASE|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "BASE",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|E_H|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|C_H|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|N_L|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|A_L|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|N_L|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Klarna|N_L|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|A_H|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|C_L|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|O_L|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|E_L|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|O_H|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|E_H|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|C_L|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|BASE|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "BASE",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|BASE|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "BASE",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|N_H|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|C_H|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|E_H|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|BASE|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "BASE",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|BASE|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "BASE",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|E_H|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|E_L|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|C_H|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|C_L|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Slack|C_L|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|O_H|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|A_H|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|A_L|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|O_H|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|O_H|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|BASE|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "BASE",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|C_L|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|O_L|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|N_L|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|C_L|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|E_L|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|N_H|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|N_L|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|C_L|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Klarna|A_H|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|N_L|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|C_H|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|E_L|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|E_L|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|A_L|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|O_H|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|BASE|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "BASE",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|N_H|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|N_H|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|O_L|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|N_L|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|N_L|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|C_L|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|A_H|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Slack|O_L|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|O_L|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|N_L|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|BASE|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "BASE",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|N_L|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|N_L|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|E_L|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|O_L|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|O_H|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|A_L|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|C_H|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|C_H|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|A_H|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|E_L|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|N_H|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|N_H|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|C_L|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|BASE|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "BASE",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|C_L|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|N_H|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|C_L|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|E_H|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|O_H|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|C_H|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|E_L|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Unesco|N_H|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|A_L|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|A_L|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|E_L|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|N_H|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|BASE|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "BASE",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|E_L|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|O_H|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|E_L|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|O_L|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|A_L|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Klarna|C_H|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|N_H|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|C_L|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|A_L|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|N_L|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|N_L|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|BASE|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "BASE",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|N_H|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|BASE|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "BASE",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|A_L|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|E_L|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Slack|C_H|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|C_H|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|A_L|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|N_L|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|E_H|3",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|BASE|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "BASE",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|A_L|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|O_L|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|E_H|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|BASE|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "BASE",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|E_L|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|O_L|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|O_L|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|C_L|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|E_L|5",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|E_L|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|O_L|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Slack|O_L|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|E_L|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|E_H|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|E_H|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|O_H|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|C_H|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|E_H|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|E_H|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|O_L|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|A_H|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|N_H|5",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Roblox|C_L|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|A_L|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|N_H|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|N_H|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|O_L|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|E_H|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|BASE|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "BASE",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|A_L|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|E_H|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|C_L|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Unesco|E_L|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|A_L|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|N_H|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|O_H|2",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|E_H|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|A_L|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|O_L|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Klarna|C_H|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|A_H|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|N_H|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Slack|O_H|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|A_H|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Slack|C_L|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_L",
+  "rep": 2
+ },
+ {
+  "gen_id": "Roblox|O_L|5",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_L",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|E_H|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|A_L|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|O_H|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Klarna|O_H|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "O_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|C_H|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|C_H|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|A_H|3",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Roblox|E_L|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "E_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|A_H|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|N_H|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|O_H|5",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|C_H|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|N_L|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|BASE|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "BASE",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|BASE|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "BASE",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|A_H|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|O_L|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|A_L|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|BASE|2",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "BASE",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|E_L|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "E_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|E_L|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "IKEA|E_L|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "Slack|C_H|4",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "C_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|E_L|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|E_H|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "E_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|N_L|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "N_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|C_H|3",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "C_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "Unesco|O_H|4",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "O_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|A_H|3",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "A_H",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|C_L|3",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_L",
+  "rep": 3
+ },
+ {
+  "gen_id": "IKEA|C_L|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "C_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|C_H|1",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "Unesco|N_L|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "N_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|O_L|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "O_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|E_H|0",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|E_H|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "E_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "IKEA|N_H|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_H",
+  "rep": 1
+ },
+ {
+  "gen_id": "IKEA|O_H|2",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_H",
+  "rep": 2
+ },
+ {
+  "gen_id": "Slack|O_L|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Unesco|A_H|0",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "A_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|N_L|1",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "N_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Klarna|N_L|1",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "N_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Slack|O_H|0",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "IKEA|A_H|4",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "A_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Unesco|C_H|5",
+  "brand": "Unesco",
+  "category": "Pet, Parenting & Purpose",
+  "condition": "C_H",
+  "rep": 5
+ },
+ {
+  "gen_id": "Slack|BASE|2",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "BASE",
+  "rep": 2
+ },
+ {
+  "gen_id": "IKEA|O_L|0",
+  "brand": "IKEA",
+  "category": "Retail & Marketplaces",
+  "condition": "O_L",
+  "rep": 0
+ },
+ {
+  "gen_id": "Roblox|C_L|1",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|C_H|4",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "C_H",
+  "rep": 4
+ },
+ {
+  "gen_id": "Roblox|N_H|0",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "N_H",
+  "rep": 0
+ },
+ {
+  "gen_id": "Klarna|A_L|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "A_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Klarna|E_L|4",
+  "brand": "Klarna",
+  "category": "Finance, Fintech & Insurance",
+  "condition": "E_L",
+  "rep": 4
+ },
+ {
+  "gen_id": "Slack|O_L|1",
+  "brand": "Slack",
+  "category": "B2B, SaaS & Productivity",
+  "condition": "O_L",
+  "rep": 1
+ },
+ {
+  "gen_id": "Roblox|A_H|2",
+  "brand": "Roblox",
+  "category": "Media, Gaming & Entertainment",
+  "condition": "A_H",
+  "rep": 2
+ }
+]
