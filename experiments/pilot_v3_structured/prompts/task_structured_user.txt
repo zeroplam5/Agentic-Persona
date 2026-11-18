@@ -1,0 +1,24 @@
+Brand: [BRAND] (category: [CATEGORY])
+Topic from the client: [TOPIC]
+
+Please prepare an idea development worksheet for one campaign for this brand on this topic. The worksheet has these sections:
+
+1. task_understanding: the problem or opportunity the campaign focuses on, and the assumptions about the brand, topic and audience.
+2. candidates: exactly 4 candidate campaign directions whose core ideas differ from each other (not just different executions of one idea). For each: the core idea, how it connects to the brand, expected strengths and main concerns.
+3. selection: which candidate is recommended and why, and for every other candidate why it was not recommended.
+4. revisions_after_selection: changes made to the recommended idea after reviewing it, with the reason for each. Use an empty list if there are none.
+5. final_proposal: the recommended idea written for a human reader (at most 150 words), plus exactly 3 open questions that would help the reader develop further ideas of their own.
+
+Write in English. Return the worksheet as a single JSON object with this structure and nothing else:
+{
+  "task_understanding": {"focus": "...", "assumptions": ["..."]},
+  "candidates": [
+    {"id": "C1", "title": "...", "core_idea": "...", "brand_connection": "...", "expected_strengths": ["..."], "main_concerns": ["..."]},
+    {"id": "C2", "...": "..."},
+    {"id": "C3", "...": "..."},
+    {"id": "C4", "...": "..."}
+  ],
+  "selection": {"selected_id": "C?", "reasons_for_selection": ["..."], "rejected": [{"id": "C?", "reason": "..."}]},
+  "revisions_after_selection": [{"change": "...", "reason": "..."}],
+  "final_proposal": {"title": "...", "idea": "...", "follow_up_questions": ["...", "...", "..."]}
+}

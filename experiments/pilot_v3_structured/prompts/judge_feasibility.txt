@@ -1,0 +1,16 @@
+Brand: [BRAND]
+Client topic: [TOPIC]
+
+Campaign idea:
+Title: [TITLE]
+[IDEA]
+
+Rate FEASIBILITY only: whether this brand could realistically execute the idea within a normal large-brand campaign (budget, technology, partners, legal and safety constraints, timeline). Ignore how novel the idea is, how well it fits the brand, and how well it is argued.
+
+1 = Not feasible: depends on something impossible, illegal, unsafe, or far outside any realistic budget or capability.
+2 = Hardly feasible: needs several major uncertain conditions (e.g. unlikely partners, regulatory approval, unproven technology).
+3 = Feasible with substantial effort or risk: one major hurdle or uncertainty.
+4 = Feasible: realistic with standard large-campaign resources; only minor hurdles.
+5 = Readily feasible: straightforward to execute with resources such a brand already has.
+
+Return only JSON: {"score": <1-5>, "reason": "<one sentence>"}

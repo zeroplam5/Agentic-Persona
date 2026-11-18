@@ -1,0 +1,16 @@
+[generate] 132 tasks, workers=4
+[generate] 10/132 cost so far: claude_nominal $0.45
+[generate] 20/132 cost so far: claude_nominal $0.90
+[generate] 30/132 cost so far: claude_nominal $1.35
+[generate] 40/132 cost so far: claude_nominal $1.78
+[generate] 50/132 cost so far: claude_nominal $2.19
+[generate] 60/132 cost so far: claude_nominal $2.63
+[generate] 70/132 cost so far: claude_nominal $3.04
+[generate] 80/132 cost so far: claude_nominal $3.42
+[generate] 90/132 cost so far: claude_nominal $3.85
+[generate] 100/132 cost so far: claude_nominal $4.35
+[generate] 110/132 cost so far: claude_nominal $4.75
+[generate] 120/132 cost so far: claude_nominal $5.14
+[generate] 130/132 cost so far: claude_nominal $5.52
+[generate] 132/132 cost so far: claude_nominal $5.64
+process cost (estimated): {'claude_nominal': 5.6383}

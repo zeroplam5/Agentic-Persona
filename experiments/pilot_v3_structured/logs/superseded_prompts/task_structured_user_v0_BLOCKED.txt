@@ -1,0 +1,24 @@
+Brand: [BRAND] (category: [CATEGORY])
+Topic from the client: [TOPIC]
+
+Develop one campaign idea for this brand on this topic. Work through the steps below and report what you did in each step, using exactly the JSON structure shown. Write in English. Keep your report to what you actually considered; do not pad it.
+
+1. task_understanding: the problem or opportunity you focus on, and the assumptions you are making about the brand, topic and audience.
+2. candidates: exactly 4 candidate directions whose core ideas differ from each other (not just different executions of one idea). For each candidate give its core idea, how it connects to the brand, its expected strengths and its main concerns.
+3. selection: which candidate you choose and why, and for every other candidate why you did not choose it.
+4. revisions_after_selection: what you changed in the chosen idea after reviewing it. Use an empty list if you changed nothing.
+5. final_proposal: the idea written for a human reader (at most 150 words), plus exactly 3 open questions that would help the reader develop further ideas of their own.
+
+Output only this JSON object, with no text before or after it:
+{
+  "task_understanding": {"focus": "...", "assumptions": ["..."]},
+  "candidates": [
+    {"id": "C1", "title": "...", "core_idea": "...", "brand_connection": "...", "expected_strengths": ["..."], "main_concerns": ["..."]},
+    {"id": "C2", "...": "..."},
+    {"id": "C3", "...": "..."},
+    {"id": "C4", "...": "..."}
+  ],
+  "selection": {"selected_id": "C?", "reasons_for_selection": ["..."], "rejected": [{"id": "C?", "reason": "..."}]},
+  "revisions_after_selection": [{"change": "...", "reason": "..."}],
+  "final_proposal": {"title": "...", "idea": "...", "follow_up_questions": ["...", "...", "..."]}
+}

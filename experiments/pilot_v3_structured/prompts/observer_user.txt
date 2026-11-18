@@ -1,0 +1,13 @@
+Below is a work record written by an author who developed a campaign idea for a client. Judge the author's personality as it shows in HOW they worked and wrote: what they noticed, how they weighed options, what risks they worried about, the tone they used. Do not judge the quality of the idea.
+
+Rate how strongly each Big Five trait is expressed by the author, from 1 (very low) to 9 (very high), 5 = average or no clear signal.
+- Openness to Experience
+- Conscientiousness
+- Extraversion
+- Agreeableness
+- Neuroticism
+
+Work record:
+[RECORD]
+
+Return only JSON: {"O": <1-9>, "C": <1-9>, "E": <1-9>, "A": <1-9>, "N": <1-9>, "notes": "<one or two sentences>"}

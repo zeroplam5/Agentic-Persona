@@ -1,0 +1,3 @@
+[bucket] 6 tasks, workers=6
+[bucket] 6/6 cost so far: openai $7.27
+process cost (estimated): {'openai': 7.2688}

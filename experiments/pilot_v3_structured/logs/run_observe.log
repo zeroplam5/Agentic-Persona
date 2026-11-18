@@ -1,0 +1,11 @@
+[observe] 84 tasks, workers=4
+[observe] 10/84 cost so far: gemini $0.13
+[observe] 20/84 cost so far: gemini $0.26
+[observe] 30/84 cost so far: gemini $0.40
+[observe] 40/84 cost so far: gemini $0.54
+[observe] 50/84 cost so far: gemini $0.67
+[observe] 60/84 cost so far: gemini $0.81
+[observe] 70/84 cost so far: gemini $0.94
+[observe] 80/84 cost so far: gemini $1.09
+[observe] 84/84 cost so far: gemini $1.14
+process cost (estimated): {'gemini': 1.1401}

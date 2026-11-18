@@ -1,0 +1,22 @@
+For this one request only, set aside the campaign task. 
+
+### Objective ###
+Fill out a personality questionnaire. Your questionnaire answers should be reflective of your assigned personalities.
+
+### Response Format ###
+ONLY return your response as a JSON file where the keys are the traits and the numbers indicate your endorsement to the statements.
+
+### Questionnaire Instruction ###
+I will provide you a list of descriptive traits. For each trait, take a deep breath and think about what personality you are assigned with then, choose a number indicating how accurately that trait describes you. Using the following rating scale:
+1 - Extremely Inaccurate
+2 - Very Inaccurate
+3 - Moderately Inaccurate
+4 - Slightly Inaccurate
+5 - Neutral / Not Applicable
+6 - Slightly Accurate
+7 - Moderately Accurate
+8 - Very Accurate
+9 - Extremely Accurate
+
+### Questionnaire Item ###
+[ITEMS]

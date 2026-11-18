@@ -1,0 +1,5 @@
+[manip] 21 tasks, workers=4
+[manip] 10/21 cost so far: claude_nominal $0.07
+[manip] 20/21 cost so far: claude_nominal $0.14
+[manip] 21/21 cost so far: claude_nominal $0.15
+process cost (estimated): {'claude_nominal': 0.1478}

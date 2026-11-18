@@ -1,0 +1,15 @@
+Brand: [BRAND] (category: [CATEGORY])
+Topic from the client: [TOPIC]
+
+Develop one campaign idea for this brand on this topic. Report it using exactly the JSON structure shown. Write in English.
+
+1. task_understanding: the problem or opportunity you focus on, and the assumptions you are making about the brand, topic and audience.
+2. candidate: the core idea, how it connects to the brand, its expected strengths and its main concerns.
+3. final_proposal: the idea written for a human reader (at most 150 words), plus exactly 3 open questions that would help the reader develop further ideas of their own.
+
+Output only this JSON object, with no text before or after it:
+{
+  "task_understanding": {"focus": "...", "assumptions": ["..."]},
+  "candidate": {"id": "C1", "title": "...", "core_idea": "...", "brand_connection": "...", "expected_strengths": ["..."], "main_concerns": ["..."]},
+  "final_proposal": {"title": "...", "idea": "...", "follow_up_questions": ["...", "...", "..."]}
+}

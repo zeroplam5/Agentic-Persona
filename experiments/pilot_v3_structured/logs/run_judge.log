@@ -1,0 +1,36 @@
+[judge] 331 tasks, workers=4
+[judge] 10/331 cost so far: openai $0.07
+[judge] 20/331 cost so far: openai $0.14
+[judge] 30/331 cost so far: openai $0.21
+[judge] 40/331 cost so far: openai $0.28
+[judge] 50/331 cost so far: openai $0.35
+[judge] 60/331 cost so far: openai $0.42
+[judge] 70/331 cost so far: openai $0.49
+[judge] 80/331 cost so far: openai $0.56
+[judge] 90/331 cost so far: openai $0.63
+[judge] 100/331 cost so far: openai $0.70
+[judge] 110/331 cost so far: openai $0.77
+[judge] 120/331 cost so far: openai $0.83
+[judge] 130/331 cost so far: openai $0.91
+[judge] 140/331 cost so far: openai $0.97
+[judge] 150/331 cost so far: openai $1.05
+[judge] 160/331 cost so far: openai $1.12
+[judge] 170/331 cost so far: openai $1.19
+[judge] 180/331 cost so far: openai $1.26
+[judge] 190/331 cost so far: openai $1.33
+[judge] 200/331 cost so far: openai $1.40
+[judge] 210/331 cost so far: openai $1.47
+[judge] 220/331 cost so far: openai $1.53
+[judge] 230/331 cost so far: openai $1.60
+[judge] 240/331 cost so far: openai $1.67
+[judge] 250/331 cost so far: openai $1.74
+[judge] 260/331 cost so far: openai $1.81
+[judge] 270/331 cost so far: openai $1.88
+[judge] 280/331 cost so far: openai $1.95
+[judge] 290/331 cost so far: openai $2.02
+[judge] 300/331 cost so far: openai $2.10
+[judge] 310/331 cost so far: openai $2.17
+[judge] 320/331 cost so far: openai $2.24
+[judge] 330/331 cost so far: openai $2.31
+[judge] 331/331 cost so far: openai $2.32
+process cost (estimated): {'openai': 2.3218}

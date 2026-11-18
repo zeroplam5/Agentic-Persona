@@ -1,0 +1,16 @@
+Brand: [BRAND]
+Client topic: [TOPIC]
+
+Campaign idea:
+Title: [TITLE]
+[IDEA]
+
+Rate BRAND FIT only: how well the idea fits this specific brand's identity, values, products or services, and audience. Ignore how novel the idea is, whether it is practical to execute, and how well it is argued.
+
+1 = Does not fit: the idea could belong to almost any brand, or it conflicts with what the brand stands for.
+2 = Weak fit: the brand link is superficial (a logo or name placed on a generic idea).
+3 = Plausible fit: a real but loose link to the brand's products, values or audience.
+4 = Clear fit: the idea draws on something specific to this brand, and the brand could own it.
+5 = Strong fit: the idea grows out of a distinctive truth about this brand that competitors could not credibly claim.
+
+Return only JSON: {"score": <1-5>, "reason": "<one sentence>"}

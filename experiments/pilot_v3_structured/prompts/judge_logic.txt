@@ -1,0 +1,16 @@
+Brand: [BRAND]
+Client topic: [TOPIC]
+
+Campaign idea:
+Title: [TITLE]
+[IDEA]
+
+Rate LOGICAL COHERENCE only: whether the idea's reasoning holds together: the insight connects to the client topic, the mechanism plausibly produces the intended audience response, and there are no internal contradictions. Ignore how novel the idea is, how well it fits the brand, and whether it is practical to execute.
+
+1 = Incoherent: the parts do not connect, or the idea contradicts itself.
+2 = Weak: a major gap between the insight, the mechanism and the intended effect.
+3 = Partly coherent: the main line holds but at least one important step is assumed rather than shown.
+4 = Coherent: insight, topic, mechanism and intended effect connect, with only minor gaps.
+5 = Tight: every step follows; it is clear why this mechanism would produce the intended response.
+
+Return only JSON: {"score": <1-5>, "reason": "<one sentence>"}

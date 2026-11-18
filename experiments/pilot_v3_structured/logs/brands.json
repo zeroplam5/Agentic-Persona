@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Fashion, Apparel & Footwear",
+    "brand": "Dior",
+    "topic": "repair and reuse",
+    "topic_source": "provisional (Claude placeholder)"
+  },
+  {
+    "category": "B2B, SaaS & Productivity",
+    "brand": "Canva",
+    "topic": "the first paycheck",
+    "topic_source": "provisional (Claude placeholder)"
+  },
+  {
+    "category": "Finance, Fintech & Insurance",
+    "brand": "Mastercard",
+    "topic": "loneliness",
+    "topic_source": "provisional (Claude placeholder)"
+  }
+]

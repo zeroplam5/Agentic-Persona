@@ -1,0 +1,123 @@
+{
+ "source": "Mini-Markers 40 adjectives (Saucier, 1994) as listed in Huang et al. Appendix I, same order. Scoring key from Saucier (1994); N keyed as Neuroticism (Saucier's Emotional Stability reversed).",
+ "items": [
+  "Bashful",
+  "Bold",
+  "Careless",
+  "Cold",
+  "Complex",
+  "Cooperative",
+  "Creative",
+  "Deep",
+  "Disorganized",
+  "Efficient",
+  "Energetic",
+  "Envious",
+  "Extraverted",
+  "Fretful",
+  "Harsh",
+  "Imaginative",
+  "Inefficient",
+  "Intellectual",
+  "Jealous",
+  "Kind",
+  "Moody",
+  "Organized",
+  "Philosophical",
+  "Practical",
+  "Quiet",
+  "Relaxed",
+  "Rude",
+  "Shy",
+  "Sloppy",
+  "Sympathetic",
+  "Systematic",
+  "Talkative",
+  "Temperamental",
+  "Touchy",
+  "Uncreative",
+  "Unenvious",
+  "Unintellectual",
+  "Unsympathetic",
+  "Warm",
+  "Withdrawn"
+ ],
+ "key": {
+  "E": {
+   "+": [
+    "Bold",
+    "Energetic",
+    "Extraverted",
+    "Talkative"
+   ],
+   "-": [
+    "Bashful",
+    "Quiet",
+    "Shy",
+    "Withdrawn"
+   ]
+  },
+  "A": {
+   "+": [
+    "Cooperative",
+    "Kind",
+    "Sympathetic",
+    "Warm"
+   ],
+   "-": [
+    "Cold",
+    "Harsh",
+    "Rude",
+    "Unsympathetic"
+   ]
+  },
+  "C": {
+   "+": [
+    "Efficient",
+    "Organized",
+    "Practical",
+    "Systematic"
+   ],
+   "-": [
+    "Careless",
+    "Disorganized",
+    "Inefficient",
+    "Sloppy"
+   ]
+  },
+  "N": {
+   "+": [
+    "Envious",
+    "Fretful",
+    "Jealous",
+    "Moody",
+    "Temperamental",
+    "Touchy"
+   ],
+   "-": [
+    "Relaxed",
+    "Unenvious"
+   ]
+  },
+  "O": {
+   "+": [
+    "Complex",
+    "Creative",
+    "Deep",
+    "Imaginative",
+    "Intellectual",
+    "Philosophical"
+   ],
+   "-": [
+    "Uncreative",
+    "Unintellectual"
+   ]
+  }
+ },
+ "scale": "1 - Extremely Inaccurate, 2 - Very Inaccurate, 3 - Moderately Inaccurate, 4 - Slightly Inaccurate, 5 - Neutral / Not Applicable, 6 - Slightly Accurate, 7 - Moderately Accurate, 8 - Very Accurate, 9 - Extremely Accurate",
+ "creativity_direct_items": [
+  "Creative",
+  "Imaginative",
+  "Uncreative"
+ ]
+}

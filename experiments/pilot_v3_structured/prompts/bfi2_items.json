@@ -1,0 +1,372 @@
+{
+ "source": "BFI-2 (Soto & John, 2017) item stems as printed in Huang et al. (arXiv:2410.19238v4) Table 1, BFI-2-Likert example, in item order 1-60. Domain = cyclic E,A,C,N,O; reverse keys from the BFI-2 scoring key, each checked against item wording.",
+ "creativity_direct_items": [
+  15,
+  30,
+  45,
+  60
+ ],
+ "creativity_direct_note": "Openness 'Creative Imagination' facet items mention creativity/originality directly (15 inventive, 30 little creativity, 45 difficulty imagining, 60 original). In O_H/O_L Likert prompts these act as direct creativity statements -> confound with personality, recorded.",
+ "items": [
+  {
+   "n": 1,
+   "text": "Is outgoing, sociable",
+   "domain": "E",
+   "reverse": false
+  },
+  {
+   "n": 2,
+   "text": "Is compassionate, has a soft heart",
+   "domain": "A",
+   "reverse": false
+  },
+  {
+   "n": 3,
+   "text": "Tends to be disorganized",
+   "domain": "C",
+   "reverse": true
+  },
+  {
+   "n": 4,
+   "text": "Is relaxed, handles stress well",
+   "domain": "N",
+   "reverse": true
+  },
+  {
+   "n": 5,
+   "text": "Has few artistic interests",
+   "domain": "O",
+   "reverse": true
+  },
+  {
+   "n": 6,
+   "text": "Has an assertive personality",
+   "domain": "E",
+   "reverse": false
+  },
+  {
+   "n": 7,
+   "text": "Is respectful, treats others with respect",
+   "domain": "A",
+   "reverse": false
+  },
+  {
+   "n": 8,
+   "text": "Tends to be lazy",
+   "domain": "C",
+   "reverse": true
+  },
+  {
+   "n": 9,
+   "text": "Stays optimistic after experiencing a setback",
+   "domain": "N",
+   "reverse": true
+  },
+  {
+   "n": 10,
+   "text": "Is curious about many different things",
+   "domain": "O",
+   "reverse": false
+  },
+  {
+   "n": 11,
+   "text": "Rarely feels excited or eager",
+   "domain": "E",
+   "reverse": true
+  },
+  {
+   "n": 12,
+   "text": "Tends to find fault with others",
+   "domain": "A",
+   "reverse": true
+  },
+  {
+   "n": 13,
+   "text": "Is dependable, steady",
+   "domain": "C",
+   "reverse": false
+  },
+  {
+   "n": 14,
+   "text": "Is moody, has up and down mood swings",
+   "domain": "N",
+   "reverse": false
+  },
+  {
+   "n": 15,
+   "text": "Is inventive, finds clever ways to do things",
+   "domain": "O",
+   "reverse": false
+  },
+  {
+   "n": 16,
+   "text": "Tends to be quiet",
+   "domain": "E",
+   "reverse": true
+  },
+  {
+   "n": 17,
+   "text": "Feels little sympathy for others",
+   "domain": "A",
+   "reverse": true
+  },
+  {
+   "n": 18,
+   "text": "Is systematic, likes to keep things in order",
+   "domain": "C",
+   "reverse": false
+  },
+  {
+   "n": 19,
+   "text": "Can be tense",
+   "domain": "N",
+   "reverse": false
+  },
+  {
+   "n": 20,
+   "text": "Is fascinated by art, music, or literature",
+   "domain": "O",
+   "reverse": false
+  },
+  {
+   "n": 21,
+   "text": "Is dominant, acts as a leader",
+   "domain": "E",
+   "reverse": false
+  },
+  {
+   "n": 22,
+   "text": "Starts arguments with others",
+   "domain": "A",
+   "reverse": true
+  },
+  {
+   "n": 23,
+   "text": "Has difficulty getting started on tasks",
+   "domain": "C",
+   "reverse": true
+  },
+  {
+   "n": 24,
+   "text": "Feels secure, comfortable with self",
+   "domain": "N",
+   "reverse": true
+  },
+  {
+   "n": 25,
+   "text": "Avoids intellectual, philosophical discussions",
+   "domain": "O",
+   "reverse": true
+  },
+  {
+   "n": 26,
+   "text": "Is less active than other people",
+   "domain": "E",
+   "reverse": true
+  },
+  {
+   "n": 27,
+   "text": "Has a forgiving nature",
+   "domain": "A",
+   "reverse": false
+  },
+  {
+   "n": 28,
+   "text": "Can be somewhat careless",
+   "domain": "C",
+   "reverse": true
+  },
+  {
+   "n": 29,
+   "text": "Is emotionally stable, not easily upset",
+   "domain": "N",
+   "reverse": true
+  },
+  {
+   "n": 30,
+   "text": "Has little creativity",
+   "domain": "O",
+   "reverse": true
+  },
+  {
+   "n": 31,
+   "text": "Is sometimes shy, introverted",
+   "domain": "E",
+   "reverse": true
+  },
+  {
+   "n": 32,
+   "text": "Is helpful and unselfish with others",
+   "domain": "A",
+   "reverse": false
+  },
+  {
+   "n": 33,
+   "text": "Keeps things neat and tidy",
+   "domain": "C",
+   "reverse": false
+  },
+  {
+   "n": 34,
+   "text": "Worries a lot",
+   "domain": "N",
+   "reverse": false
+  },
+  {
+   "n": 35,
+   "text": "Values art and beauty",
+   "domain": "O",
+   "reverse": false
+  },
+  {
+   "n": 36,
+   "text": "Finds it hard to influence people",
+   "domain": "E",
+   "reverse": true
+  },
+  {
+   "n": 37,
+   "text": "Is sometimes rude to others",
+   "domain": "A",
+   "reverse": true
+  },
+  {
+   "n": 38,
+   "text": "Is efficient, gets things done",
+   "domain": "C",
+   "reverse": false
+  },
+  {
+   "n": 39,
+   "text": "Often feels sad",
+   "domain": "N",
+   "reverse": false
+  },
+  {
+   "n": 40,
+   "text": "Is complex, a deep thinker",
+   "domain": "O",
+   "reverse": false
+  },
+  {
+   "n": 41,
+   "text": "Is full of energy",
+   "domain": "E",
+   "reverse": false
+  },
+  {
+   "n": 42,
+   "text": "Is suspicious of others' intentions",
+   "domain": "A",
+   "reverse": true
+  },
+  {
+   "n": 43,
+   "text": "Is reliable, can always be counted on",
+   "domain": "C",
+   "reverse": false
+  },
+  {
+   "n": 44,
+   "text": "Keeps their emotions under control",
+   "domain": "N",
+   "reverse": true
+  },
+  {
+   "n": 45,
+   "text": "Has difficulty imagining things",
+   "domain": "O",
+   "reverse": true
+  },
+  {
+   "n": 46,
+   "text": "Is talkative",
+   "domain": "E",
+   "reverse": false
+  },
+  {
+   "n": 47,
+   "text": "Can be cold and uncaring",
+   "domain": "A",
+   "reverse": true
+  },
+  {
+   "n": 48,
+   "text": "Leaves a mess, doesn't clean up",
+   "domain": "C",
+   "reverse": true
+  },
+  {
+   "n": 49,
+   "text": "Rarely feels anxious or afraid",
+   "domain": "N",
+   "reverse": true
+  },
+  {
+   "n": 50,
+   "text": "Thinks poetry and plays are boring",
+   "domain": "O",
+   "reverse": true
+  },
+  {
+   "n": 51,
+   "text": "Prefers to have others take charge",
+   "domain": "E",
+   "reverse": true
+  },
+  {
+   "n": 52,
+   "text": "Is polite, courteous toward others",
+   "domain": "A",
+   "reverse": false
+  },
+  {
+   "n": 53,
+   "text": "Is persistent, works until the task is finished",
+   "domain": "C",
+   "reverse": false
+  },
+  {
+   "n": 54,
+   "text": "Tends to feel depressed, blue",
+   "domain": "N",
+   "reverse": false
+  },
+  {
+   "n": 55,
+   "text": "Has little interest in abstract ideas",
+   "domain": "O",
+   "reverse": true
+  },
+  {
+   "n": 56,
+   "text": "Shows a lot of enthusiasm",
+   "domain": "E",
+   "reverse": false
+  },
+  {
+   "n": 57,
+   "text": "Assumes the best about people",
+   "domain": "A",
+   "reverse": false
+  },
+  {
+   "n": 58,
+   "text": "Sometimes behaves irresponsibly",
+   "domain": "C",
+   "reverse": true
+  },
+  {
+   "n": 59,
+   "text": "Is temperamental, gets emotional easily",
+   "domain": "N",
+   "reverse": false
+  },
+  {
+   "n": 60,
+   "text": "Is original, comes up with new ideas",
+   "domain": "O",
+   "reverse": false
+  }
+ ]
+}

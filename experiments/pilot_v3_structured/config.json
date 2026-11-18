@@ -1,0 +1,66 @@
+{
+  "experiment": "bigfive_structured_ideation_pilot_v3",
+  "status": "pilot (exploratory). Separate experiment from Wild Ideas pilot_v1/v2: different instruction and output format.",
+  "seed": 20261117,
+  "env_file": "../../.env",
+
+  "generator": {
+    "provider": "claude_cli",
+    "model": "claude-sonnet-5-5",
+    "claude_cli": "C:\\Users\\micro\\.local\\bin\\claude.exe",
+    "claude_cli_version": "2.1.141 (Claude Code)",
+    "effort": "high",
+    "cli_env": {"MAX_THINKING_TOKENS": "8000", "CLAUDE_CODE_MAX_OUTPUT_TOKENS": "16000"},
+    "per_call_budget_usd": 0.6,
+    "isolated_cwd": "C:\\Users\\micro\\AppData\\Local\\Temp\\claude\\71814c7429ac7aa5\\32f4823c-e8dd-4061-8c9a-80b7c8732b8a\\scratchpad\\iso_v3",
+    "temperature": "not settable via CLI; provider default, unverified",
+    "reasoning_note": "Smoke test 2026-11-17: with --effort and MAX_THINKING_TOKENS the CLI returns 'thinking' blocks whose text is EMPTY (signature only). Thinking tokens are not reported separately; output_tokens includes them. On an easy creative prompt the model produced no thinking block at all (adaptive). So per call we record: number of thinking blocks, whether any thinking text was returned, total output_tokens, visible text length. Hidden reasoning content is not available and is never reconstructed."
+  },
+  "nodedup_split": {
+    "n_independent_calls": 4,
+    "cli_env": {"MAX_THINKING_TOKENS": "2000", "CLAUDE_CODE_MAX_OUTPUT_TOKENS": "4000"},
+    "note": "Same total ceiling as one structured call (4 x 2000 thinking, 4 x 4000 output). Each call sees no other candidate; no review, no selection, no de-duplication. Final = seeded random pick among the 4."
+  },
+
+  "bucketer": {"provider": "openai", "model": "gpt-6-astra", "reasoning_effort": "low", "max_output_tokens": 1500,
+               "note": "temperature not supported by this model (HTTP 400, 2026-11-17); 'low' is the lowest reasoning effort accepted"},
+  "judge": {"provider": "openai", "model": "gpt-6-astra", "reasoning_effort": "low", "max_output_tokens": 2000},
+  "observer": {"provider": "gemini", "model": "gemini-3.1-pro-preview", "temperature": 0.0, "max_output_tokens": 4000, "thinking_budget": 1024},
+
+  "embedding": {"model": "BAAI/bge-large-en-v1.5", "note": "retrieval of candidate buckets only; MuseScorer's best was e5-large-v2 (not cached here)"},
+  "bucketing": {"Kc": 10},
+
+  "n_brands": 3,
+  "reps": 4,
+  "n_candidates": 4,
+  "manip_reps": 3,
+  "workers": 4,
+  "max_retries": 2,
+  "judge_retest_fraction": 0.15,
+  "human_reps_per_condition_per_brand": 2,
+
+  "budget_usd": {"openai": 25.0, "gemini": 5.0, "claude_nominal": 20.0},
+  "price_per_million_usd": {
+    "gpt-6-astra": {"input": 10.0, "output": 50.0, "source": "third-party aggregators (morphllm, cloudzero, aitokenprice), checked 2026-11-17; not OpenAI's own page"},
+    "gemini-3.1-pro-preview": {"input": 2.0, "output": 12.0, "source": "as in novelty_v3 study_config (third-party, 2026-11-13)"}
+  },
+
+  "provisional_topics": ["loneliness", "repair and reuse", "the first paycheck"],
+  "provisional_topics_note": "PLACEHOLDER. The research design says the human supplies the brand topic/keyword. These were chosen by Claude for the pilot only and assigned to brands by seed. Replace with researcher-supplied topics for the main run.",
+  "exclude_brands": ["IKEA", "Klarna", "Unesco", "Roblox", "Slack"],
+  "brand_table_source": "Creativity Benchmark arXiv:2509.09702v2 Appendix A.2 (copied from pilot_v1/config.json)",
+  "brand_table_appendix_A2": {
+    "Fashion, Apparel & Footwear": ["Nike", "Adidas", "Uniqlo", "Patagonia", "Gucci", "Dior", "Lululemon", "Allbirds", "Zara"],
+    "Beauty, Wellness & Personal Care": ["Dove", "Glossier", "Fenty Beauty", "Olay", "Aesop", "The Ordinary", "Neutrogena", "Athletic Greens"],
+    "Food, Beverage & QSR": ["McDonald's", "Coca-Cola", "Pepsi", "Burger King", "Oatly", "Red Bull", "Doritos", "Starbucks", "Chipotle"],
+    "Retail & Marketplaces": ["Amazon", "IKEA", "Walmart", "Target", "ASOS", "Etsy", "Farfetch", "H&M", "Instacart"],
+    "Luxury & Prestige": ["Chanel", "Rolex", "Louis Vuitton", "Tiffany & Co.", "Prada", "Moncler", "Cartier", "Bottega Veneta"],
+    "Tech & Consumer Electronics": ["Apple", "Samsung", "Sony", "Google", "Microsoft", "Lenovo", "Bose", "Beats by Dre"],
+    "Media, Gaming & Entertainment": ["Netflix", "PlayStation", "Xbox", "HBO", "TikTok", "Roblox", "Spotify", "YouTube"],
+    "Travel, Automotive & Transport": ["Tesla", "BMW", "Emirates", "Airbnb", "Toyota", "Delta Airlines", "Marriott", "Uber"],
+    "Finance, Fintech & Insurance": ["Amex", "Mastercard", "Monzo", "Klarna", "Stripe", "Robinhood", "Revolut", "Allianz"],
+    "B2B, SaaS & Productivity": ["Salesforce", "HubSpot", "Slack", "Zoom", "Adobe", "Canva", "Notion", "Shopify", "Mailchimp"],
+    "Telco, Utilities & Infrastructure": ["Verizon", "Telstra", "Orange", "Vodafone", "AT&T", "T-Mobile", "BT", "Starlink"],
+    "Pet, Parenting & Purpose": ["UNICEF", "WWF", "Huggies", "Pampers", "Purina", "Pedigree", "Unesco", "Lego"]
+  }
+}

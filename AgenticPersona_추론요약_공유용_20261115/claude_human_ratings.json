@@ -1,0 +1,694 @@
+{
+  "source_urls": {
+    "absolute": "https://raw.githubusercontent.com/zeroplam5/Agentic-Persona/13396b8f4d3bc6bcffb69e3f6bfa1d02e822a35c/human_rating_blind_novelty/novelty_absolute_rated.csv",
+    "pairs": "https://raw.githubusercontent.com/zeroplam5/Agentic-Persona/13396b8f4d3bc6bcffb69e3f6bfa1d02e822a35c/human_rating_blind_novelty/novelty_pairs_rated.csv"
+  },
+  "dataset": "Original Claude Wild Ideas pilot",
+  "people": 1,
+  "join": "brand casefolded and exact answer text normalized for whitespace",
+  "matching_openai_answers": 0,
+  "absolute": [
+    {
+      "item_id": "N001",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|A_L|3",
+      "novelty_1to5": 5,
+      "usefulness_1to5": 5
+    },
+    {
+      "item_id": "N002",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|O_H|1",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N003",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|A_L|0",
+      "novelty_1to5": 5,
+      "usefulness_1to5": 5
+    },
+    {
+      "item_id": "N004",
+      "split": "calibration",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|N_H|3",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N005",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|BASE|2",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N006",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|C_H|1",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 5
+    },
+    {
+      "item_id": "N007",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|N_H|2",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N008",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|O_H|4",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N009",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|BASE|3",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N010",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|A_L|3",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N011",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|E_H|1",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N012",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|A_H|3",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N013",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|BASE|2",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N014",
+      "split": "calibration",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|E_H|5",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N015",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|A_H|0",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N016",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|E_L|1",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N017",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|C_H|5",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N018",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|O_H|1",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N019",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|O_H|2",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N020",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|E_H|0",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N021",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|C_L|1",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N022",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|N_L|4",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N023",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|O_L|4",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N024",
+      "split": "calibration",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|C_H|5",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N025",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|A_H|4",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N026",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|E_H|3",
+      "novelty_1to5": 5,
+      "usefulness_1to5": 5
+    },
+    {
+      "item_id": "N027",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|E_L|5",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N028",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|N_H|3",
+      "novelty_1to5": 5,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N029",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|BASE|0",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N030",
+      "split": "calibration",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|O_H|2",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N031",
+      "split": "calibration",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|C_L|0",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N032",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|C_L|1",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N033",
+      "split": "calibration",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|A_L|1",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N034",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|C_H|2",
+      "novelty_1to5": 1,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N035",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|A_L|3",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N036",
+      "split": "calibration",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|E_L|4",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N037",
+      "split": "calibration",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|N_L|4",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N038",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|N_H|1",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N039",
+      "split": "calibration",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|A_L|2",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N040",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|A_H|0",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N041",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|O_H|4",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 5
+    },
+    {
+      "item_id": "N042",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|E_H|1",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N043",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|N_L|2",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N044",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|O_L|1",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N045",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|C_H|5",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N046",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|N_L|3",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N047",
+      "split": "calibration",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|C_L|4",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N048",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|BASE|3",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 3
+    },
+    {
+      "item_id": "N049",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|O_L|1",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 4
+    },
+    {
+      "item_id": "N050",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|O_L|5",
+      "novelty_1to5": 2,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N051",
+      "split": "calibration",
+      "brand": "Unesco",
+      "claude_gen_id": "Unesco|C_L|2",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 5
+    },
+    {
+      "item_id": "N052",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id": "Roblox|N_L|0",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 5
+    },
+    {
+      "item_id": "N053",
+      "split": "calibration",
+      "brand": "Slack",
+      "claude_gen_id": "Slack|E_L|1",
+      "novelty_1to5": 5,
+      "usefulness_1to5": 1
+    },
+    {
+      "item_id": "N054",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id": "Klarna|O_L|5",
+      "novelty_1to5": 4,
+      "usefulness_1to5": 2
+    },
+    {
+      "item_id": "N055",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id": "IKEA|O_L|4",
+      "novelty_1to5": 3,
+      "usefulness_1to5": 4
+    }
+  ],
+  "pairs": [
+    {
+      "pair_item": "P001",
+      "split": "calibration",
+      "brand": "Klarna",
+      "claude_gen_id_A": "Klarna|O_H|2",
+      "claude_gen_id_B": "Klarna|E_H|5",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P002",
+      "split": "calibration",
+      "brand": "Unesco",
+      "claude_gen_id_A": "Unesco|C_L|2",
+      "claude_gen_id_B": "Unesco|A_L|1",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P003",
+      "split": "calibration",
+      "brand": "IKEA",
+      "claude_gen_id_A": "IKEA|C_H|5",
+      "claude_gen_id_B": "IKEA|N_H|3",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P004",
+      "split": "calibration",
+      "brand": "IKEA",
+      "claude_gen_id_A": "IKEA|C_L|0",
+      "claude_gen_id_B": "IKEA|E_L|4",
+      "more_novel": "B"
+    },
+    {
+      "pair_item": "P005",
+      "split": "calibration",
+      "brand": "Klarna",
+      "claude_gen_id_A": "Klarna|A_L|2",
+      "claude_gen_id_B": "Klarna|N_L|4",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P006",
+      "split": "calibration",
+      "brand": "Slack",
+      "claude_gen_id_A": "Slack|C_L|4",
+      "claude_gen_id_B": "Slack|E_L|1",
+      "more_novel": "SIMILAR"
+    },
+    {
+      "pair_item": "P007",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id_A": "IKEA|N_L|4",
+      "claude_gen_id_B": "IKEA|O_H|4",
+      "more_novel": "B"
+    },
+    {
+      "pair_item": "P008",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id_A": "Unesco|C_L|1",
+      "claude_gen_id_B": "Unesco|A_H|3",
+      "more_novel": "SIMILAR"
+    },
+    {
+      "pair_item": "P009",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id_A": "Klarna|A_H|4",
+      "claude_gen_id_B": "Klarna|O_L|5",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P010",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id_A": "Slack|N_H|2",
+      "claude_gen_id_B": "Slack|E_H|1",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P011",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id_A": "Klarna|BASE|2",
+      "claude_gen_id_B": "Klarna|E_H|0",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P012",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id_A": "Slack|BASE|3",
+      "claude_gen_id_B": "Slack|N_H|2",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P013",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id_A": "Slack|O_H|2",
+      "claude_gen_id_B": "Slack|BASE|0",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P014",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id_A": "Roblox|C_H|5",
+      "claude_gen_id_B": "Roblox|A_L|0",
+      "more_novel": "B"
+    },
+    {
+      "pair_item": "P015",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id_A": "Klarna|C_H|5",
+      "claude_gen_id_B": "Klarna|O_H|1",
+      "more_novel": "B"
+    },
+    {
+      "pair_item": "P016",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id_A": "IKEA|N_L|2",
+      "claude_gen_id_B": "IKEA|A_L|3",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P017",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id_A": "Unesco|BASE|3",
+      "claude_gen_id_B": "Unesco|O_L|5",
+      "more_novel": "SIMILAR"
+    },
+    {
+      "pair_item": "P018",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id_A": "Roblox|C_H|1",
+      "claude_gen_id_B": "Roblox|E_L|1",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P019",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id_A": "Unesco|A_H|0",
+      "claude_gen_id_B": "Unesco|E_H|1",
+      "more_novel": "B"
+    },
+    {
+      "pair_item": "P020",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id_A": "Slack|O_H|1",
+      "claude_gen_id_B": "Slack|C_L|1",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P021",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id_A": "Roblox|N_L|3",
+      "claude_gen_id_B": "Roblox|N_H|1",
+      "more_novel": "B"
+    },
+    {
+      "pair_item": "P022",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id_A": "Unesco|O_H|4",
+      "claude_gen_id_B": "Unesco|E_L|5",
+      "more_novel": "B"
+    },
+    {
+      "pair_item": "P023",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id_A": "IKEA|E_L|4",
+      "claude_gen_id_B": "IKEA|O_L|4",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P024",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id_A": "Roblox|A_L|3",
+      "claude_gen_id_B": "Roblox|N_L|0",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P025",
+      "split": "test",
+      "brand": "Unesco",
+      "claude_gen_id_A": "Unesco|O_L|1",
+      "claude_gen_id_B": "Unesco|A_L|3",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P026",
+      "split": "test",
+      "brand": "Klarna",
+      "claude_gen_id_A": "Klarna|N_H|3",
+      "claude_gen_id_B": "Klarna|N_L|4",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P027",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id_A": "Roblox|N_H|1",
+      "claude_gen_id_B": "Roblox|O_L|1",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P028",
+      "split": "test",
+      "brand": "Roblox",
+      "claude_gen_id_A": "Roblox|E_H|3",
+      "claude_gen_id_B": "Roblox|BASE|2",
+      "more_novel": "A"
+    },
+    {
+      "pair_item": "P029",
+      "split": "test",
+      "brand": "IKEA",
+      "claude_gen_id_A": "IKEA|C_L|0",
+      "claude_gen_id_B": "IKEA|A_H|0",
+      "more_novel": "SIMILAR"
+    },
+    {
+      "pair_item": "P030",
+      "split": "test",
+      "brand": "Slack",
+      "claude_gen_id_A": "Slack|C_H|2",
+      "claude_gen_id_B": "Slack|O_L|4",
+      "more_novel": "A"
+    }
+  ]
+}
