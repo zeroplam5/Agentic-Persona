@@ -1,0 +1,49 @@
+{
+ "sets": [
+  "Dior|BASE|0",
+  "Dior|BASE|1",
+  "Dior|BASE|2",
+  "Dior|BASE|3",
+  "Dior|SB_O_H|2",
+  "Dior|SB_O_L|0",
+  "Dior|SB_AVG|3",
+  "Dior|LK_O_H|1",
+  "Canva|BASE|0",
+  "Canva|BASE|1",
+  "Canva|BASE|2",
+  "Canva|BASE|3",
+  "Canva|SB_O_H|2",
+  "Canva|LK_O_H|3",
+  "Canva|LK_O_H|2",
+  "Canva|SB_O_L|3",
+  "Mastercard|BASE|0",
+  "Mastercard|BASE|1",
+  "Mastercard|BASE|2",
+  "Mastercard|BASE|3",
+  "Mastercard|SB_AVG|2",
+  "Mastercard|SB_O_L|0",
+  "Mastercard|SB_O_H|0",
+  "Mastercard|SB_O_H|1"
+ ],
+ "arms": [
+  "BASELINE",
+  "LEDGER",
+  "FOCUS",
+  "NEUTRAL"
+ ],
+ "reps": 3,
+ "human_coding_sets": [
+  "Dior|BASE|0",
+  "Dior|BASE|2",
+  "Dior|SB_AVG|3",
+  "Dior|SB_O_H|2",
+  "Canva|BASE|2",
+  "Canva|BASE|3",
+  "Canva|LK_O_H|2",
+  "Canva|LK_O_H|3",
+  "Mastercard|BASE|2",
+  "Mastercard|BASE|3",
+  "Mastercard|SB_O_H|0",
+  "Mastercard|SB_O_H|1"
+ ]
+}

@@ -1,0 +1,7 @@
+﻿item,브랜드,선택 후보,LLM Q1,A Q1,B Q1,LLM Q2,A Q2,B Q2,LLM 다른 후보 요소(개수),A 다른 후보 요소,B 다른 후보 요소
+K76ae7bcf,Dior,C3,D,C,D,yes,yes,yes,있음(2),있음,있음
+Kf4f133f2,Mastercard,C3,A3,A3,A3,yes,yes,yes,없음(0),없음,없음
+K6bced7aa,Mastercard,C4,C,H,C,yes,partial,yes,있음(1),없음,없음
+K4cffff2c,Canva,C4,D,D,D,yes,yes,yes,있음(2),없음,있음
+Keccfcb28,Canva,C1,B,B,B,yes,yes,yes,있음(2),없음,있음
+K0f4e4be9,Dior,C2,E,D,E,yes,yes,yes,있음(1),있음,없음

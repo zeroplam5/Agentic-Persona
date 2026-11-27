@@ -1,0 +1,28 @@
+Brand: [BRAND] (category: [CATEGORY])
+Topic from the client: [TOPIC]
+
+You are continuing an idea development worksheet for one campaign for this brand on this topic. Four candidate campaign directions have already been written:
+
+[CANDIDATES]
+
+The selection section is already complete:
+
+[SELECTION]
+
+Complete the remaining sections of the worksheet:
+
+1. element_review: before revising, separate the core of the recommended idea from anything you might add to it.
+   - selected_core_idea: one sentence stating the core idea of the recommended candidate that the final proposal must keep.
+   - candidate_elements: every element you are considering adding that is not already in the recommended candidate, whether it comes from another candidate (give its id) or is new (source "new"). For each, state what the element is, where it comes from, what it would do for the recommended direction or for the client's brief, whether you include it, and why. Combining ideas is allowed and can be valuable. Include an element when the recommended direction or the brief needs it, and leave it out when it does not. An included element should support the core idea, not replace it. Use an empty list if you are not considering any additions.
+2. revisions_after_selection: changes made to the recommended idea after reviewing it, with the reason for each. Use an empty list if there are none.
+3. final_proposal: the recommended idea written for a human reader (at most 150 words), plus exactly 3 open questions that would help the reader develop further ideas of their own.
+
+Write in English. Return these sections as a single JSON object with this structure and nothing else:
+{
+  "element_review": {
+    "selected_core_idea": "...",
+    "candidate_elements": [{"element": "...", "source": "C? or new", "purpose": "...", "include": true, "reason": "..."}]
+  },
+  "revisions_after_selection": [{"change": "...", "reason": "..."}],
+  "final_proposal": {"title": "...", "idea": "...", "follow_up_questions": ["...", "...", "..."]}
+}

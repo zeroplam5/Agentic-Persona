@@ -1,0 +1,7 @@
+﻿item,item_id,set,brand,arm,absorb_plan_set,in_existing_48_sheet,overlaps_calibration_9,note,reason
+K0f4e4be9,Dior|BASE|0|BASELINE|r1,Dior|BASE|0,Dior,BASELINE,no,yes,no,r1 (기존 48건 시트에 있음),"Dior BASE|0, BASELINE, LLM 다른 후보 요소 1"
+K76ae7bcf,Dior|SB_O_H|2|FOCUS|r1,Dior|SB_O_H|2,Dior,FOCUS,yes,yes,no,r1 (기존 48건 시트에 있음),"Dior SB_O_H|2 (흡수 계획), FOCUS, LLM 2"
+K4cffff2c,Canva|BASE|3|LEDGER|r1,Canva|BASE|3,Canva,LEDGER,no,yes,no,r1 (기존 48건 시트에 있음),"Canva BASE|3, LEDGER, LLM 2"
+Keccfcb28,Canva|BASE|2|NEUTRAL|r1,Canva|BASE|2,Canva,NEUTRAL,yes,yes,no,r1 (기존 48건 시트에 있음),"Canva BASE|2 (흡수 계획), NEUTRAL, LLM 2"
+Kf4f133f2,Mastercard|SB_O_H|0|NEUTRAL|r1,Mastercard|SB_O_H|0,Mastercard,NEUTRAL,no,yes,no,r1 (기존 48건 시트에 있음),"Mastercard SB_O_H|0, NEUTRAL, LLM 0"
+K6bced7aa,Mastercard|BASE|3|FOCUS|r1,Mastercard|BASE|3,Mastercard,FOCUS,no,yes,no,r1 (기존 48건 시트에 있음),"Mastercard BASE|3, FOCUS, LLM 1"

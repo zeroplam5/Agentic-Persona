@@ -1,0 +1,366 @@
+{
+ "n_sets": 24,
+ "n_items": 72,
+ "coder_vs_manual_main_exact": "22/24",
+ "coder_vs_manual_main_family": "22/24",
+ "coder_vs_manual_disagreements": [
+  [
+   "Canva|SB_O_L|3",
+   "D",
+   "G"
+  ],
+  [
+   "Mastercard|SB_AVG|2",
+   "B",
+   "C"
+  ]
+ ],
+ "selection_same_original_candidate_as_v3": 23,
+ "selection_presented_position": {
+  "C1": 4,
+  "C2": 8,
+  "C3": 5,
+  "C4": 7
+ },
+ "selection_original_position": {
+  "C1": 15,
+  "C2": 2,
+  "C3": 3,
+  "C4": 4
+ },
+ "per_arm": {
+  "BASELINE": {
+   "n": 24,
+   "retained": {
+    "yes": 24
+   },
+   "main_eq_selected_code": 23,
+   "main_eq_selected_family": 23,
+   "added_mean": 2.79,
+   "added_from_other_cand_mean": 0.75,
+   "added_from_other_cand_total": 18,
+   "added_main_role_total": 0,
+   "safeguards_mean": 1.54,
+   "B_mean": 4.08,
+   "F_mean": 3.79,
+   "L_mean": 4.08,
+   "recurring": {
+    "MARK": {
+     "imported": 1,
+     "in_final": 5,
+     "in_selected": 4,
+     "n": 8
+    },
+    "EMPLOYER_KIT": {
+     "imported": 3,
+     "in_final": 7,
+     "in_selected": 4,
+     "n": 8
+    },
+    "KEEPSAKE": {
+     "imported": 0,
+     "in_final": 4,
+     "in_selected": 4,
+     "n": 8
+    },
+    "MERCHANT_RECOGNITION": {
+     "imported": 1,
+     "in_final": 4,
+     "in_selected": 3,
+     "n": 8
+    },
+    "PAID_INVITATION": {
+     "imported": 0,
+     "in_final": 3,
+     "in_selected": 3,
+     "n": 8
+    }
+   },
+   "final_main_by_brand": {
+    "Dior": {
+     "dist": {
+      "A": 3,
+      "D": 2,
+      "E": 1,
+      "F": 1,
+      "C": 1
+     },
+     "hhi": 0.25
+    },
+    "Canva": {
+     "dist": {
+      "A": 3,
+      "D": 3,
+      "B": 1,
+      "H": 1
+     },
+     "hhi": 0.312
+    },
+    "Mastercard": {
+     "dist": {
+      "B": 3,
+      "A3": 3,
+      "C": 2
+     },
+     "hhi": 0.344
+    }
+   },
+   "output_tokens_mean": 998.5,
+   "output_tokens_sum": 23963,
+   "cost_usd_mean": 0.0212,
+   "cost_usd_sum": 0.5082,
+   "elapsed_s_mean": 10.7,
+   "elapsed_s_sum": 256.74,
+   "n_revisions_mean": 4.5,
+   "n_revisions_sum": null,
+   "final_words_mean": 117.9,
+   "final_words_sum": null,
+   "thinking_blocks_mean": 0,
+   "thinking_blocks_sum": null
+  },
+  "REVIEW": {
+   "n": 24,
+   "retained": {
+    "yes": 24
+   },
+   "main_eq_selected_code": 23,
+   "main_eq_selected_family": 23,
+   "added_mean": 3.62,
+   "added_from_other_cand_mean": 1.5,
+   "added_from_other_cand_total": 36,
+   "added_main_role_total": 0,
+   "safeguards_mean": 1.83,
+   "B_mean": 4.17,
+   "F_mean": 4,
+   "L_mean": 4.17,
+   "recurring": {
+    "MARK": {
+     "imported": 3,
+     "in_final": 7,
+     "in_selected": 4,
+     "n": 8
+    },
+    "EMPLOYER_KIT": {
+     "imported": 4,
+     "in_final": 8,
+     "in_selected": 4,
+     "n": 8
+    },
+    "KEEPSAKE": {
+     "imported": 1,
+     "in_final": 6,
+     "in_selected": 5,
+     "n": 8
+    },
+    "MERCHANT_RECOGNITION": {
+     "imported": 0,
+     "in_final": 3,
+     "in_selected": 3,
+     "n": 8
+    },
+    "PAID_INVITATION": {
+     "imported": 0,
+     "in_final": 4,
+     "in_selected": 4,
+     "n": 8
+    }
+   },
+   "final_main_by_brand": {
+    "Dior": {
+     "dist": {
+      "A": 3,
+      "D": 2,
+      "E": 1,
+      "F": 1,
+      "C": 1
+     },
+     "hhi": 0.25
+    },
+    "Canva": {
+     "dist": {
+      "A": 3,
+      "D": 3,
+      "B": 1,
+      "H": 1
+     },
+     "hhi": 0.312
+    },
+    "Mastercard": {
+     "dist": {
+      "B": 3,
+      "A3": 3,
+      "C": 2
+     },
+     "hhi": 0.344
+    }
+   },
+   "output_tokens_mean": 2418.8,
+   "output_tokens_sum": 58050,
+   "cost_usd_mean": 0.0364,
+   "cost_usd_sum": 0.874,
+   "elapsed_s_mean": 20.4,
+   "elapsed_s_sum": 489.99,
+   "n_revisions_mean": 5.2,
+   "n_revisions_sum": null,
+   "final_words_mean": 119.8,
+   "final_words_sum": null,
+   "thinking_blocks_mean": 0.1,
+   "thinking_blocks_sum": null,
+   "ledger_n_total": 172,
+   "ledger_included_total": 113,
+   "ledger_from_other_cand_total": 99,
+   "ledger_from_other_cand_included_total": 48
+  },
+  "V3_ORIGINAL": {
+   "n": 24,
+   "retained": {
+    "yes": 24
+   },
+   "main_eq_selected_code": 23,
+   "main_eq_selected_family": 23,
+   "added_mean": 3.25,
+   "added_from_other_cand_mean": 1.04,
+   "added_from_other_cand_total": 25,
+   "added_main_role_total": 0,
+   "safeguards_mean": 1.17,
+   "B_mean": 4.12,
+   "F_mean": 3.88,
+   "L_mean": 4.12,
+   "recurring": {
+    "MARK": {
+     "imported": 4,
+     "in_final": 8,
+     "in_selected": 4,
+     "n": 8
+    },
+    "EMPLOYER_KIT": {
+     "imported": 4,
+     "in_final": 8,
+     "in_selected": 4,
+     "n": 8
+    },
+    "KEEPSAKE": {
+     "imported": 3,
+     "in_final": 6,
+     "in_selected": 3,
+     "n": 8
+    },
+    "MERCHANT_RECOGNITION": {
+     "imported": 0,
+     "in_final": 3,
+     "in_selected": 3,
+     "n": 8
+    },
+    "PAID_INVITATION": {
+     "imported": 0,
+     "in_final": 4,
+     "in_selected": 4,
+     "n": 8
+    }
+   },
+   "final_main_by_brand": {
+    "Dior": {
+     "dist": {
+      "A": 3,
+      "D": 2,
+      "E": 1,
+      "F": 1,
+      "C": 1
+     },
+     "hhi": 0.25
+    },
+    "Canva": {
+     "dist": {
+      "A": 3,
+      "D": 2,
+      "B": 1,
+      "H": 1,
+      "G": 1
+     },
+     "hhi": 0.25
+    },
+    "Mastercard": {
+     "dist": {
+      "B": 3,
+      "A3": 3,
+      "C": 2
+     },
+     "hhi": 0.344
+    }
+   }
+  }
+ },
+ "paired": {
+  "n_added": {
+   "mean_diff_review_minus_baseline": 0.833,
+   "review_higher": 17,
+   "review_lower": 3,
+   "ties": 4,
+   "sign_test_p": 0.0026
+  },
+  "n_added_from_other_cand": {
+   "mean_diff_review_minus_baseline": 0.75,
+   "review_higher": 15,
+   "review_lower": 2,
+   "ties": 7,
+   "sign_test_p": 0.0023
+  },
+  "safeguards_added": {
+   "mean_diff_review_minus_baseline": 0.292,
+   "review_higher": 8,
+   "review_lower": 4,
+   "ties": 12,
+   "sign_test_p": 0.3877
+  },
+  "B": {
+   "mean_diff_review_minus_baseline": 0.083,
+   "review_higher": 2,
+   "review_lower": 0,
+   "ties": 22,
+   "sign_test_p": 0.5
+  },
+  "F": {
+   "mean_diff_review_minus_baseline": 0.208,
+   "review_higher": 6,
+   "review_lower": 1,
+   "ties": 17,
+   "sign_test_p": 0.125
+  },
+  "L": {
+   "mean_diff_review_minus_baseline": 0.083,
+   "review_higher": 3,
+   "review_lower": 1,
+   "ties": 20,
+   "sign_test_p": 0.625
+  },
+  "recurring_imported_pairs(baseline,review)": {
+   "MARK": {
+    "00": 5,
+    "01": 2,
+    "11": 1
+   },
+   "EMPLOYER_KIT": {
+    "00": 4,
+    "01": 1,
+    "11": 3
+   },
+   "KEEPSAKE": {
+    "01": 1,
+    "00": 7
+   },
+   "MERCHANT_RECOGNITION": {
+    "00": 7,
+    "10": 1
+   },
+   "PAID_INVITATION": {
+    "00": 8
+   }
+  }
+ },
+ "selection_calls": {
+  "n": 24,
+  "cost_sum": 0.4266,
+  "output_tokens_sum": 26219,
+  "elapsed_sum": 275.6
+ }
+}

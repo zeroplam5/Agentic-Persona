@@ -1,0 +1,32 @@
+Brand: [BRAND]
+Client topic: [TOPIC]
+
+Four candidate campaign directions were written for this brief. Candidate [SELECTED] was chosen and then developed into the final proposal below.
+
+Candidates:
+[CANDIDATES]
+
+Final proposal:
+Title: [TITLE]
+[IDEA]
+
+Codebook of core mechanisms for this brief (what the idea does to address the topic):
+[CODEBOOK]
+
+Recurring elements to check:
+[ELEMENTS]
+
+Tasks:
+1. final_main_code: the codebook category that best names the CORE mechanism of the final proposal (judge from the title and the main line of the idea, not from supporting details). Use "Z" if none fits.
+2. selected_core_retained: does the final proposal keep the core idea of candidate [SELECTED] as its main idea? "yes", "partial" (kept but a different mechanism now leads, or the core is diluted), or "no".
+3. added_elements: substantive elements of the final proposal that are NOT present in candidate [SELECTED] (devices, rituals, channels, audiences, partner programmes, products). Do not list wording, tone, or risk safeguards (privacy, opt-in, pilot scope, disclaimers). For each: a short description, "similar_in": the id of another candidate whose text contains a clearly similar element, or "none", and "role": "main" if it now leads the proposal, otherwise "auxiliary".
+4. safeguards_added: the number of risk safeguards in the final proposal that are not in candidate [SELECTED].
+5. recurring: for each recurring element, whether it is present in candidate [SELECTED] and whether it is present in the final proposal.
+
+Judge only from the texts shown. Similar wording alone does not make two elements the same; compare what the element does.
+
+Return only JSON:
+{"final_main_code": "...", "selected_core_retained": "yes|partial|no", "retained_reason": "<one sentence>",
+ "added_elements": [{"element": "...", "similar_in": "C? or none", "role": "auxiliary|main"}],
+ "safeguards_added": 0,
+ "recurring": {[RECURRING_KEYS]}}

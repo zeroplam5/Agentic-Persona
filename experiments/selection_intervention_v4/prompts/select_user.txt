@@ -1,0 +1,15 @@
+Brand: [BRAND] (category: [CATEGORY])
+Topic from the client: [TOPIC]
+
+You are continuing an idea development worksheet for one campaign for this brand on this topic. Four candidate campaign directions have already been written:
+
+[CANDIDATES]
+
+Complete the next section of the worksheet:
+
+selection: which candidate is recommended and why, and for every other candidate why it was not recommended.
+
+Write in English. Return the section as a single JSON object with this structure and nothing else:
+{
+  "selection": {"selected_id": "C?", "reasons_for_selection": ["..."], "rejected": [{"id": "C?", "reason": "..."}]}
+}

@@ -1,0 +1,20 @@
+{
+  "study": "selection_focus_pilot_v5",
+  "status": "exploratory pilot. Follow-up to ../selection_intervention_v4 (BASELINE vs element-review ledger), which builds on the prior Dior stage analysis.",
+  "seed": 20261124,
+  "source": "candidate sets, shuffled presentation order and shared selection records are taken unchanged from ../selection_intervention_v4 (logs/plan.json, data/select.jsonl). No new candidate generation or selection calls.",
+  "arms": ["BASELINE", "LEDGER", "FOCUS", "NEUTRAL"],
+  "arm_prompts": {"BASELINE": "prompts/revise_BASELINE_user.txt (byte-identical to v4 revise_baseline_user.txt)",
+                  "LEDGER": "prompts/revise_LEDGER_user.txt (byte-identical to v4 revise_intervention_user.txt, the v4 REVIEW arm)",
+                  "FOCUS": "prompts/revise_FOCUS_user.txt (new)",
+                  "NEUTRAL": "prompts/revise_NEUTRAL_user.txt (new; output-volume control without element listing)"},
+  "reps": 3,
+  "persona": "BASE (common system prompt only, no persona block) for every call",
+  "generator": "inherited from ../pilot_v3_structured/config.json: claude-sonnet-5-5 via Claude CLI 2.1.141, effort high, MAX_THINKING_TOKENS 8000, CLAUDE_CODE_MAX_OUTPUT_TOKENS 16000, per-call cap $0.6, temperature not settable",
+  "isolated_cwd": "C:\\Users\\micro\\AppData\\Local\\Temp\\claude\\71814c7429ac7aa5\\474ac0fd-0413-4b48-8163-6bf5ce06065d\\scratchpad\\iso_v5",
+  "coder": {"provider": "openai", "model": "gpt-6-astra", "reasoning_effort": "low", "max_output_tokens": 2500},
+  "judge": "inherited from pilot v3 (gpt-6-astra, low effort, v0 rubric, not human-calibrated)",
+  "human_coding_sets_per_brand": 4,
+  "budget_usd": {"claude_nominal": 14.0, "openai": 20.0, "gemini": 0.0},
+  "workers": 4
+}

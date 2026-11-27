@@ -1,0 +1,10 @@
+﻿item,item_id,condition,A_Q1,LLM_Q1,A_Q2,LLM_Q2,A_Q3_candidate,LLM_other_candidate_elements,A_Q4,A_Q5,A_Q6_brand,LLM_Q6_brand
+K6e0d7b70,Canva|BASE|2|LEDGER|r1,LEDGER,B,B,yes,yes,C3,"A variant commemorating a freelancer's first invoice paid [C2, auxiliary, extra] | Team signatures on the new-hire keepsake [C3, auxiliary, develops]",main,develops,EMPLOYER_KIT=1;KEEPSAKE=1,EMPLOYER_KIT=1;KEEPSAKE=1
+Kde2b84f2,Mastercard|BASE|2|BASELINE|r1,BASELINE,A3,A3,yes,yes,C4,,main,unclear,MERCHANT_RECOGNITION=1;PAID_INVITATION=0,MERCHANT_RECOGNITION=1;PAID_INVITATION=0
+Kd1fa6a9a,Canva|LK_O_H|2|NEUTRAL|r1,NEUTRAL,C,A,partial,yes,C1,"Welcome note for new hires [C1, auxiliary, extra] | Team shout-out for new hires [C1, auxiliary, extra]",main,extra,EMPLOYER_KIT=1;KEEPSAKE=1,EMPLOYER_KIT=1;KEEPSAKE=0
+Kdc93a943,Dior|SB_AVG|3|NEUTRAL|r1,NEUTRAL,C,C,yes,yes,C3,,main,develops,MARK=1,MARK=0
+K35d9fc1b,Mastercard|SB_O_H|1|BASELINE|r1,BASELINE,B,B,partial,yes,C2,"A slow, lingering Mastercard sound marking the paired-card tap [C1, auxiliary, extra]",auxiliary,extra,MERCHANT_RECOGNITION=0;PAID_INVITATION=1,MERCHANT_RECOGNITION=1;PAID_INVITATION=1
+K397eccb7,Dior|SB_AVG|3|LEDGER|r1,LEDGER,C,C,yes,yes,C3,"Optional signature mend, such as a tone-on-tone cannage darn [C3, auxiliary, extra] | Client stories shared as short portraits [C4, auxiliary, extra]",main,develops,MARK=1,MARK=1
+K46cb224f,Mastercard|BASE|3|NEUTRAL|r1,NEUTRAL,H,C,yes,yes,C1,"Partner cafes and restaurants host the meetups. [C1, auxiliary, develops]",auxiliary,needed,MERCHANT_RECOGNITION=0;PAID_INVITATION=1,MERCHANT_RECOGNITION=0;PAID_INVITATION=0
+K0b6dfe7c,Mastercard|BASE|2|LEDGER|r1,LEDGER,A3,A3,partial,yes,C4,,main,needed,MERCHANT_RECOGNITION=1;PAID_INVITATION=0,MERCHANT_RECOGNITION=1;PAID_INVITATION=0
+K479c22c0,Canva|LK_O_H|3|BASELINE|r1,BASELINE,C,A,yes,yes,C1,"Send the personalised payslip keepsake to the person who helped the earner get there. [C4, auxiliary, extra]",main,extra,EMPLOYER_KIT=1;KEEPSAKE=1,EMPLOYER_KIT=1;KEEPSAKE=1

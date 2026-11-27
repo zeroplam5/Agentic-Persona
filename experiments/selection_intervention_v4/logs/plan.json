@@ -1,0 +1,338 @@
+[
+ {
+  "set_id": "Dior|BASE|0",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   4,
+   1,
+   3,
+   2
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Dior|BASE|1",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   3,
+   1,
+   2,
+   4
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Dior|BASE|2",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   2,
+   4,
+   3,
+   1
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Dior|BASE|3",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   4,
+   3,
+   2,
+   1
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Dior|SB_O_H|2",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "SB_O_H",
+  "presented_order_original_pos": [
+   2,
+   4,
+   3,
+   1
+  ],
+  "v3_selected_original_id": "C3"
+ },
+ {
+  "set_id": "Dior|SB_O_L|0",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "SB_O_L",
+  "presented_order_original_pos": [
+   1,
+   4,
+   2,
+   3
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Dior|SB_AVG|3",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "SB_AVG",
+  "presented_order_original_pos": [
+   2,
+   4,
+   1,
+   3
+  ],
+  "v3_selected_original_id": "C4"
+ },
+ {
+  "set_id": "Dior|LK_O_H|1",
+  "brand": "Dior",
+  "category": "Fashion, Apparel & Footwear",
+  "topic": "repair and reuse",
+  "source_condition": "LK_O_H",
+  "presented_order_original_pos": [
+   4,
+   2,
+   1,
+   3
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Canva|BASE|0",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   2,
+   1,
+   3,
+   4
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Canva|BASE|1",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   1,
+   4,
+   2,
+   3
+  ],
+  "v3_selected_original_id": "C3"
+ },
+ {
+  "set_id": "Canva|BASE|2",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   1,
+   2,
+   4,
+   3
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Canva|BASE|3",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   2,
+   1,
+   3,
+   4
+  ],
+  "v3_selected_original_id": "C4"
+ },
+ {
+  "set_id": "Canva|SB_O_H|2",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "SB_O_H",
+  "presented_order_original_pos": [
+   1,
+   4,
+   2,
+   3
+  ],
+  "v3_selected_original_id": "C4"
+ },
+ {
+  "set_id": "Canva|LK_O_H|3",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "LK_O_H",
+  "presented_order_original_pos": [
+   3,
+   4,
+   1,
+   2
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Canva|LK_O_H|2",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "LK_O_H",
+  "presented_order_original_pos": [
+   3,
+   1,
+   2,
+   4
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Canva|SB_O_L|3",
+  "brand": "Canva",
+  "category": "B2B, SaaS & Productivity",
+  "topic": "the first paycheck",
+  "source_condition": "SB_O_L",
+  "presented_order_original_pos": [
+   4,
+   2,
+   1,
+   3
+  ],
+  "v3_selected_original_id": "C2"
+ },
+ {
+  "set_id": "Mastercard|BASE|0",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   2,
+   1,
+   4,
+   3
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Mastercard|BASE|1",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   1,
+   4,
+   3,
+   2
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Mastercard|BASE|2",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   2,
+   1,
+   3,
+   4
+  ],
+  "v3_selected_original_id": "C2"
+ },
+ {
+  "set_id": "Mastercard|BASE|3",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "BASE",
+  "presented_order_original_pos": [
+   2,
+   1,
+   3,
+   4
+  ],
+  "v3_selected_original_id": "C4"
+ },
+ {
+  "set_id": "Mastercard|SB_AVG|2",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "SB_AVG",
+  "presented_order_original_pos": [
+   3,
+   1,
+   4,
+   2
+  ],
+  "v3_selected_original_id": "C2"
+ },
+ {
+  "set_id": "Mastercard|SB_O_L|0",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "SB_O_L",
+  "presented_order_original_pos": [
+   2,
+   1,
+   3,
+   4
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Mastercard|SB_O_H|0",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "SB_O_H",
+  "presented_order_original_pos": [
+   4,
+   2,
+   1,
+   3
+  ],
+  "v3_selected_original_id": "C1"
+ },
+ {
+  "set_id": "Mastercard|SB_O_H|1",
+  "brand": "Mastercard",
+  "category": "Finance, Fintech & Insurance",
+  "topic": "loneliness",
+  "source_condition": "SB_O_H",
+  "presented_order_original_pos": [
+   1,
+   2,
+   4,
+   3
+  ],
+  "v3_selected_original_id": "C3"
+ }
+]

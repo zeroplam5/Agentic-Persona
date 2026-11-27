@@ -1,0 +1,34 @@
+Brand: [BRAND] (category: [CATEGORY])
+Topic from the client: [TOPIC]
+
+You are continuing an idea development worksheet for one campaign for this brand on this topic. Four candidate campaign directions have already been written:
+
+[CANDIDATES]
+
+The selection section is already complete:
+
+[SELECTION]
+
+Complete the remaining sections of the worksheet:
+
+1. focus_check: before revising, write down what the recommended candidate is for and what it needs in order to work.
+   - core_purpose: one sentence stating the problem in the client's brief that the recommended candidate addresses, and for whom.
+   - core_direction: one sentence stating how the recommended candidate addresses it. The final proposal must keep this direction.
+   - required_elements: the elements the recommended direction needs in order to achieve its core purpose, whether they are already in the recommended candidate or new. For each, state what it does for the core purpose.
+   - development_plan: how you will develop the recommended direction further, for example by making it sharper, more concrete or more feasible.
+   - borrowed_elements: if you decide to bring in an element from another candidate, give the element, its candidate id and why the recommended direction needs it. Combining is allowed when it serves the core purpose. You do not need to list or review the other candidates' elements. Use an empty list if you bring in none.
+2. revisions_after_selection: changes made to the recommended idea after reviewing it, with the reason for each. Use an empty list if there are none.
+3. final_proposal: the recommended idea written for a human reader (at most 150 words), plus exactly 3 open questions that would help the reader develop further ideas of their own.
+
+Write in English. Return these sections as a single JSON object with this structure and nothing else:
+{
+  "focus_check": {
+    "core_purpose": "...",
+    "core_direction": "...",
+    "required_elements": [{"element": "...", "in_recommended_candidate": true, "what_it_does": "..."}],
+    "development_plan": "...",
+    "borrowed_elements": [{"element": "...", "source": "C?", "why_needed": "..."}]
+  },
+  "revisions_after_selection": [{"change": "...", "reason": "..."}],
+  "final_proposal": {"title": "...", "idea": "...", "follow_up_questions": ["...", "...", "..."]}
+}

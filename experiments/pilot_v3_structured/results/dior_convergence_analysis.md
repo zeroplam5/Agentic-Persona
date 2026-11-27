@@ -234,6 +234,55 @@ A를 고른 19실행의 수정도 같은 장치 묶음으로 모인다. 아래 �
 
 참고 수치: 최종안 쌍의 평균 코사인은 같은 묶음 0.855, 다른 묶음 0.779다. 다른 묶음 쌍도 0.78로 높아서, 코사인만으로는 같은 발상과 다른 발상을 가르기 어렵다.
 
+### 4.5 표식이 "메인"인 안과 "디테일"인 안: 언제 비슷해졌나
+
+수선 표식이 최종안에서 어떤 역할을 하는지, 그리고 표식이 어느 단계에서 처음 기록에 나타나는지로 구조화 28실행과 NODEDUP 4건을 나눴다. 각 실행의 선택 후보(`candidates[*].core_idea`), 제외 사유(`selection.rejected`), 수정 기록(`revisions_after_selection`), 최종안(`final_proposal.idea`)을 원문으로 확인했다. 추출 스크립트는 스크래치(markpos.py, candmark.py)로 돌렸고 저장소에는 넣지 않았다.
+
+| 유형 | 표식의 역할 | 표식이 처음 나타난 단계 | 실행 |
+|---|---|---|---|
+| ① 메인 | 핵심 발상 자체(제목이나 첫 1–3문장) | 후보 생성 → 선택 | 구조화 19 (A 선택) + NODEDUP 3 |
+| ② 디테일, 선택 전부터 | 다른 틀 안의 실행 요소 1문장 | **선택한 후보 원문에 이미 있음** | `BASE|3`, `LK_O_L|0` (둘 다 Second Fitting) |
+| ③ 디테일, 선택 후 추가 | 다른 틀 안의 실행 요소 1문장 | 선택 단계에서 **넣겠다고 적음** → 수정 단계에서 추가 | `BASE|1`, `SB_AVG|3`, `SB_O_H|2`, `SB_O_H|3`, `SB_O_L|1`, `LK_AVG|3` |
+| ④ 디테일, 출처 없이 추가 | 다른 틀 안의 실행 요소 1문장 | 수정 단계 (A 후보 없음) | `BASE|0` |
+| (경계) | 틀은 F, 본문은 표식 | 후보 생성 (선택·수정 없음) | `NODEDUP|0` |
+
+**유형 ②: 고를 때부터 비슷했다.**
+- `BASE|3` C1 원문: "Each finished piece gets a dated, signed 'Second Fitting' label." 수정 기록은 "Added the dated, signed 'Second Fitting' label …"이라고 적었지만, 후보 원문에 이미 있던 문장이다. **모델의 수정 기록이 실제 차이를 정확히 반영하지 않는 사례**다. 실제로 새로 들어간 것은 'named petite main'과 ledger다.
+- `LK_O_L|0` C1 원문: "each mend or alteration left deliberately visible and signed by the atelier hand." 수정에서는 표식을 '서명 라벨 + 보이게/안 보이게 선택'으로 바꿨다.
+- 다른 틀에 속한 후보(B–H) 85개 중, 생성 단계에서 장인·하우스 표식을 가진 것은 원문 확인 기준으로 4개다(`BASE|3` C1, `LK_O_L|0` C1·C4, `SB_AVG|2` C4). 이력용으로 꿰매 넣는 라벨(B류)은 별도로 4개다. 즉 생성 단계에서는 표식이 주로 A에만 있었다. F(Second Fitting)는 예외적으로 8개 중 3개가 표식을 품고 있었다.
+
+**유형 ③: 선택 단계에서 이미 "디테일로 흡수"를 계획했다.** A를 제외한 8실행(유형 ②의 2개 포함) 모두 제외 사유에 흡수 계획을 적었다.
+
+| 실행 | A를 뺀 이유 (요지) | 같은 문장 안의 흡수 계획 |
+|---|---|---|
+| `SB_O_L|1` | "visible mending is already a familiar cultural trope" | "works better as a signature element inside C3" |
+| `SB_O_H|2` | "already familiar in fashion … a styling device" | "works better as a design element inside C3" |
+| `SB_O_H|3` | "limited to aesthetics … does not solve … fear of wearing" | "better used as a detail inside the chosen idea" |
+| `LK_AVG|3` | "kintsugi-style trope that feels familiar" | "better used as an optional service layer" |
+| `BASE|1` | "a strong symbol but a narrow idea" | "works better as a supporting detail within C1" |
+| `SB_AVG|3` | "a well-worn trend … a design detail, not a platform" | "could be absorbed into C4 as a service option" |
+| `BASE|3` | "an established fashion trope" | "its best element … is absorbed into C1" |
+| `LK_O_L|0` | "familiar visible-mending aesthetic" | "works better as a craft expression inside C1" |
+
+수정 기록은 이 계획을 그대로 실행했다. 4건은 출처를 명시했다("borrowed from C1", "from C1", "borrowed C1's idea", "the C2 star").
+
+**유형 ④ `BASE|0`**: 후보 4개 중 A가 없다. 그런데도 수정 단계에서 출처 없이 "a discreet atelier thread mark or label … visible and signed"를 추가했다. 흡수가 아니라 **같은 장치가 스스로 다시 생긴** 유일한 사례다.
+
+**최종안에서 디테일의 모양**
+- 유형 ②–④의 9개 최종안에서 표식은 모두 5–8문장 중 **한 문장**이다. 위치는 3–6번째 문장이고, 제목과 첫 문장에는 없다.
+- 형태는 세 가지로 나뉜다.
+  - 꿰맨 서명·이니셜·별: `BASE|0`, `BASE|1`, `BASE|3`, `LK_O_L|0`, `SB_O_H|3`, `SB_O_L|1`, `LK_AVG|3`(선택 사항)
+  - 서명 카드: `SB_AVG|3`
+  - 원래 바느질을 보이게 두고 사연을 안에 수놓음(서명 아님): `SB_O_H|2`
+- 유형 ①과 달리 문제 관점과 제목은 원래 틀을 유지했다.
+
+**해석 범위**
+- 표식이 실행 절차에 들어간 시점은 기록상 수정 단계다. 그러나 그 결정은 **선택 단계의 제외 사유 안에서 이미 보고됐다**(8/8).
+- 따라서 "선택 후 다듬으면서 우연히 비슷해졌다"기보다는, "선택할 때 A를 핵심에서 내리되 부품으로 남기기로 하고, 수정에서 실행했다"에 가깝다. 다만 이것은 모델이 보고한 작업 기록에 근거한다. 실제 생성 과정의 원인으로 단정할 수는 없다.
+- `BASE|3`처럼 수정 기록과 후보 원문이 어긋나는 사례가 있으므로, 수정 기록만 보고 "무엇이 언제 들어왔는지"를 판정하면 안 된다. 후보 원문과 직접 비교해야 한다.
+- 지시문(`prompts/task_structured_user.txt`)은 수정 단계를 "changes made to the recommended idea after reviewing it"이라고만 정의한다. 다른 후보를 흡수하라는 지시는 없다. 따라서 흡수는 지시문이 요구한 결과가 아니라 모델이 스스로 택한 방식으로 보고된 것이다.
+- 각 유형의 실행 수가 적다(② 2, ③ 6, ④ 1). 그래서 조건별 차이는 보지 않았다.
+
 ---
 
 ## 5. 페르소나 조건별·반복별 관찰 (기술만, 추론 아님)

@@ -1,0 +1,19 @@
+﻿item,브랜드,선택 후보,다른 후보,LLM 유입,LLM 요소,A 새 유입,A 근거,B 새 유입,B 근거,A–LLM
+K76ae7bcf,Dior,C3,C1,1,A record of its story accompanying each remade piece,미기재,"시트1 있음, 시트2 비어 있음",미기재,"시트1 있음, 시트2 비어 있음",판정 불가
+K76ae7bcf,Dior,C3,C2,0,,미기재,"시트1 있음, 시트2 비어 있음",미기재,"시트1 있음, 시트2 비어 있음",판정 불가
+K76ae7bcf,Dior,C3,C4,1,An atelier mark carried by each remade piece,미기재,"시트1 있음, 시트2 비어 있음",미기재,"시트1 있음, 시트2 비어 있음",판정 불가
+Kf4f133f2,Mastercard,C3,C1,0,,0,시트1 없음,0,시트1 없음,일치
+Kf4f133f2,Mastercard,C3,C2,0,,0,시트1 없음,0,시트1 없음,일치
+Kf4f133f2,Mastercard,C3,C4,0,,0,시트1 없음,0,시트1 없음,일치
+K6bced7aa,Mastercard,C4,C1,1,Cafes and restaurants host the meetups,0,시트1 없음,0,시트1 없음,LLM만 유입
+K6bced7aa,Mastercard,C4,C2,0,,0,시트1 없음,0,시트1 없음,일치
+K6bced7aa,Mastercard,C4,C3,0,,0,시트1 없음,0,시트1 없음,일치
+K4cffff2c,Canva,C4,C1,1,First-invoice tools offered as a next step,0,시트1 없음,미기재,"시트1 있음, 시트2 비어 있음",LLM만 유입
+K4cffff2c,Canva,C4,C2,1,A Canva keepsake template for sharing the first paid work and its story,0,시트1 없음,미기재,"시트1 있음, 시트2 비어 있음",LLM만 유입
+K4cffff2c,Canva,C4,C3,0,,0,시트1 없음,미기재,"시트1 있음, 시트2 비어 있음",일치
+Keccfcb28,Canva,C1,C2,1,Social sharing of first-paycheck keepsakes,0,시트1 없음,미기재,"시트1 있음, 시트2 비어 있음",LLM만 유입
+Keccfcb28,Canva,C1,C3,1,Team-signed welcome cards delivered through Canva Teams,0,시트1 없음,미기재,"시트1 있음, 시트2 비어 있음",LLM만 유입
+Keccfcb28,Canva,C1,C4,0,,0,시트1 없음,미기재,"시트1 있음, 시트2 비어 있음",일치
+K0f4e4be9,Dior,C2,C1,0,,미기재,"시트1 있음, 시트2 비어 있음",0,시트1 없음,판정 불가
+K0f4e4be9,Dior,C2,C3,0,,미기재,"시트1 있음, 시트2 비어 있음",0,시트1 없음,판정 불가
+K0f4e4be9,Dior,C2,C4,1,Atelier hands shown performing the changes,미기재,"시트1 있음, 시트2 비어 있음",0,시트1 없음,판정 불가

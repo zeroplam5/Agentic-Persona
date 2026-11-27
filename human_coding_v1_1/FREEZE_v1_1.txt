@@ -1,0 +1,21 @@
+# v1.1 freeze (2026-11-26). Decisions: all recommended options (user approval 2026-11-26). MARK_ACT scope left open (who-mended recorded).
+e536df32786a58448d9446a3876aca0500d5676e611e9f30400272c3c541772f *CODING_GUIDE_v1_1.md
+8a61b8bdd8d97b732960280e9609f338675361a53f4369cba121ca5f9b211c9d *calibration_researcherB_9.xlsx
+2356ee9c0a4e4078f06a2a7a79e080096e954322cb53634019ac7b0ba9abe103 *main_researcherA_24.xlsx
+f8156a97e88667774594021a0371ed25587f6c2fc18654a410d5a44dc839a129 *main_researcherB_24.xlsx
+8d5ee6e30b7cd20be6004cb0a319ac14c940e09cf6dbc7c70a7abe5d3c208196 *../experiments/element_recheck_v5/build_v1_1_sheets.py
+397f37613fc5ff0c5c1a8843737a7e1736d5a7aaccc0713ffdb681abb2461e3a *../experiments/element_recheck_v5/_analyst_only_DO_NOT_SHOW_CODERS/main_sample_proposal.csv
+
+# v1.1a addendum (2026-11-26): main sample reduced to 6 (2 per brand); A required, B optional. Files above unchanged; build script updated (adds 6-item workbooks, never overwrites existing).
+3a499338f75f576f1d5edca5df9ead05d3fc19688e3849a04c4b0427bbe324af *ADDENDUM_v1_1a_sample6.md
+277327d92ed0d562a5e5f6f1a5a2867b732705af937f4760546036c982f27673 *main_researcherA_6.xlsx
+703ca038eafadecadd73d3bb63ebae31baafb78a77bb6d90795711696384c714 *main_researcherB_6.xlsx
+bcb940e8572ecd9a9823480a56c6e10297463be43342fae004ec5ba69c559cea *../experiments/element_recheck_v5/build_v1_1_sheets.py
+49398d3033e97c3760ddf575d9dceab94aedaae4f58e8bef007f1645be4b59ae *../experiments/element_recheck_v5/_analyst_only_DO_NOT_SHOW_CODERS/main_sample_6.csv
+
+# v1.1a filled (2026-11-27): both 6-item workbooks were saved in place by the coders. Filled copies preserved read-only in filled_2026-11-27/.
+# The blank originals above (277327d9…, 703ca038…) are reproducible byte-for-byte with build_v1_1_sheets.py (checked 2026-11-27).
+537f41fd49a8b5651f9ada10f90f7e3323558504f5fbab7a3ce7dbf00b0e0dd6 *filled_2026-11-27/main_researcherA_6_filled.xlsx
+ef2a3a6e73c565bc6b3da3e4b91b6ccdf085881ae5463faa7cc599f19321f63a *filled_2026-11-27/main_researcherB_6_filled.xlsx
+3d944f1160f17d797391446f08884e67d48ea6195473842f5f3863096563925c *../experiments/element_recheck_v5/compare_v1_1a.py
+d2c261fe127afb1e36d6f8efa20d096acd8776c9c8c47f07af3befb11e4e5fed *../experiments/element_recheck_v5/dump_filled_v1_1a.py

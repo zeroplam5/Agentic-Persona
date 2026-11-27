@@ -1,0 +1,31 @@
+[revise] 288 tasks, workers=4
+[revise] 10/288 cost so far: claude_nominal $0.32
+[revise] 20/288 cost so far: claude_nominal $0.69
+[revise] 30/288 cost so far: claude_nominal $1.03
+[revise] 40/288 cost so far: claude_nominal $1.39
+[revise] 50/288 cost so far: claude_nominal $1.66
+[revise] 60/288 cost so far: claude_nominal $2.00
+[revise] 70/288 cost so far: claude_nominal $2.27
+[revise] 80/288 cost so far: claude_nominal $2.52
+[revise] 90/288 cost so far: claude_nominal $2.79
+[revise] 100/288 cost so far: claude_nominal $3.16
+[revise] 110/288 cost so far: claude_nominal $3.43
+[revise] 120/288 cost so far: claude_nominal $3.73
+[revise] 130/288 cost so far: claude_nominal $3.94
+[revise] 140/288 cost so far: claude_nominal $4.23
+[revise] 150/288 cost so far: claude_nominal $4.45
+[revise] 160/288 cost so far: claude_nominal $4.75
+[revise] 170/288 cost so far: claude_nominal $5.05
+[revise] 180/288 cost so far: claude_nominal $5.28
+[revise] 190/288 cost so far: claude_nominal $5.58
+[revise] 200/288 cost so far: claude_nominal $5.88
+[revise] 210/288 cost so far: claude_nominal $6.20
+[revise] 220/288 cost so far: claude_nominal $6.45
+[revise] 230/288 cost so far: claude_nominal $6.68
+[revise] 240/288 cost so far: claude_nominal $7.02
+[revise] 250/288 cost so far: claude_nominal $7.24
+[revise] 260/288 cost so far: claude_nominal $7.51
+[revise] 270/288 cost so far: claude_nominal $7.76
+[revise] 280/288 cost so far: claude_nominal $8.05
+[revise] 288/288 cost so far: claude_nominal $8.29
+cost this session: {'claude_nominal': 8.293}

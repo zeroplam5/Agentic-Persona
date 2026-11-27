@@ -1,0 +1,16 @@
+{
+  "study": "selection_intervention_pilot_v4",
+  "status": "exploratory pilot. Builds on pilot_v3_structured records and the prior Dior stage analysis.",
+  "seed": 20261123,
+  "brands": ["Dior", "Canva", "Mastercard"],
+  "sets_per_brand": 8,
+  "sets_note": "per brand: all 4 BASE-condition candidate sets from v3 + 4 seeded random sets from the other 24 structured runs. Candidates are reused verbatim (no new generation).",
+  "arms": ["BASELINE", "REVIEW"],
+  "persona": "BASE (common system prompt only, no persona block) for every call",
+  "generator": "inherited from ../pilot_v3_structured/config.json: claude-sonnet-5-5 via Claude CLI 2.1.141, effort high, MAX_THINKING_TOKENS 8000, CLAUDE_CODE_MAX_OUTPUT_TOKENS 16000, per-call cap $0.6, temperature not settable",
+  "isolated_cwd": "C:\\Users\\micro\\AppData\\Local\\Temp\\claude\\71814c7429ac7aa5\\474ac0fd-0413-4b48-8163-6bf5ce06065d\\scratchpad\\iso_v4",
+  "coder": {"provider": "openai", "model": "gpt-6-astra", "reasoning_effort": "low", "max_output_tokens": 2500},
+  "judge": "inherited from pilot v3 (gpt-6-astra, low effort, v0 rubric, not human-calibrated)",
+  "budget_usd": {"claude_nominal": 10.0, "openai": 12.0, "gemini": 0.0},
+  "workers": 4
+}

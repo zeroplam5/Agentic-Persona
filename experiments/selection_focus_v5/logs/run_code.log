@@ -1,0 +1,34 @@
+[code] 312 tasks, workers=4
+[code] 10/312 cost so far: openai $0.31
+[code] 20/312 cost so far: openai $0.64
+[code] 30/312 cost so far: openai $0.98
+[code] 40/312 cost so far: openai $1.30
+[code] 50/312 cost so far: openai $1.62
+[code] 60/312 cost so far: openai $1.94
+[code] 70/312 cost so far: openai $2.26
+[code] 80/312 cost so far: openai $2.55
+[code] 90/312 cost so far: openai $2.87
+[code] 100/312 cost so far: openai $3.17
+[code] 110/312 cost so far: openai $3.46
+[code] 120/312 cost so far: openai $3.76
+[code] 130/312 cost so far: openai $4.06
+[code] 140/312 cost so far: openai $4.37
+[code] 150/312 cost so far: openai $4.68
+[code] 160/312 cost so far: openai $4.99
+[code] 170/312 cost so far: openai $5.32
+[code] 180/312 cost so far: openai $5.63
+[code] 190/312 cost so far: openai $5.95
+[code] 200/312 cost so far: openai $6.26
+[code] 210/312 cost so far: openai $6.59
+[code] 220/312 cost so far: openai $6.90
+[code] 230/312 cost so far: openai $7.20
+[code] 240/312 cost so far: openai $7.49
+[code] 250/312 cost so far: openai $7.81
+[code] 260/312 cost so far: openai $8.12
+[code] 270/312 cost so far: openai $8.44
+[code] 280/312 cost so far: openai $8.76
+[code] 290/312 cost so far: openai $9.07
+[code] 300/312 cost so far: openai $9.40
+[code] 310/312 cost so far: openai $9.69
+[code] 312/312 cost so far: openai $9.75
+cost this session: {'openai': 9.755}

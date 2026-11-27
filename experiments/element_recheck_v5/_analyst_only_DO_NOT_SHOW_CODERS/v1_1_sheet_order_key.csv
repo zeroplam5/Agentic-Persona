@@ -1,0 +1,40 @@
+﻿workbook,position,item,item_id,translation
+calibration_researcherB_9,1,K46cb224f,Mastercard|BASE|3|NEUTRAL|r1,기존 번역
+calibration_researcherB_9,2,K0b6dfe7c,Mastercard|BASE|2|LEDGER|r1,기존 번역
+calibration_researcherB_9,3,Kd1fa6a9a,Canva|LK_O_H|2|NEUTRAL|r1,기존 번역
+calibration_researcherB_9,4,Kde2b84f2,Mastercard|BASE|2|BASELINE|r1,기존 번역
+calibration_researcherB_9,5,K479c22c0,Canva|LK_O_H|3|BASELINE|r1,기존 번역
+calibration_researcherB_9,6,K397eccb7,Dior|SB_AVG|3|LEDGER|r1,기존 번역
+calibration_researcherB_9,7,K35d9fc1b,Mastercard|SB_O_H|1|BASELINE|r1,기존 번역
+calibration_researcherB_9,8,K6e0d7b70,Canva|BASE|2|LEDGER|r1,기존 번역
+calibration_researcherB_9,9,Kdc93a943,Dior|SB_AVG|3|NEUTRAL|r1,기존 번역
+main_24,1,Kb4a20b58,Dior|SB_O_H|2|NEUTRAL|r1,기존 번역
+main_24,2,Kb2e25b94,Dior|BASE|0|LEDGER|r1,기존 번역
+main_24,3,K375bfcb3,Mastercard|SB_O_H|0|BASELINE|r1,기존 번역
+main_24,4,K05b79a68,Canva|BASE|3|NEUTRAL|r1,기존 번역
+main_24,5,K76ae7bcf,Dior|SB_O_H|2|FOCUS|r1,기존 번역
+main_24,6,K78f58b64,Canva|BASE|3|FOCUS|r1,기존 번역
+main_24,7,K04217a61,Mastercard|SB_O_H|0|LEDGER|r1,기존 번역
+main_24,8,K6bced7aa,Mastercard|BASE|3|FOCUS|r1,기존 번역
+main_24,9,Ka72158db,Canva|BASE|2|FOCUS|r1,기존 번역
+main_24,10,K966b8ec8,Mastercard|SB_O_H|0|FOCUS|r1,기존 번역
+main_24,11,Kb4855432,Canva|BASE|2|BASELINE|r1,기존 번역
+main_24,12,K4cffff2c,Canva|BASE|3|LEDGER|r1,기존 번역
+main_24,13,K0decb709,Mastercard|BASE|3|BASELINE|r1,기존 번역
+main_24,14,K42598d05,Dior|BASE|0|NEUTRAL|r1,기존 번역
+main_24,15,Kbf48de83,Canva|BASE|3|BASELINE|r1,기존 번역
+main_24,16,Kf4f133f2,Mastercard|SB_O_H|0|NEUTRAL|r1,기존 번역
+main_24,17,K8cb983f1,Mastercard|BASE|3|NEUTRAL|r2,Claude 번역(검토 필요)
+main_24,18,K0f4e4be9,Dior|BASE|0|BASELINE|r1,기존 번역
+main_24,19,K60cca4b8,Canva|BASE|2|LEDGER|r2,Claude 번역(검토 필요)
+main_24,20,Kfb1ea198,Dior|BASE|0|FOCUS|r1,기존 번역
+main_24,21,K245f40d2,Dior|SB_O_H|2|LEDGER|r1,기존 번역
+main_24,22,Keccfcb28,Canva|BASE|2|NEUTRAL|r1,기존 번역
+main_24,23,K0832d8ab,Dior|SB_O_H|2|BASELINE|r1,기존 번역
+main_24,24,Kb1789bcb,Mastercard|BASE|3|LEDGER|r1,기존 번역
+main_6,1,K76ae7bcf,Dior|SB_O_H|2|FOCUS|r1,기존 번역
+main_6,2,Kf4f133f2,Mastercard|SB_O_H|0|NEUTRAL|r1,기존 번역
+main_6,3,K6bced7aa,Mastercard|BASE|3|FOCUS|r1,기존 번역
+main_6,4,K4cffff2c,Canva|BASE|3|LEDGER|r1,기존 번역
+main_6,5,Keccfcb28,Canva|BASE|2|NEUTRAL|r1,기존 번역
+main_6,6,K0f4e4be9,Dior|BASE|0|BASELINE|r1,기존 번역

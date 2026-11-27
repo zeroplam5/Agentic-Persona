@@ -1,0 +1,13 @@
+﻿item,브랜드,칸,LLM,A,B
+K76ae7bcf,Dior,MARK,1,0,1
+K76ae7bcf,Dior,MARK_ACT (LLM 없음),,1 / 장인·아틀리에 직원,0 / 
+Kf4f133f2,Mastercard,MERCHANT_RECOGNITION,1,1,1
+Kf4f133f2,Mastercard,PAID_INVITATION,0,0,0
+K6bced7aa,Mastercard,MERCHANT_RECOGNITION,0,0,0
+K6bced7aa,Mastercard,PAID_INVITATION,0,1,0
+K4cffff2c,Canva,EMPLOYER_KIT,1,1,1
+K4cffff2c,Canva,KEEPSAKE,1,0,1
+Keccfcb28,Canva,EMPLOYER_KIT,1,1,1
+Keccfcb28,Canva,KEEPSAKE,1,1,1
+K0f4e4be9,Dior,MARK,0,0,0
+K0f4e4be9,Dior,MARK_ACT (LLM 없음),,1 / 장인·아틀리에 직원,0 / 
